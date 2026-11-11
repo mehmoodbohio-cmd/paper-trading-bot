@@ -72,5 +72,8 @@ def currency(ticker):
 
 def pretty(ticker):
     """BTC-USD -> BTC, PEPE24478-USD -> PEPE, SAP.DE -> SAP"""
+    names = {"^GDAXI": "DAX", "SPY": "S&P 500", "EURUSD=X": "EUR/USD"}
+    if ticker in names:
+        return names[ticker]
     t = ticker.replace("-USD", "").replace(".DE", "")
     return "".join(ch for ch in t if not ch.isdigit()) or t

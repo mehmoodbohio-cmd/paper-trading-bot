@@ -20,7 +20,7 @@ import numpy as np
 
 from . import analysis as A
 from . import config as C
-from . import notify, reports
+from . import dashboard, notify, reports
 from .news import score_news
 from .universe import (MARKET_BENCHMARKS, all_crypto, all_stocks, asset_class, currency, pretty)
 
@@ -353,7 +353,14 @@ def run(data, now=None, force_summary=False, force_gems=False):
                 j["check"] = dict(time=now.isoformat(), price=px, move=move, right=bool(right))
 
     equity = value()
-    pf["history"].append(dict(t=now.isoformat(), v=round(equity, 2)))
+    bench_now = {}
+    for name, t in MARKET_BENCHMARKS.items():
+        start = pf["benchmarks_start"].get(t)
+        if start and t in daily and len(daily[t]):
+            bench_now[pretty(t)] = round(100 * float(daily[t]["Close"].dropna().iloc[-1]) / start, 2)
+    pf["history"].append(dict(t=now.isoformat(), v=round(equity, 2), b=bench_now))
+    pf["live_prices"] = {t: price_now(t) for t in pf["positions"]}
+    pf["fx"] = fx
     pf["mood"] = {k: list(v) for k, v in mood.items()}
     pf["last_skipped"] = skipped[:15]
 
@@ -374,6 +381,10 @@ def run(data, now=None, force_summary=False, force_gems=False):
 
     _save("portfolio.json", pf)
     _save("journal.json", journal)
+    try:
+        dashboard.build(pf, journal, scan, now, buy_block)
+    except Exception as e:                        # the page must never stop the trading
+        print(f"[dashboard] failed: {e}")
     print(f"[run {berlin:%a %d %b %H:%M}] value {equity:.2f} EUR | cash {pf['cash']:.2f} | "
           f"holding {', '.join(pretty(t) for t in pf['positions']) or 'nothing'} | "
           f"trades this run: {len(trades_made)}" + (f" | {buy_block}" if buy_block else ""))

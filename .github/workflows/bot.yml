@@ -56,7 +56,7 @@ jobs:
         run: |
           git config user.name "paper-bot"
           git config user.email "paper-bot@users.noreply.github.com"
-          for d in state reports outbox; do if [ -e "$d" ]; then git add -A "$d"; fi; done
+          for d in state reports outbox docs; do if [ -e "$d" ]; then git add -A "$d"; fi; done
           if git diff --cached --quiet; then exit 0; fi
           git commit -m "bot run $(date -u +'%Y-%m-%d %H:%M') UTC" -q
           for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
