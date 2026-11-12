@@ -5,8 +5,8 @@
    "units": 0.08837617488975437,
    "entry_price": 412.1499938964844,
    "cost_eur": 33.00983036711306,
-   "peak": 412.1499938964844,
-   "last_price": 412.1499938964844,
+   "peak": 412.4200134277344,
+   "last_price": 412.4200134277344,
    "opened": "2026-11-12T15:54:38.109393+00:00",
    "reasons": [
     "daily scan score 0.84 (charts 0.79, company health 0.92)",
@@ -26,8 +26,8 @@
    "units": 0.6838468700142649,
    "entry_price": 52.39500045776367,
    "cost_eur": 32.47143684331469,
-   "peak": 52.39500045776367,
-   "last_price": 52.39500045776367,
+   "peak": 52.44499969482422,
+   "last_price": 52.44499969482422,
    "opened": "2026-11-12T15:54:38.109393+00:00",
    "reasons": [
     "daily scan score 0.77 (charts 0.76, company health 0.79)",
@@ -48,8 +48,8 @@
    "units": 0.04060492980640782,
    "entry_price": 576.5150146484375,
    "cost_eur": 21.214958223830624,
-   "peak": 576.5150146484375,
-   "last_price": 576.5150146484375,
+   "peak": 585.2849731445312,
+   "last_price": 585.2849731445312,
    "opened": "2026-11-12T15:54:38.109393+00:00",
    "reasons": [
     "daily scan score 0.81 (charts 0.70, company health 0.96)",
@@ -69,8 +69,8 @@
    "units": 0.06271549001786499,
    "entry_price": 211.60000610351562,
    "cost_eur": 13.303774565741618,
-   "peak": 211.60000610351562,
-   "last_price": 211.60000610351562,
+   "peak": 212.0,
+   "last_price": 212.0,
    "opened": "2026-11-12T15:54:38.109393+00:00",
    "reasons": [
     "daily scan score 0.79 (charts 0.78, company health 0.79)",
@@ -121,6 +121,15 @@
     "DAX": 101.62,
     "BTC": 96.63
    }
+  },
+  {
+   "t": "2026-11-12T16:00:31.259802+00:00",
+   "v": 100.1,
+   "b": {
+    "S&P 500": 100.13,
+    "DAX": 101.71,
+    "BTC": 96.78
+   }
   }
  ],
  "fees_paid": 0.24937655860349128,
@@ -131,12 +140,12 @@
  },
  "trades_today": 4,
  "live_prices": {
-  "ADI": 412.1499938964844,
-  "RRC": 52.39500045776367,
-  "AMD": 576.5150146484375,
-  "SAP.DE": 211.60000610351562
+  "ADI": 412.4200134277344,
+  "RRC": 52.44499969482422,
+  "AMD": 585.2849731445312,
+  "SAP.DE": 212.0
  },
- "fx": 1.1061947345733643,
+ "fx": 1.1068068742752075,
  "mood": {
   "stocks": [
    "cautious",
@@ -144,11 +153,11 @@
   ],
   "eu_stocks": [
    "ok",
-   "DAX healthy (+0.4% today)"
+   "DAX healthy (+0.5% today)"
   ],
   "crypto": [
    "risk-off",
-   "BTC below 50-day average and down -3.4% today"
+   "BTC below 50-day average and down -3.2% today"
   ]
  },
  "last_skipped": [
@@ -157,10 +166,10 @@
   "AVAX: market mood risk-off",
   "JUP: market mood risk-off",
   "ICP: market mood risk-off",
+  "MSFT: position would be only -0.00 EUR",
   "NXPI: position would be only -0.00 EUR",
   "REGN: position would be only -0.00 EUR",
   "ABNB: position would be only -0.00 EUR",
-  "MSFT: position would be only -0.00 EUR",
   "ELF: position would be only -0.00 EUR",
   "ONON: position would be only -0.00 EUR"
  ]
