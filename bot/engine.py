@@ -331,7 +331,10 @@ def run(data, now=None, force_summary=False, force_gems=False):
         size = equity * C.MAX_POSITION_PCT * conf_scale * vol_scale
         size = min(size, pf["cash"] / (1 + C.FEE_PCT))
         if size < C.MIN_TRADE_EUR:
-            skipped.append(f"{pretty(t)}: position would be only {size:.2f} EUR")
+            if pf["cash"] < C.MIN_TRADE_EUR:
+                skipped.append(f"{pretty(t)}: good setup, but no cash left (fully invested)")
+            else:
+                skipped.append(f"{pretty(t)}: position would be only {size:.2f} EUR")
             continue
         px = price_now(t)
         units = size / to_eur(px, t, fx)
