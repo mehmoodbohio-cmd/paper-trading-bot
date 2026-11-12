@@ -6,7 +6,7 @@
    "entry_price": 412.1499938964844,
    "cost_eur": 33.00983036711306,
    "peak": 413.9700012207031,
-   "last_price": 408.9700012207031,
+   "last_price": 409.19000244140625,
    "opened": "2026-11-12T15:54:38.109393+00:00",
    "reasons": [
     "daily scan score 0.84 (charts 0.79, company health 0.92)",
@@ -49,7 +49,7 @@
    "entry_price": 576.5150146484375,
    "cost_eur": 21.214958223830624,
    "peak": 589.8300170898438,
-   "last_price": 579.3049926757812,
+   "last_price": 583.8099975585938,
    "opened": "2026-11-12T15:54:38.109393+00:00",
    "reasons": [
     "daily scan score 0.81 (charts 0.70, company health 0.96)",
@@ -184,6 +184,15 @@
     "DAX": 101.61,
     "BTC": 96.88
    }
+  },
+  {
+   "t": "2026-11-12T19:30:31.257433+00:00",
+   "v": 99.69,
+   "b": {
+    "S&P 500": 99.82,
+    "DAX": 101.61,
+    "BTC": 96.65
+   }
   }
  ],
  "fees_paid": 0.24937655860349128,
@@ -194,12 +203,12 @@
  },
  "trades_today": 4,
  "live_prices": {
-  "ADI": 408.9700012207031,
+  "ADI": 409.19000244140625,
   "RRC": 52.099998474121094,
-  "AMD": 579.3049926757812,
+  "AMD": 583.8099975585938,
   "SAP.DE": 212.25
  },
- "fx": 1.1052166223526,
+ "fx": 1.1055831909179688,
  "mood": {
   "stocks": [
    "cautious",
@@ -211,7 +220,7 @@
   ],
   "crypto": [
    "risk-off",
-   "BTC below 50-day average and down -3.1% today"
+   "BTC below 50-day average and down -3.4% today"
   ]
  },
  "last_skipped": [
@@ -221,10 +230,10 @@
   "JUP: market mood risk-off",
   "ICP: market mood risk-off",
   "REGN: good setup, but no cash left (fully invested)",
-  "NXPI: good setup, but no cash left (fully invested)",
   "ONON: good setup, but no cash left (fully invested)",
   "ELF: good setup, but no cash left (fully invested)",
   "ABNB: good setup, but no cash left (fully invested)",
+  "NXPI: good setup, but no cash left (fully invested)",
   "MSFT: good setup, but no cash left (fully invested)"
  ]
 }
