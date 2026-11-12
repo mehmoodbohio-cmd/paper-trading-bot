@@ -247,6 +247,15 @@
     "DAX": 101.61,
     "BTC": 96.59
    }
+  },
+  {
+   "t": "2026-11-12T22:30:31.430865+00:00",
+   "v": 99.35,
+   "b": {
+    "S&P 500": 99.65,
+    "DAX": 101.61,
+    "BTC": 96.56
+   }
   }
  ],
  "fees_paid": 0.24937655860349128,
@@ -274,7 +283,7 @@
   ],
   "crypto": [
    "risk-off",
-   "BTC below 50-day average and down -3.4% today"
+   "BTC below 50-day average and down -3.5% today"
   ]
  },
  "last_skipped": [
