@@ -1,0 +1,52 @@
+{
+ "cash": 100.0,
+ "positions": {},
+ "started": "2026-11-12T00:54:13.766037+00:00",
+ "day": "2026-11-12",
+ "day_start_value": 100.0,
+ "last_scan": null,
+ "last_summary": null,
+ "last_gems": null,
+ "recent_sells": {},
+ "history": [
+  {
+   "t": "2026-11-12T00:54:13.766037+00:00",
+   "v": 100.0,
+   "b": {
+    "S&P 500": 100.0,
+    "DAX": 100.0,
+    "BTC": 100.0
+   }
+  }
+ ],
+ "fees_paid": 0.0,
+ "benchmarks_start": {
+  "SPY": 759.8099975585938,
+  "^GDAXI": 26347.44921875,
+  "BTC-USD": 73947.7578125
+ },
+ "trades_today": 0,
+ "live_prices": {},
+ "fx": 1.1097548007965088,
+ "mood": {
+  "stocks": [
+   "cautious",
+   "S&P 500 below its 50-day average"
+  ],
+  "eu_stocks": [
+   "ok",
+   "DAX healthy (+0.3% today)"
+  ],
+  "crypto": [
+   "cautious",
+   "BTC below its 50-day average"
+  ]
+ },
+ "last_skipped": [
+  "PEPE: confidence 44% below 60%",
+  "INJ: confidence 37% below 60%",
+  "AVAX: confidence 36% below 60%",
+  "JUP: confidence 34% below 60%",
+  "ICP: negative news (-0.32)"
+ ]
+}
