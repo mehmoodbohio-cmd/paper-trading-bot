@@ -6,7 +6,7 @@
    "entry_price": 412.1499938964844,
    "cost_eur": 33.00983036711306,
    "peak": 413.9700012207031,
-   "last_price": 409.19000244140625,
+   "last_price": 408.80999755859375,
    "opened": "2026-11-12T15:54:38.109393+00:00",
    "reasons": [
     "daily scan score 0.84 (charts 0.79, company health 0.92)",
@@ -27,7 +27,7 @@
    "entry_price": 52.39500045776367,
    "cost_eur": 32.47143684331469,
    "peak": 52.52000045776367,
-   "last_price": 52.099998474121094,
+   "last_price": 52.03499984741211,
    "opened": "2026-11-12T15:54:38.109393+00:00",
    "reasons": [
     "daily scan score 0.77 (charts 0.76, company health 0.79)",
@@ -49,7 +49,7 @@
    "entry_price": 576.5150146484375,
    "cost_eur": 21.214958223830624,
    "peak": 589.8300170898438,
-   "last_price": 583.8099975585938,
+   "last_price": 585.739990234375,
    "opened": "2026-11-12T15:54:38.109393+00:00",
    "reasons": [
     "daily scan score 0.81 (charts 0.70, company health 0.96)",
@@ -91,7 +91,7 @@
  "day": "2026-11-12",
  "day_start_value": 100.0,
  "last_scan": null,
- "last_summary": null,
+ "last_summary": "2026-11-12",
  "last_gems": null,
  "recent_sells": {},
  "history": [
@@ -193,6 +193,15 @@
     "DAX": 101.61,
     "BTC": 96.65
    }
+  },
+  {
+   "t": "2026-11-12T20:00:31.547023+00:00",
+   "v": 99.67,
+   "b": {
+    "S&P 500": 99.71,
+    "DAX": 101.61,
+    "BTC": 96.8
+   }
   }
  ],
  "fees_paid": 0.24937655860349128,
@@ -203,12 +212,12 @@
  },
  "trades_today": 4,
  "live_prices": {
-  "ADI": 409.19000244140625,
-  "RRC": 52.099998474121094,
-  "AMD": 583.8099975585938,
+  "ADI": 408.80999755859375,
+  "RRC": 52.03499984741211,
+  "AMD": 585.739990234375,
   "SAP.DE": 212.25
  },
- "fx": 1.1055831909179688,
+ "fx": 1.1058276891708374,
  "mood": {
   "stocks": [
    "cautious",
@@ -220,7 +229,7 @@
   ],
   "crypto": [
    "risk-off",
-   "BTC below 50-day average and down -3.4% today"
+   "BTC below 50-day average and down -3.2% today"
   ]
  },
  "last_skipped": [
@@ -230,10 +239,10 @@
   "JUP: market mood risk-off",
   "ICP: market mood risk-off",
   "REGN: good setup, but no cash left (fully invested)",
-  "ONON: good setup, but no cash left (fully invested)",
   "ELF: good setup, but no cash left (fully invested)",
   "ABNB: good setup, but no cash left (fully invested)",
   "NXPI: good setup, but no cash left (fully invested)",
-  "MSFT: good setup, but no cash left (fully invested)"
+  "MSFT: good setup, but no cash left (fully invested)",
+  "ONON: good setup, but no cash left (fully invested)"
  ]
 }
