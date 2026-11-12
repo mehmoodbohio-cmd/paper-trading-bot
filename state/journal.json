@@ -1,1 +1,99 @@
-[]
+[
+ {
+  "id": 1,
+  "time": "2026-11-12T15:54:38.109393+00:00",
+  "ticker": "ADI",
+  "side": "BUY",
+  "price": 412.1499938964844,
+  "eur": 32.93,
+  "fee": 0.082,
+  "confidence": 0.8231877897035677,
+  "reasons": [
+   "daily scan score 0.84 (charts 0.79, company health 0.92)",
+   "uptrend (price above 50-day average, 20-day above 50-day)",
+   "momentum stronger than 69% of the scan (3-month +9%)",
+   "RSI 53",
+   "sales growing +40% a year",
+   "profits growing +164%",
+   "keeps 30% of sales as profit",
+   "short-term: above its 10-hour average and up +0.9% in 2h",
+   "good news: \"Will Texas Instruments' 2027 Pricing Strategy Lift Profitability?\" (profitability)",
+   "market mood: S&P 500 below its 50-day average",
+   "size 32.93 EUR = 33% of portfolio (confidence x0.82, volatility x1.00)"
+  ],
+  "check": null
+ },
+ {
+  "id": 2,
+  "time": "2026-11-12T15:54:38.109393+00:00",
+  "ticker": "RRC",
+  "side": "BUY",
+  "price": 52.39500045776367,
+  "eur": 32.39,
+  "fee": 0.081,
+  "confidence": 0.8097615172896433,
+  "reasons": [
+   "daily scan score 0.77 (charts 0.76, company health 0.79)",
+   "uptrend (price above 50-day average, 20-day above 50-day)",
+   "momentum stronger than 88% of the scan (3-month +30%)",
+   "RSI 62",
+   "sales growing +20% a year",
+   "profits growing +24%",
+   "keeps 26% of sales as profit",
+   "short-term: above its 10-hour average and up +1.3% in 2h",
+   "good news: \"ConocoPhillips Q3 Earnings Beat Estimates on Higher Commodity Prices\" ('beat estimates' (+3))",
+   "risks: trades above analyst targets (+1%); analysts are lukewarm",
+   "market mood: S&P 500 below its 50-day average",
+   "size 32.39 EUR = 32% of portfolio (confidence x0.81, volatility x1.00)"
+  ],
+  "check": null
+ },
+ {
+  "id": 3,
+  "time": "2026-11-12T15:54:38.109393+00:00",
+  "ticker": "AMD",
+  "side": "BUY",
+  "price": 576.5150146484375,
+  "eur": 21.16,
+  "fee": 0.053,
+  "confidence": 0.7728459933163033,
+  "reasons": [
+   "daily scan score 0.81 (charts 0.70, company health 0.96)",
+   "momentum stronger than 67% of the scan (3-month +14%)",
+   "RSI 54",
+   "unusual buying volume (2.0x normal)",
+   "sales growing +45% a year",
+   "profits growing +94%",
+   "keeps 17% of sales as profit",
+   "short-term: above its 10-hour average and up +3.8% in 2h",
+   "bad news: \"Anthropic Says Its AI Model Cut AMD Chip Switch to Three Days. Why it Could be a Challenge to Nvidia\" (cut, challenge)",
+   "market mood: S&P 500 below its 50-day average",
+   "size 21.16 EUR = 21% of portfolio (confidence x0.77, volatility x0.68)"
+  ],
+  "check": null
+ },
+ {
+  "id": 4,
+  "time": "2026-11-12T15:54:38.109393+00:00",
+  "ticker": "SAP.DE",
+  "side": "BUY",
+  "price": 211.60000610351562,
+  "eur": 13.27,
+  "fee": 0.033,
+  "confidence": 0.7654178438712442,
+  "reasons": [
+   "daily scan score 0.79 (charts 0.78, company health 0.79)",
+   "uptrend (price above 50-day average, 20-day above 50-day)",
+   "momentum stronger than 95% of the scan (3-month +15%)",
+   "RSI 58",
+   "sales growing +13% a year",
+   "profits growing +13%",
+   "keeps 20% of sales as profit",
+   "short-term: above its 10-hour average and up +0.1% in 2h",
+   "bad news: \"Why JPMorgan Says SAP (SAP) Is \u201cNo Longer Priced For AI Disruption\u201d\" (disruption)",
+   "market mood: DAX healthy (+0.4% today)",
+   "size 13.27 EUR = 13% of portfolio (confidence x0.77, volatility x1.00)"
+  ],
+  "check": null
+ }
+]
