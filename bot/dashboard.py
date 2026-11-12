@@ -59,7 +59,7 @@ def build(pf, journal, scan, now, buy_block=None):
         n_trades=len(journal), right=sum(1 for j in graded if j["check"]["right"]), graded=len(graded),
         holdings=holdings, trades=trades, history=hist, mood=pf.get("mood", {}),
         skipped=pf.get("last_skipped", []), shortlist=shortlist, block=buy_block,
-        scan_counts=scan.get("counts", {}), max_pos=C.MAX_POSITIONS,
+        scan_counts=scan.get("counts", {}), max_pos=C.MAX_POSITIONS, mode=C.RISK_MODE,
     )
     out = ROOT / "docs"
     out.mkdir(exist_ok=True)
@@ -162,7 +162,7 @@ function render(){
   const total=D.value-D.start, day=D.value-D.day_start;
   const ageMin=(Date.now()-new Date(D.updated))/60000;
   const holdVal=D.holdings.reduce((a,h)=>a+h.value,0);
-  let h=`<header><div><h1>Paper Trading Bot</h1><div class="sub">Pretend money only · started ${berlin(D.started)} with €${D.start.toFixed(0)}</div></div>
+  let h=`<header><div><h1>Paper Trading Bot</h1><div class="sub">Pretend money only · started ${berlin(D.started)} with €${D.start.toFixed(0)} · <span class="badge ${D.mode==='aggressive'?'risk-off':'ok'}">${esc(D.mode||'')} mode</span></div></div>
   <div class="live"><span class="dot ${ageMin>75?'stale':''}"></span>${ageMin>75?'No update for '+Math.round(ageMin)+' min':'Live'} · updated ${berlin(D.updated)}</div></header>`;
   if (D.block) h+=`<div class="alert">⏸ ${esc(D.block)}</div>`;
   h+=`<div class="kpis">

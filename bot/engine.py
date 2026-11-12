@@ -280,7 +280,7 @@ def run(data, now=None, force_summary=False, force_gems=False):
                 continue
             cls = asset_class(t)
             mk = mood[mood_key[cls]]
-            if mk[0] == "risk-off":
+            if mk[0] == "risk-off" and C.RISK_OFF_BLOCKS_BUYS:
                 skipped.append(f"{pretty(t)}: market mood risk-off")
                 continue
             last_sell = pf["recent_sells"].get(t)
@@ -309,7 +309,7 @@ def run(data, now=None, force_summary=False, force_gems=False):
             s = scan["scores"][t]
             conf = 0.55 * s["score"] + 0.25 * isig + 0.20 * (ns + 1) / 2
             if mk[0] == "cautious":
-                conf -= 0.05
+                conf -= C.CAUTIOUS_PENALTY
             reasons = [f"daily scan score {s['score']:.2f} (charts {s['tech']:.2f}"
                        + (f", company health {s['fund']:.2f})" if s["fund"] is not None else ")")]
             reasons += s["reasons"][:3] + s["good"][:3] + [iwhy]
