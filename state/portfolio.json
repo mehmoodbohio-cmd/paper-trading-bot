@@ -17,6 +17,15 @@
     "DAX": 100.0,
     "BTC": 100.0
    }
+  },
+  {
+   "t": "2026-11-12T07:52:01.579041+00:00",
+   "v": 100.0,
+   "b": {
+    "S&P 500": 100.0,
+    "DAX": 101.2,
+    "BTC": 99.42
+   }
   }
  ],
  "fees_paid": 0.0,
@@ -27,7 +36,7 @@
  },
  "trades_today": 0,
  "live_prices": {},
- "fx": 1.1097548007965088,
+ "fx": 1.1090162992477417,
  "mood": {
   "stocks": [
    "cautious",
@@ -35,7 +44,7 @@
   ],
   "eu_stocks": [
    "ok",
-   "DAX healthy (+0.3% today)"
+   "DAX healthy (+1.2% today)"
   ],
   "crypto": [
    "cautious",
@@ -44,8 +53,8 @@
  },
  "last_skipped": [
   "PEPE: confidence 44% below 60%",
-  "INJ: confidence 37% below 60%",
-  "AVAX: confidence 36% below 60%",
+  "INJ: confidence 44% below 60%",
+  "AVAX: confidence 58% below 60%",
   "JUP: confidence 34% below 60%",
   "ICP: negative news (-0.32)"
  ]
