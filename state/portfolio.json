@@ -88,8 +88,8 @@
   }
  },
  "started": "2026-11-12T00:54:13.766037+00:00",
- "day": "2026-11-13",
- "day_start_value": 99.34697708247428,
+ "day": "2026-11-14",
+ "day_start_value": 97.28511927593166,
  "last_scan": null,
  "last_summary": "2026-11-13",
  "last_gems": null,
@@ -728,6 +728,15 @@
     "DAX": 101.53,
     "BTC": 92.25
    }
+  },
+  {
+   "t": "2026-11-13T23:00:31.703490+00:00",
+   "v": 97.29,
+   "b": {
+    "S&P 500": 99.28,
+    "DAX": 101.61,
+    "BTC": 92.19
+   }
   }
  ],
  "fees_paid": 0.6639410825152877,
@@ -736,7 +745,7 @@
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 6,
+ "trades_today": 0,
  "live_prices": {
   "SAP.DE": 213.4499969482422,
   "ELF": 117.9800033569336,
@@ -751,7 +760,7 @@
   ],
   "eu_stocks": [
    "ok",
-   "DAX healthy (-0.1% today)"
+   "DAX healthy (+0.4% today)"
   ],
   "crypto": [
    "risk-off",
@@ -759,13 +768,13 @@
   ]
  },
  "last_skipped": [
+  "INJ: market mood risk-off",
   "PEPE: market mood risk-off",
   "JUP: market mood risk-off",
-  "ICP: market mood risk-off",
-  "QNT: market mood risk-off",
-  "INJ: market mood risk-off",
-  "ARB: market mood risk-off",
+  "NEAR: market mood risk-off",
   "STX: market mood risk-off",
-  "AVAX: market mood risk-off"
+  "ARB: market mood risk-off",
+  "AVAX: market mood risk-off",
+  "RENDER: market mood risk-off"
  ]
 }
