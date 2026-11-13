@@ -27,7 +27,7 @@
    "entry_price": 118.19999694824219,
    "cost_eur": 31.658092977847694,
    "peak": 118.19999694824219,
-   "last_price": 117.28500366210938,
+   "last_price": 117.20999908447266,
    "opened": "2026-11-13T15:00:31.277926+00:00",
    "reasons": [
     "daily scan score 0.83 (charts 0.82, company health 0.84)",
@@ -47,8 +47,8 @@
    "units": 0.6834961930700971,
    "entry_price": 51.1150016784668,
    "cost_eur": 31.742480230896486,
-   "peak": 51.1150016784668,
-   "last_price": 51.1150016784668,
+   "peak": 51.39950180053711,
+   "last_price": 51.39950180053711,
    "opened": "2026-11-13T17:30:31.103032+00:00",
    "reasons": [
     "daily scan score 0.78 (charts 0.81, company health 0.74)",
@@ -70,7 +70,7 @@
    "entry_price": 185.99769592285156,
    "cost_eur": 19.51181336796019,
    "peak": 185.99769592285156,
-   "last_price": 185.99769592285156,
+   "last_price": 185.8699951171875,
    "opened": "2026-11-13T17:30:31.103032+00:00",
    "reasons": [
     "daily scan score 0.83 (charts 0.78, company health 0.90)",
@@ -629,6 +629,15 @@
     "DAX": 101.53,
     "BTC": 92.85
    }
+  },
+  {
+   "t": "2026-11-13T18:00:31.108725+00:00",
+   "v": 96.09,
+   "b": {
+    "S&P 500": 98.89,
+    "DAX": 101.53,
+    "BTC": 93.06
+   }
   }
  ],
  "fees_paid": 0.6639410825152877,
@@ -640,11 +649,11 @@
  "trades_today": 6,
  "live_prices": {
   "SAP.DE": 213.4499969482422,
-  "ELF": 117.28500366210938,
-  "U": 51.1150016784668,
-  "ABNB": 185.99769592285156
+  "ELF": 117.20999908447266,
+  "U": 51.39950180053711,
+  "ABNB": 185.8699951171875
  },
- "fx": 1.1033873558044434,
+ "fx": 1.1030223369598389,
  "mood": {
   "stocks": [
    "cautious",
@@ -656,7 +665,7 @@
   ],
   "crypto": [
    "risk-off",
-   "BTC below 50-day average and down -3.8% today"
+   "BTC below 50-day average and down -3.5% today"
   ]
  },
  "last_skipped": [
@@ -671,7 +680,7 @@
   "AVAX: market mood risk-off",
   "LLY: good setup, but no cash left (fully invested)",
   "NXPI: good setup, but no cash left (fully invested)",
-  "TXN: good setup, but no cash left (fully invested)",
-  "MSFT: good setup, but no cash left (fully invested)"
+  "MSFT: good setup, but no cash left (fully invested)",
+  "TXN: good setup, but no cash left (fully invested)"
  ]
 }
