@@ -26,8 +26,8 @@
    "units": 0.2955060810552077,
    "entry_price": 118.19999694824219,
    "cost_eur": 31.658092977847694,
-   "peak": 118.625,
-   "last_price": 118.48500061035156,
+   "peak": 118.99500274658203,
+   "last_price": 118.99500274658203,
    "opened": "2026-11-13T15:00:31.277926+00:00",
    "reasons": [
     "daily scan score 0.83 (charts 0.82, company health 0.84)",
@@ -48,7 +48,7 @@
    "entry_price": 51.1150016784668,
    "cost_eur": 31.742480230896486,
    "peak": 52.66999816894531,
-   "last_price": 52.66999816894531,
+   "last_price": 52.57500076293945,
    "opened": "2026-11-13T17:30:31.103032+00:00",
    "reasons": [
     "daily scan score 0.78 (charts 0.81, company health 0.74)",
@@ -70,7 +70,7 @@
    "entry_price": 185.99769592285156,
    "cost_eur": 19.51181336796019,
    "peak": 186.8699951171875,
-   "last_price": 186.30499267578125,
+   "last_price": 186.41000366210938,
    "opened": "2026-11-13T17:30:31.103032+00:00",
    "reasons": [
     "daily scan score 0.83 (charts 0.78, company health 0.90)",
@@ -683,6 +683,15 @@
     "DAX": 101.53,
     "BTC": 93.28
    }
+  },
+  {
+   "t": "2026-11-13T20:30:31.297583+00:00",
+   "v": 97.39,
+   "b": {
+    "S&P 500": 99.12,
+    "DAX": 101.53,
+    "BTC": 93.18
+   }
   }
  ],
  "fees_paid": 0.6639410825152877,
@@ -694,9 +703,9 @@
  "trades_today": 6,
  "live_prices": {
   "SAP.DE": 213.4499969482422,
-  "ELF": 118.48500061035156,
-  "U": 52.66999816894531,
-  "ABNB": 186.30499267578125
+  "ELF": 118.99500274658203,
+  "U": 52.57500076293945,
+  "ABNB": 186.41000366210938
  },
  "fx": 1.102657437324524,
  "mood": {
@@ -710,7 +719,7 @@
   ],
   "crypto": [
    "risk-off",
-   "BTC below 50-day average and down -3.3% today"
+   "BTC below 50-day average and down -3.4% today"
   ]
  },
  "last_skipped": [
@@ -724,8 +733,8 @@
   "ARB: market mood risk-off",
   "STX: market mood risk-off",
   "AVAX: market mood risk-off",
-  "LLY: good setup, but no cash left (fully invested)",
   "NXPI: good setup, but no cash left (fully invested)",
+  "LLY: good setup, but no cash left (fully invested)",
   "TXN: good setup, but no cash left (fully invested)"
  ]
 }
