@@ -95,5 +95,43 @@
    "size 13.27 EUR = 13% of portfolio (confidence x0.77, volatility x1.00)"
   ],
   "check": null
+ },
+ {
+  "id": 5,
+  "time": "2026-11-13T15:00:31.277926+00:00",
+  "ticker": "ADI",
+  "side": "SELL",
+  "price": 397.2099914550781,
+  "eur": 31.74,
+  "fee": 0.079,
+  "confidence": null,
+  "reasons": [
+   "trend broke: short-term: falling (-2.9% in 2h), below 10-hour average, and below its 20-day average"
+  ],
+  "check": null
+ },
+ {
+  "id": 6,
+  "time": "2026-11-13T15:00:31.277926+00:00",
+  "ticker": "ELF",
+  "side": "BUY",
+  "price": 118.19999694824219,
+  "eur": 31.58,
+  "fee": 0.079,
+  "confidence": 0.8375661857811562,
+  "reasons": [
+   "daily scan score 0.83 (charts 0.82, company health 0.84)",
+   "uptrend (price above 50-day average, 20-day above 50-day)",
+   "momentum stronger than 98% of the scan (3-month +14%)",
+   "RSI 53",
+   "sales growing +51% a year",
+   "profits growing +900%",
+   "generates cash",
+   "short-term: above its 10-hour average and up +4.5% in 2h",
+   "good news: \"What Is e.l.f. Beauty (ELF) Gaining From This 500 Store Clean Beauty Launch?\" (gaining)",
+   "market mood: S&P 500 below its 50-day average",
+   "size 31.58 EUR = 33% of portfolio (confidence x0.84, volatility x1.00)"
+  ],
+  "check": null
  }
 ]

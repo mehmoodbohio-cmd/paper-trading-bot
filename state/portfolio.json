@@ -1,33 +1,12 @@
 {
- "cash": -1.7763568394002505e-15,
+ "cash": 0.0,
  "positions": {
-  "ADI": {
-   "units": 0.08837617488975437,
-   "entry_price": 412.1499938964844,
-   "cost_eur": 33.00983036711306,
-   "peak": 413.9700012207031,
-   "last_price": 409.2550048828125,
-   "opened": "2026-11-12T15:54:38.109393+00:00",
-   "reasons": [
-    "daily scan score 0.84 (charts 0.79, company health 0.92)",
-    "uptrend (price above 50-day average, 20-day above 50-day)",
-    "momentum stronger than 69% of the scan (3-month +9%)",
-    "RSI 53",
-    "sales growing +40% a year",
-    "profits growing +164%",
-    "keeps 30% of sales as profit",
-    "short-term: above its 10-hour average and up +0.9% in 2h",
-    "good news: \"Will Texas Instruments' 2027 Pricing Strategy Lift Profitability?\" (profitability)",
-    "market mood: S&P 500 below its 50-day average",
-    "size 32.93 EUR = 33% of portfolio (confidence x0.82, volatility x1.00)"
-   ]
-  },
   "RRC": {
    "units": 0.6838468700142649,
    "entry_price": 52.39500045776367,
    "cost_eur": 32.47143684331469,
    "peak": 52.52000045776367,
-   "last_price": 51.470001220703125,
+   "last_price": 51.842498779296875,
    "opened": "2026-11-12T15:54:38.109393+00:00",
    "reasons": [
     "daily scan score 0.77 (charts 0.76, company health 0.79)",
@@ -49,7 +28,7 @@
    "entry_price": 576.5150146484375,
    "cost_eur": 21.214958223830624,
    "peak": 589.8300170898438,
-   "last_price": 567.6699829101562,
+   "last_price": 538.1500244140625,
    "opened": "2026-11-12T15:54:38.109393+00:00",
    "reasons": [
     "daily scan score 0.81 (charts 0.70, company health 0.96)",
@@ -70,7 +49,7 @@
    "entry_price": 211.60000610351562,
    "cost_eur": 13.303774565741618,
    "peak": 214.5500030517578,
-   "last_price": 213.60000610351562,
+   "last_price": 213.5,
    "opened": "2026-11-12T15:54:38.109393+00:00",
    "reasons": [
     "daily scan score 0.79 (charts 0.78, company health 0.79)",
@@ -85,6 +64,27 @@
     "market mood: DAX healthy (+0.4% today)",
     "size 13.27 EUR = 13% of portfolio (confidence x0.77, volatility x1.00)"
    ]
+  },
+  "ELF": {
+   "units": 0.2955060810552077,
+   "entry_price": 118.19999694824219,
+   "cost_eur": 31.658092977847694,
+   "peak": 118.19999694824219,
+   "last_price": 118.19999694824219,
+   "opened": "2026-11-13T15:00:31.277926+00:00",
+   "reasons": [
+    "daily scan score 0.83 (charts 0.82, company health 0.84)",
+    "uptrend (price above 50-day average, 20-day above 50-day)",
+    "momentum stronger than 98% of the scan (3-month +14%)",
+    "RSI 53",
+    "sales growing +51% a year",
+    "profits growing +900%",
+    "generates cash",
+    "short-term: above its 10-hour average and up +4.5% in 2h",
+    "good news: \"What Is e.l.f. Beauty (ELF) Gaining From This 500 Store Clean Beauty Launch?\" (gaining)",
+    "market mood: S&P 500 below its 50-day average",
+    "size 31.58 EUR = 33% of portfolio (confidence x0.84, volatility x1.00)"
+   ]
   }
  },
  "started": "2026-11-12T00:54:13.766037+00:00",
@@ -93,7 +93,9 @@
  "last_scan": null,
  "last_summary": "2026-11-12",
  "last_gems": null,
- "recent_sells": {},
+ "recent_sells": {
+  "ADI": "2026-11-13T15:00:31.277926+00:00"
+ },
  "history": [
   {
    "t": "2026-11-12T00:54:13.766037+00:00",
@@ -571,22 +573,31 @@
     "DAX": 101.47,
     "BTC": 93.5
    }
+  },
+  {
+   "t": "2026-11-13T15:00:31.277926+00:00",
+   "v": 96.78,
+   "b": {
+    "S&P 500": 99.22,
+    "DAX": 101.61,
+    "BTC": 93.14
+   }
   }
  ],
- "fees_paid": 0.24937655860349128,
+ "fees_paid": 0.4076680128143186,
  "benchmarks_start": {
   "SPY": 759.8099975585938,
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 0,
+ "trades_today": 2,
  "live_prices": {
-  "ADI": 409.2550048828125,
-  "RRC": 51.470001220703125,
-  "AMD": 567.6699829101562,
-  "SAP.DE": 213.60000610351562
+  "RRC": 51.842498779296875,
+  "AMD": 538.1500244140625,
+  "SAP.DE": 213.5,
+  "ELF": 118.19999694824219
  },
- "fx": 1.1049723625183105,
+ "fx": 1.1060723066329956,
  "mood": {
   "stocks": [
    "cautious",
@@ -594,15 +605,14 @@
   ],
   "eu_stocks": [
    "ok",
-   "DAX healthy (-0.1% today)"
+   "DAX healthy (-0.0% today)"
   ],
   "crypto": [
    "risk-off",
-   "BTC below 50-day average and down -3.1% today"
+   "BTC below 50-day average and down -3.5% today"
   ]
  },
  "last_skipped": [
-  "TXN: moves like ADI which we hold (corr 0.92)",
   "PEPE: market mood risk-off",
   "JUP: market mood risk-off",
   "ICP: market mood risk-off",
@@ -612,10 +622,11 @@
   "STX: market mood risk-off",
   "AVAX: market mood risk-off",
   "ABNB: good setup, but no cash left (fully invested)",
-  "REGN: good setup, but no cash left (fully invested)",
-  "ELF: good setup, but no cash left (fully invested)",
   "U: good setup, but no cash left (fully invested)",
+  "REGN: good setup, but no cash left (fully invested)",
   "NXPI: good setup, but no cash left (fully invested)",
-  "MSFT: good setup, but no cash left (fully invested)"
+  "MSFT: good setup, but no cash left (fully invested)",
+  "TXN: good setup, but no cash left (fully invested)",
+  "LLY: good setup, but no cash left (fully invested)"
  ]
 }
