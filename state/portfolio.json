@@ -6,7 +6,7 @@
    "entry_price": 52.39500045776367,
    "cost_eur": 32.47143684331469,
    "peak": 52.52000045776367,
-   "last_price": 51.842498779296875,
+   "last_price": 51.7400016784668,
    "opened": "2026-11-12T15:54:38.109393+00:00",
    "reasons": [
     "daily scan score 0.77 (charts 0.76, company health 0.79)",
@@ -28,7 +28,7 @@
    "entry_price": 576.5150146484375,
    "cost_eur": 21.214958223830624,
    "peak": 589.8300170898438,
-   "last_price": 538.1500244140625,
+   "last_price": 535.840087890625,
    "opened": "2026-11-12T15:54:38.109393+00:00",
    "reasons": [
     "daily scan score 0.81 (charts 0.70, company health 0.96)",
@@ -49,7 +49,7 @@
    "entry_price": 211.60000610351562,
    "cost_eur": 13.303774565741618,
    "peak": 214.5500030517578,
-   "last_price": 213.5,
+   "last_price": 213.60000610351562,
    "opened": "2026-11-12T15:54:38.109393+00:00",
    "reasons": [
     "daily scan score 0.79 (charts 0.78, company health 0.79)",
@@ -70,7 +70,7 @@
    "entry_price": 118.19999694824219,
    "cost_eur": 31.658092977847694,
    "peak": 118.19999694824219,
-   "last_price": 118.19999694824219,
+   "last_price": 115.16999816894531,
    "opened": "2026-11-13T15:00:31.277926+00:00",
    "reasons": [
     "daily scan score 0.83 (charts 0.82, company health 0.84)",
@@ -582,6 +582,15 @@
     "DAX": 101.61,
     "BTC": 93.14
    }
+  },
+  {
+   "t": "2026-11-13T15:30:30.627794+00:00",
+   "v": 95.97,
+   "b": {
+    "S&P 500": 98.76,
+    "DAX": 101.51,
+    "BTC": 92.64
+   }
   }
  ],
  "fees_paid": 0.4076680128143186,
@@ -592,12 +601,12 @@
  },
  "trades_today": 2,
  "live_prices": {
-  "RRC": 51.842498779296875,
-  "AMD": 538.1500244140625,
-  "SAP.DE": 213.5,
-  "ELF": 118.19999694824219
+  "RRC": 51.7400016784668,
+  "AMD": 535.840087890625,
+  "SAP.DE": 213.60000610351562,
+  "ELF": 115.16999816894531
  },
- "fx": 1.1060723066329956,
+ "fx": 1.1041183471679688,
  "mood": {
   "stocks": [
    "cautious",
@@ -605,11 +614,11 @@
   ],
   "eu_stocks": [
    "ok",
-   "DAX healthy (-0.0% today)"
+   "DAX healthy (-0.1% today)"
   ],
   "crypto": [
    "risk-off",
-   "BTC below 50-day average and down -3.5% today"
+   "BTC below 50-day average and down -4.0% today"
   ]
  },
  "last_skipped": [
@@ -621,8 +630,8 @@
   "ARB: market mood risk-off",
   "STX: market mood risk-off",
   "AVAX: market mood risk-off",
-  "ABNB: good setup, but no cash left (fully invested)",
   "U: good setup, but no cash left (fully invested)",
+  "ABNB: good setup, but no cash left (fully invested)",
   "REGN: good setup, but no cash left (fully invested)",
   "NXPI: good setup, but no cash left (fully invested)",
   "MSFT: good setup, but no cash left (fully invested)",
