@@ -346,6 +346,15 @@
     "DAX": 101.61,
     "BTC": 94.96
    }
+  },
+  {
+   "t": "2026-11-13T03:30:31.520136+00:00",
+   "v": 99.3,
+   "b": {
+    "S&P 500": 99.65,
+    "DAX": 101.61,
+    "BTC": 93.66
+   }
   }
  ],
  "fees_paid": 0.24937655860349128,
@@ -361,7 +370,7 @@
   "AMD": 585.580078125,
   "SAP.DE": 212.25
  },
- "fx": 1.1063170433044434,
+ "fx": 1.106439471244812,
  "mood": {
   "stocks": [
    "cautious",
@@ -373,7 +382,7 @@
   ],
   "crypto": [
    "risk-off",
-   "BTC below 50-day average and down -5.1% today"
+   "BTC below 50-day average and down -6.4% today"
   ]
  },
  "last_skipped": [
