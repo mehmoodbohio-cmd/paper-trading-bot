@@ -21,7 +21,12 @@
    "market mood: S&P 500 below its 50-day average",
    "size 32.93 EUR = 33% of portfolio (confidence x0.82, volatility x1.00)"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-13T16:00:31.461771+00:00",
+   "price": 392.510009765625,
+   "move": -0.04765251588428299,
+   "right": false
+  }
  },
  {
   "id": 2,
@@ -46,7 +51,12 @@
    "market mood: S&P 500 below its 50-day average",
    "size 32.39 EUR = 32% of portfolio (confidence x0.81, volatility x1.00)"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-13T16:00:31.461771+00:00",
+   "price": 51.81999969482422,
+   "move": -0.010974344077026355,
+   "right": false
+  }
  },
  {
   "id": 3,
@@ -70,7 +80,12 @@
    "market mood: S&P 500 below its 50-day average",
    "size 21.16 EUR = 21% of portfolio (confidence x0.77, volatility x0.68)"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-13T16:00:31.461771+00:00",
+   "price": 531.7899780273438,
+   "move": -0.0775782685354125,
+   "right": false
+  }
  },
  {
   "id": 4,
@@ -94,7 +109,12 @@
    "market mood: DAX healthy (+0.4% today)",
    "size 13.27 EUR = 13% of portfolio (confidence x0.77, volatility x1.00)"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-13T16:00:31.461771+00:00",
+   "price": 213.6999969482422,
+   "move": 0.009924342080118942,
+   "right": true
+  }
  },
  {
   "id": 5,
