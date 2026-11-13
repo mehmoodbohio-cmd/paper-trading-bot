@@ -1,5 +1,5 @@
 {
- "cash": 51.25429359885668,
+ "cash": 0.0,
  "positions": {
   "SAP.DE": {
    "units": 0.06271549001786499,
@@ -27,7 +27,7 @@
    "entry_price": 118.19999694824219,
    "cost_eur": 31.658092977847694,
    "peak": 118.19999694824219,
-   "last_price": 116.96499633789062,
+   "last_price": 117.28500366210938,
    "opened": "2026-11-13T15:00:31.277926+00:00",
    "reasons": [
     "daily scan score 0.83 (charts 0.82, company health 0.84)",
@@ -41,6 +41,49 @@
     "good news: \"What Is e.l.f. Beauty (ELF) Gaining From This 500 Store Clean Beauty Launch?\" (gaining)",
     "market mood: S&P 500 below its 50-day average",
     "size 31.58 EUR = 33% of portfolio (confidence x0.84, volatility x1.00)"
+   ]
+  },
+  "U": {
+   "units": 0.6834961930700971,
+   "entry_price": 51.1150016784668,
+   "cost_eur": 31.742480230896486,
+   "peak": 51.1150016784668,
+   "last_price": 51.1150016784668,
+   "opened": "2026-11-13T17:30:31.103032+00:00",
+   "reasons": [
+    "daily scan score 0.78 (charts 0.81, company health 0.74)",
+    "uptrend (price above 50-day average, 20-day above 50-day)",
+    "momentum stronger than 91% of the scan (3-month +7%)",
+    "RSI 67",
+    "sales growing +32% a year",
+    "generates cash",
+    "analysts rate it a buy",
+    "short-term: above its 10-hour average and up +1.7% in 2h",
+    "good news: \"CBRS Q3 Earnings Beat Estimates, Revenues Rise on Strong Cloud Growth\" ('beat estimates' (+3), strong)",
+    "risks: loses money (margin -16%)",
+    "market mood: S&P 500 below its 50-day average",
+    "size 31.66 EUR = 33% of portfolio (confidence x0.82, volatility x1.00)"
+   ]
+  },
+  "ABNB": {
+   "units": 0.11546056822543276,
+   "entry_price": 185.99769592285156,
+   "cost_eur": 19.51181336796019,
+   "peak": 185.99769592285156,
+   "last_price": 185.99769592285156,
+   "opened": "2026-11-13T17:30:31.103032+00:00",
+   "reasons": [
+    "daily scan score 0.83 (charts 0.78, company health 0.90)",
+    "uptrend (price above 50-day average, 20-day above 50-day)",
+    "momentum stronger than 75% of the scan (3-month -3%)",
+    "RSI 57",
+    "sales growing +19% a year",
+    "profits growing +43%",
+    "keeps 23% of sales as profit",
+    "short-term: above its 10-hour average and up +0.6% in 2h",
+    "good news: \"EXPE vs. ABNB: Which Stock Is the Better Value Option?\" (better)",
+    "market mood: S&P 500 below its 50-day average",
+    "size 19.46 EUR = 20% of portfolio (confidence x0.81, volatility x1.00)"
    ]
   }
  },
@@ -577,24 +620,35 @@
     "DAX": 101.53,
     "BTC": 92.74
    }
+  },
+  {
+   "t": "2026-11-13T17:30:31.103032+00:00",
+   "v": 95.92,
+   "b": {
+    "S&P 500": 98.89,
+    "DAX": 101.53,
+    "BTC": 92.85
+   }
   }
  ],
- "fees_paid": 0.5361248890019293,
+ "fees_paid": 0.6639410825152877,
  "benchmarks_start": {
   "SPY": 759.8099975585938,
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 4,
+ "trades_today": 6,
  "live_prices": {
   "SAP.DE": 213.4499969482422,
-  "ELF": 116.96499633789062
+  "ELF": 117.28500366210938,
+  "U": 51.1150016784668,
+  "ABNB": 185.99769592285156
  },
- "fx": 1.1036310195922852,
+ "fx": 1.1033873558044434,
  "mood": {
   "stocks": [
-   "risk-off",
-   "S&P 500 below 50-day average and down -1.0% today"
+   "cautious",
+   "S&P 500 below its 50-day average"
   ],
   "eu_stocks": [
    "ok",
@@ -602,24 +656,22 @@
   ],
   "crypto": [
    "risk-off",
-   "BTC below 50-day average and down -3.9% today"
+   "BTC below 50-day average and down -3.8% today"
   ]
  },
  "last_skipped": [
-  "REGN: market mood risk-off",
-  "ABNB: market mood risk-off",
-  "AMD: market mood risk-off",
-  "ADI: market mood risk-off",
-  "MSFT: market mood risk-off",
-  "U: market mood risk-off",
-  "NXPI: market mood risk-off",
-  "RRC: market mood risk-off",
-  "TXN: market mood risk-off",
-  "LLY: market mood risk-off",
+  "REGN: negative news (-0.46)",
   "PEPE: market mood risk-off",
   "JUP: market mood risk-off",
   "ICP: market mood risk-off",
   "QNT: market mood risk-off",
-  "INJ: market mood risk-off"
+  "INJ: market mood risk-off",
+  "ARB: market mood risk-off",
+  "STX: market mood risk-off",
+  "AVAX: market mood risk-off",
+  "LLY: good setup, but no cash left (fully invested)",
+  "NXPI: good setup, but no cash left (fully invested)",
+  "TXN: good setup, but no cash left (fully invested)",
+  "MSFT: good setup, but no cash left (fully invested)"
  ]
 }
