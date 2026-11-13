@@ -153,5 +153,33 @@
    "size 31.58 EUR = 33% of portfolio (confidence x0.84, volatility x1.00)"
   ],
   "check": null
+ },
+ {
+  "id": 7,
+  "time": "2026-11-13T17:00:31.503713+00:00",
+  "ticker": "RRC",
+  "side": "SELL",
+  "price": 51.91999816894531,
+  "eur": 32.17,
+  "fee": 0.08,
+  "confidence": null,
+  "reasons": [
+   "market mood risk-off (S&P 500 below 50-day average and down -1.0% today) and position losing"
+  ],
+  "check": null
+ },
+ {
+  "id": 8,
+  "time": "2026-11-13T17:00:31.503713+00:00",
+  "ticker": "AMD",
+  "side": "SELL",
+  "price": 522.1599731445312,
+  "eur": 19.21,
+  "fee": 0.048,
+  "confidence": null,
+  "reasons": [
+   "market mood risk-off (S&P 500 below 50-day average and down -1.0% today) and position losing"
+  ],
+  "check": null
  }
 ]
