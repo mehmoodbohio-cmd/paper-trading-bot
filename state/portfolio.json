@@ -69,8 +69,8 @@
    "units": 0.06271549001786499,
    "entry_price": 211.60000610351562,
    "cost_eur": 13.303774565741618,
-   "peak": 212.25,
-   "last_price": 212.25,
+   "peak": 213.89999389648438,
+   "last_price": 213.89999389648438,
    "opened": "2026-11-12T15:54:38.109393+00:00",
    "reasons": [
     "daily scan score 0.79 (charts 0.78, company health 0.79)",
@@ -436,6 +436,15 @@
     "DAX": 101.61,
     "BTC": 92.66
    }
+  },
+  {
+   "t": "2026-11-13T08:30:30.853271+00:00",
+   "v": 99.36,
+   "b": {
+    "S&P 500": 99.65,
+    "DAX": 101.47,
+    "BTC": 92.86
+   }
   }
  ],
  "fees_paid": 0.24937655860349128,
@@ -449,9 +458,9 @@
   "ADI": 409.29998779296875,
   "RRC": 51.459999084472656,
   "AMD": 585.580078125,
-  "SAP.DE": 212.25
+  "SAP.DE": 213.89999389648438
  },
- "fx": 1.1061947345733643,
+ "fx": 1.1069294214248657,
  "mood": {
   "stocks": [
    "cautious",
@@ -459,11 +468,11 @@
   ],
   "eu_stocks": [
    "ok",
-   "DAX healthy (+0.4% today)"
+   "DAX healthy (-0.1% today)"
   ],
   "crypto": [
    "risk-off",
-   "BTC below 50-day average and down -4.0% today"
+   "BTC below 50-day average and down -3.7% today"
   ]
  },
  "last_skipped": [
