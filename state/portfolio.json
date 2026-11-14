@@ -88,8 +88,8 @@
   }
  },
  "started": "2026-11-12T00:54:13.766037+00:00",
- "day": "2026-11-14",
- "day_start_value": 97.28511927593166,
+ "day": "2026-11-15",
+ "day_start_value": 97.11488015519431,
  "last_scan": null,
  "last_summary": "2026-11-14",
  "last_gems": null,
@@ -1196,6 +1196,15 @@
     "DAX": 101.53,
     "BTC": 86.46
    }
+  },
+  {
+   "t": "2026-11-14T23:00:31.278086+00:00",
+   "v": 97.11,
+   "b": {
+    "S&P 500": 99.28,
+    "DAX": 101.53,
+    "BTC": 86.1
+   }
   }
  ],
  "fees_paid": 0.6639410825152877,
@@ -1223,17 +1232,17 @@
   ],
   "crypto": [
    "risk-off",
-   "BTC below 50-day average and down -6.3% today"
+   "BTC below 50-day average and down -6.7% today"
   ]
  },
  "last_skipped": [
-  "INJ: market mood risk-off",
   "PEPE: market mood risk-off",
+  "INJ: market mood risk-off",
   "JUP: market mood risk-off",
+  "QNT: market mood risk-off",
   "NEAR: market mood risk-off",
   "STX: market mood risk-off",
-  "ARB: market mood risk-off",
   "AVAX: market mood risk-off",
-  "RENDER: market mood risk-off"
+  "ARB: market mood risk-off"
  ]
 }
