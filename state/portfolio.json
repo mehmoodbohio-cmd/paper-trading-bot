@@ -746,6 +746,15 @@
     "DAX": 101.61,
     "BTC": 92.09
    }
+  },
+  {
+   "t": "2026-11-14T00:00:30.798597+00:00",
+   "v": 97.11,
+   "b": {
+    "S&P 500": 99.28,
+    "DAX": 101.61,
+    "BTC": 92.39
+   }
   }
  ],
  "fees_paid": 0.6639410825152877,
@@ -761,7 +770,7 @@
   "U": 52.810001373291016,
   "ABNB": 186.75
  },
- "fx": 1.1027790307998657,
+ "fx": 1.1050212383270264,
  "mood": {
   "stocks": [
    "cautious",
@@ -773,7 +782,7 @@
   ],
   "crypto": [
    "risk-off",
-   "BTC below 50-day average and down -4.5% today"
+   "BTC below 50-day average and down -4.2% today"
   ]
  },
  "last_skipped": [
