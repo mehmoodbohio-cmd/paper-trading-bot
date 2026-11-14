@@ -176,7 +176,12 @@
   "reasons": [
    "market mood risk-off (S&P 500 below 50-day average and down -1.0% today) and position losing"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-14T17:30:31.637427+00:00",
+   "price": 51.81999969482422,
+   "move": -0.001926010740518569,
+   "right": true
+  }
  },
  {
   "id": 8,
@@ -215,7 +220,12 @@
    "market mood: S&P 500 below its 50-day average",
    "size 31.66 EUR = 33% of portfolio (confidence x0.82, volatility x1.00)"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-14T17:30:31.637427+00:00",
+   "price": 52.810001373291016,
+   "move": 0.033160513335916963,
+   "right": true
+  }
  },
  {
   "id": 10,
@@ -239,6 +249,11 @@
    "market mood: S&P 500 below its 50-day average",
    "size 19.46 EUR = 20% of portfolio (confidence x0.81, volatility x1.00)"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-14T17:30:31.637427+00:00",
+   "price": 186.75,
+   "move": 0.004044695679781274,
+   "right": true
+  }
  }
 ]
