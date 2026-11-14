@@ -128,7 +128,12 @@
   "reasons": [
    "trend broke: short-term: falling (-2.9% in 2h), below 10-hour average, and below its 20-day average"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-14T15:30:31.388762+00:00",
+   "price": 398.0299987792969,
+   "move": 0.0020644176678810133,
+   "right": false
+  }
  },
  {
   "id": 6,
@@ -152,7 +157,12 @@
    "market mood: S&P 500 below its 50-day average",
    "size 31.58 EUR = 33% of portfolio (confidence x0.84, volatility x1.00)"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-14T15:30:31.388762+00:00",
+   "price": 117.9800033569336,
+   "move": -0.0018611979440652515,
+   "right": false
+  }
  },
  {
   "id": 7,
