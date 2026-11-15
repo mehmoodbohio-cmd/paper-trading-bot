@@ -1583,6 +1583,15 @@
     "DAX": 101.53,
     "BTC": 87.2
    }
+  },
+  {
+   "t": "2026-11-15T18:30:31.255953+00:00",
+   "v": 97.11,
+   "b": {
+    "S&P 500": 99.28,
+    "DAX": 101.53,
+    "BTC": 87.27
+   }
   }
  ],
  "fees_paid": 0.6639410825152877,
@@ -1621,6 +1630,6 @@
   "NEAR: confidence 31% below 50%",
   "STX: confidence 30% below 50%",
   "AVAX: confidence 30% below 50%",
-  "ARB: confidence 44% below 50%"
+  "ARB: confidence 31% below 50%"
  ]
 }
