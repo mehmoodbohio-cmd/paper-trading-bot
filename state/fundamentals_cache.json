@@ -35,7 +35,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "ELF": {
   "shortName": "e.l.f. Beauty, Inc.",
@@ -73,7 +73,7 @@
   "insider_net_shares": 234020.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "NXPI": {
   "shortName": "NXP Semiconductors N.V.",
@@ -111,7 +111,7 @@
   "insider_net_shares": 16772.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "HNR1.DE": {
   "shortName": "HANNOVER RUECK SE NA O.N.",
@@ -119,7 +119,7 @@
   "industry": "Insurance - Reinsurance",
   "marketCap": 36130902016,
   "trailingPE": 13.009118,
-  "forwardPE": 12.479808,
+  "forwardPE": 12.485331,
   "pegRatio": 5.53,
   "priceToSalesTrailing12Months": 1.585231,
   "revenueGrowth": 0.022,
@@ -147,7 +147,7 @@
    6409900000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "MUV2.DE": {
   "shortName": "MUENCHENER RUECKVERS.-GES. AG N",
@@ -183,7 +183,7 @@
    17865000000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "ABNB": {
   "shortName": "Airbnb, Inc.",
@@ -191,7 +191,7 @@
   "industry": "Travel Services",
   "marketCap": 111459508224,
   "trailingPE": 35.04315,
-  "forwardPE": 29.579586,
+  "forwardPE": 29.414913,
   "pegRatio": 1.6,
   "priceToSalesTrailing12Months": 7.9996777,
   "revenueGrowth": 0.189,
@@ -204,9 +204,9 @@
   "totalDebt": 2515000064,
   "debtToEquity": 27.008,
   "returnOnEquity": 0.35788,
-  "recommendationMean": 1.93182,
-  "numberOfAnalystOpinions": 40,
-  "targetMeanPrice": 203.8295,
+  "recommendationMean": 1.90698,
+  "numberOfAnalystOpinions": 39,
+  "targetMeanPrice": 204.77385,
   "currentPrice": 186.78,
   "heldPercentInsiders": 0.021370001,
   "shortPercentOfFloat": 0.031,
@@ -221,7 +221,7 @@
   "insider_net_shares": 6275805.0,
   "upgrades_90d": 3,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "DV": {
   "shortName": "DoubleVerify Holdings, Inc.",
@@ -259,7 +259,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "PAYO": {
   "shortName": "Payoneer Global Inc.",
@@ -297,7 +297,7 @@
   "insider_net_shares": 694086.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "MRNA": {
   "shortName": "Moderna, Inc.",
@@ -305,7 +305,7 @@
   "industry": "Biotechnology",
   "marketCap": 90380181504,
   "trailingPE": null,
-  "forwardPE": -53.33546,
+  "forwardPE": -53.62922,
   "pegRatio": null,
   "priceToSalesTrailing12Months": 35.794132,
   "revenueGrowth": 0.292,
@@ -319,8 +319,8 @@
   "debtToEquity": 61.855,
   "returnOnEquity": -0.34502,
   "recommendationMean": 2.91304,
-  "numberOfAnalystOpinions": 18,
-  "targetMeanPrice": 155.5,
+  "numberOfAnalystOpinions": 19,
+  "targetMeanPrice": 158.47368,
   "currentPrice": 223.37,
   "heldPercentInsiders": 0.075289994,
   "shortPercentOfFloat": 0.0999,
@@ -335,7 +335,7 @@
   "insider_net_shares": 396244.0,
   "upgrades_90d": 3,
   "downgrades_90d": 3,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "ZAL.DE": {
   "shortName": "Zalando SE                    I",
@@ -371,7 +371,7 @@
    3174700000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "ADI": {
   "shortName": "Analog Devices, Inc.",
@@ -409,7 +409,7 @@
   "insider_net_shares": 6278.0,
   "upgrades_90d": 2,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "ALV.DE": {
   "shortName": "Allianz SE                    v",
@@ -481,7 +481,7 @@
    926300000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "DOCS": {
   "shortName": "Doximity, Inc.",
@@ -519,7 +519,7 @@
   "insider_net_shares": 610605.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "SWKS": {
   "shortName": "Skyworks Solutions, Inc.",
@@ -557,7 +557,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 1,
   "downgrades_90d": 1,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "V": {
   "shortName": "Visa Inc.",
@@ -595,7 +595,7 @@
   "insider_net_shares": -22465.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "SAP.DE": {
   "shortName": "SAP SE                        I",
@@ -631,7 +631,7 @@
    10270000000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "MA": {
   "shortName": "Mastercard Incorporated",
@@ -669,7 +669,7 @@
   "insider_net_shares": -23925.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "TEM": {
   "shortName": "Tempus AI, Inc.",
@@ -743,7 +743,7 @@
    16360000000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "SHL.DE": {
   "shortName": "Siemens Healthineers AG       N",
@@ -781,7 +781,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "U": {
   "shortName": "Unity Software Inc.",
@@ -819,7 +819,7 @@
   "insider_net_shares": -280045.0,
   "upgrades_90d": 1,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "AAPL": {
   "shortName": "Apple Inc.",
@@ -841,8 +841,8 @@
   "debtToEquity": 84.286,
   "returnOnEquity": 1.42257,
   "recommendationMean": 2.17778,
-  "numberOfAnalystOpinions": 40,
-  "targetMeanPrice": 346.3655,
+  "numberOfAnalystOpinions": 39,
+  "targetMeanPrice": 345.6313,
   "currentPrice": 356.27,
   "heldPercentInsiders": 0.01781,
   "shortPercentOfFloat": 0.01,
@@ -855,9 +855,9 @@
    114477000000.0
   ],
   "insider_net_shares": 499220.0,
-  "upgrades_90d": 2,
+  "upgrades_90d": 1,
   "downgrades_90d": 1,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "BEI.DE": {
   "shortName": "BEIERSDORF AG                 I",
@@ -888,7 +888,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "SG": {
   "shortName": "Sweetgreen, Inc.",
@@ -926,7 +926,7 @@
   "insider_net_shares": 112085.0,
   "upgrades_90d": 2,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "AI": {
   "shortName": "C3.ai, Inc.",
@@ -964,7 +964,7 @@
   "insider_net_shares": 13257344.0,
   "upgrades_90d": 1,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "RRC": {
   "shortName": "Range Resources Corporation",
@@ -972,7 +972,7 @@
   "industry": "Oil & Gas E&P",
   "marketCap": 12112195584,
   "trailingPE": 13.748012,
-  "forwardPE": 12.566493,
+  "forwardPE": 12.6570835,
   "pegRatio": 0.92,
   "priceToSalesTrailing12Months": 3.5629964,
   "revenueGrowth": 0.197,
@@ -987,7 +987,7 @@
   "returnOnEquity": 0.19643,
   "recommendationMean": 2.6,
   "numberOfAnalystOpinions": 19,
-  "targetMeanPrice": 53.89474,
+  "targetMeanPrice": 53.73684,
   "currentPrice": 51.83,
   "heldPercentInsiders": 0.02175,
   "shortPercentOfFloat": 0.0935,
@@ -1002,7 +1002,7 @@
   "insider_net_shares": 28119.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "AIR.DE": {
   "shortName": "Airbus SE                     A",
@@ -1038,7 +1038,7 @@
    17469000000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "DHL.DE": {
   "shortName": "DHL AG                        N",
@@ -1074,7 +1074,7 @@
    22658000000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "SPOT": {
   "shortName": "Spotify Technology S.A.",
@@ -1112,7 +1112,7 @@
   "insider_net_shares": 16976.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "VRTX": {
   "shortName": "Vertex Pharmaceuticals Incorpor",
@@ -1150,7 +1150,7 @@
   "insider_net_shares": 9632.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "WMT": {
   "shortName": "Walmart Inc.",
@@ -1158,7 +1158,7 @@
   "industry": "Discount Stores",
   "marketCap": 1019350286336,
   "trailingPE": 46.40942,
-  "forwardPE": 39.75691,
+  "forwardPE": 39.742226,
   "pegRatio": 4.35,
   "priceToSalesTrailing12Months": 1.385288,
   "revenueGrowth": 0.059,
@@ -1173,7 +1173,7 @@
   "returnOnEquity": 0.22313999,
   "recommendationMean": 1.51163,
   "numberOfAnalystOpinions": 40,
-  "targetMeanPrice": 130.4,
+  "targetMeanPrice": 130.775,
   "currentPrice": 128.09,
   "heldPercentInsiders": 0.4437,
   "shortPercentOfFloat": 0.0165,
@@ -1188,7 +1188,7 @@
   "insider_net_shares": -9059773.0,
   "upgrades_90d": 1,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "TDG": {
   "shortName": "Transdigm Group Incorporated",
@@ -1196,7 +1196,7 @@
   "industry": "Aerospace & Defense",
   "marketCap": 66451116032,
   "trailingPE": 34.279922,
-  "forwardPE": 21.794424,
+  "forwardPE": 21.819098,
   "pegRatio": 3.05,
   "priceToSalesTrailing12Months": 6.2945075,
   "revenueGrowth": 0.226,
@@ -1226,7 +1226,7 @@
   "insider_net_shares": 426.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "PYPL": {
   "shortName": "PayPal Holdings, Inc.",
@@ -1264,7 +1264,7 @@
   "insider_net_shares": 163907.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "RBLX": {
   "shortName": "Roblox Corporation",
@@ -1302,7 +1302,7 @@
   "insider_net_shares": -171696.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "TLN": {
   "shortName": "Talen Energy Corporation",
@@ -1340,7 +1340,7 @@
   "insider_net_shares": 924171.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "LNG": {
   "shortName": "Cheniere Energy, Inc.",
@@ -1378,7 +1378,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "TOST": {
   "shortName": "Toast, Inc.",
@@ -1416,7 +1416,7 @@
   "insider_net_shares": -237717.0,
   "upgrades_90d": 0,
   "downgrades_90d": 2,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "HD": {
   "shortName": "Home Depot, Inc. (The)",
@@ -1424,7 +1424,7 @@
   "industry": "Home Improvement Retail",
   "marketCap": 347884388352,
   "trailingPE": 24.40098,
-  "forwardPE": 21.91661,
+  "forwardPE": 21.927555,
   "pegRatio": 1.84,
   "priceToSalesTrailing12Months": 2.056346,
   "revenueGrowth": 0.057,
@@ -1439,7 +1439,7 @@
   "returnOnEquity": 1.0429599,
   "recommendationMean": 1.88889,
   "numberOfAnalystOpinions": 32,
-  "targetMeanPrice": 377.8125,
+  "targetMeanPrice": 377.59375,
   "currentPrice": 348.69,
   "heldPercentInsiders": 0.002,
   "shortPercentOfFloat": 0.0128999995,
@@ -1454,7 +1454,7 @@
   "insider_net_shares": 52954.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "BOSS.DE": {
   "shortName": "HUGO BOSS AG                  N",
@@ -1526,7 +1526,7 @@
    1776200000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "MSFT": {
   "shortName": "Microsoft Corporation",
@@ -1564,7 +1564,7 @@
   "insider_net_shares": 256394.0,
   "upgrades_90d": 1,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "LLY": {
   "shortName": "Eli Lilly and Company",
@@ -1602,7 +1602,7 @@
   "insider_net_shares": -275197.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "ISRG": {
   "shortName": "Intuitive Surgical, Inc.",
@@ -1640,7 +1640,7 @@
   "insider_net_shares": -35450.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "URI": {
   "shortName": "United Rentals, Inc.",
@@ -1678,7 +1678,7 @@
   "insider_net_shares": -1263.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "TMDX": {
   "shortName": "TransMedics Group, Inc.",
@@ -1754,7 +1754,7 @@
   "insider_net_shares": -8481.0,
   "upgrades_90d": 1,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "XYZ": {
   "shortName": "Block, Inc.",
@@ -1762,7 +1762,7 @@
   "industry": "Software - Infrastructure",
   "marketCap": 51130470400,
   "trailingPE": 111.289474,
-  "forwardPE": 15.738654,
+  "forwardPE": 15.733589,
   "pegRatio": 0.64,
   "priceToSalesTrailing12Months": 1.9936727,
   "revenueGrowth": 0.099,
@@ -1775,9 +1775,9 @@
   "totalDebt": 7535432192,
   "debtToEquity": 32.949,
   "returnOnEquity": 0.02021,
-  "recommendationMean": 1.59574,
-  "numberOfAnalystOpinions": 42,
-  "targetMeanPrice": 101.03024,
+  "recommendationMean": 1.58333,
+  "numberOfAnalystOpinions": 43,
+  "targetMeanPrice": 101.35512,
   "currentPrice": 84.58,
   "heldPercentInsiders": 0.0149300005,
   "shortPercentOfFloat": 0.0304,
@@ -1792,7 +1792,7 @@
   "insider_net_shares": -1004076.0,
   "upgrades_90d": 1,
   "downgrades_90d": 1,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "LMT": {
   "shortName": "Lockheed Martin Corporation",
@@ -1830,7 +1830,7 @@
   "insider_net_shares": -7719.0,
   "upgrades_90d": 2,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "SHAK": {
   "shortName": "Shake Shack, Inc.",
@@ -1868,7 +1868,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "G1A.DE": {
   "shortName": "GEA Group AG                  I",
@@ -1904,7 +1904,7 @@
    1461231000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "NDX1.DE": {
   "shortName": "Nordex SE                     I",
@@ -1940,7 +1940,7 @@
    2186647000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "SY1.DE": {
   "shortName": "Symrise AG                    I",
@@ -1969,7 +1969,7 @@
   "shortPercentOfFloat": null,
   "longBusinessSummary": "Symrise AG operates as a supplier of fragrances, flavorings, cosmetic base materials and active ingredients, and functional ingredients and solutions in Europe, Africa, the Middle East, North America, the Asia Pacific, and Latin America. It operates in two segments, Taste, Nutrition & Health; and Scent & Care. The Taste, Nutrition & Health segment provides functional ingredients and product solutions used in the production of food and beverages; savory flavors; sweets, chocolate, chewing gum, baked goods, cereals, ice cream, milk, yogurt and milk alternatives; natural and sustainable ingredients for food and beverage manufacturers, baby food, and dietary supplements; product solutions and services for pet food manufacturers; sustainable ingredients and services for fish feed manufacturers to develop solutions for fish and shrimp farms; and probiotics for food supplements and functional foods. The Scent & Care segment develops, produces, and sells fragrance ingredients and compositions, aroma molecules, cosmetic ingredients, and mint flavors, as well as specific application processes for such substances. This segment's products are used by manufacturers of perfumes, personal care and cosmetic products, cleaning products, detergents, air fresheners, and oral care products. The company was founded in 1874 and is headquartered in Holzminden, Germany.",
   "insider_net_shares": 0.0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "TSLA": {
   "shortName": "Tesla, Inc.",
@@ -2007,7 +2007,7 @@
   "insider_net_shares": 303966646.0,
   "upgrades_90d": 3,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "CARG": {
   "shortName": "CarGurus, Inc.",
@@ -2045,7 +2045,7 @@
   "insider_net_shares": 583528.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "S": {
   "shortName": "SentinelOne, Inc.",
@@ -2121,7 +2121,7 @@
   "insider_net_shares": -309873.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "REGN": {
   "shortName": "Regeneron Pharmaceuticals, Inc.",
@@ -2159,7 +2159,7 @@
   "insider_net_shares": 22859.0,
   "upgrades_90d": 2,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "LYFT": {
   "shortName": "Lyft, Inc.",
@@ -2180,9 +2180,9 @@
   "totalDebt": 1287836032,
   "debtToEquity": 43.203,
   "returnOnEquity": 1.5812801,
-  "recommendationMean": 2.48889,
-  "numberOfAnalystOpinions": 37,
-  "targetMeanPrice": 19.37243,
+  "recommendationMean": 2.52273,
+  "numberOfAnalystOpinions": 36,
+  "targetMeanPrice": 19.42444,
   "currentPrice": 16.98,
   "heldPercentInsiders": 0.02414,
   "shortPercentOfFloat": 0.21530001,
@@ -2197,7 +2197,7 @@
   "insider_net_shares": 478875.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "AMD": {
   "shortName": "Advanced Micro Devices, Inc.",
@@ -2243,7 +2243,7 @@
   "industry": "Restaurants",
   "marketCap": 11241240576,
   "trailingPE": 18.827549,
-  "forwardPE": 16.561466,
+  "forwardPE": 16.556763,
   "pegRatio": 1.58,
   "priceToSalesTrailing12Months": 2.2188008,
   "revenueGrowth": 0.034,
@@ -2273,7 +2273,7 @@
   "insider_net_shares": 1054.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "INTU": {
   "shortName": "Intuit Inc.",
@@ -2349,7 +2349,7 @@
   "insider_net_shares": 1126763.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "COST": {
   "shortName": "Costco Wholesale Corporation",
@@ -2423,7 +2423,7 @@
    7252000000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "CPNG": {
   "shortName": "Coupang, Inc.",
@@ -2499,7 +2499,7 @@
   "insider_net_shares": -9000.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "HAG.DE": {
   "shortName": "HENSOLDT AG                   I",
@@ -2556,7 +2556,7 @@
   "totalDebt": 46041001984,
   "debtToEquity": 39.404,
   "returnOnEquity": 0.0801,
-  "recommendationMean": 1.51515,
+  "recommendationMean": 1.53125,
   "numberOfAnalystOpinions": 31,
   "targetMeanPrice": 126.73065,
   "currentPrice": 118.97,
@@ -2573,7 +2573,7 @@
   "insider_net_shares": 33221.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "BILL": {
   "shortName": "BILL Holdings, Inc.",
@@ -2611,7 +2611,7 @@
   "insider_net_shares": -81223.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "AR": {
   "shortName": "Antero Resources Corporation",
@@ -2619,7 +2619,7 @@
   "industry": "Oil & Gas E&P",
   "marketCap": 11898448896,
   "trailingPE": 8.744922,
-  "forwardPE": 8.382197,
+  "forwardPE": 8.551821,
   "pegRatio": 0.38,
   "priceToSalesTrailing12Months": 1.9893094,
   "revenueGrowth": 0.171,
@@ -2634,7 +2634,7 @@
   "returnOnEquity": 0.17386,
   "recommendationMean": 1.68182,
   "numberOfAnalystOpinions": 22,
-  "targetMeanPrice": 50.31818,
+  "targetMeanPrice": 50.13636,
   "currentPrice": 38.74,
   "heldPercentInsiders": 0.046919998,
   "shortPercentOfFloat": 0.041500002,
@@ -2649,7 +2649,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "CELH": {
   "shortName": "Celsius Holdings, Inc.",
@@ -2687,7 +2687,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "PODD": {
   "shortName": "Insulet Corporation",
@@ -2725,7 +2725,7 @@
   "insider_net_shares": 20752.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "WING": {
   "shortName": "Wingstop Inc.",
@@ -2763,7 +2763,7 @@
   "insider_net_shares": 18275.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "GD": {
   "shortName": "General Dynamics Corporation",
@@ -2989,7 +2989,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 1,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "TTD": {
   "shortName": "The Trade Desk, Inc.",
@@ -3012,7 +3012,7 @@
   "returnOnEquity": 0.12422,
   "recommendationMean": 3.05714,
   "numberOfAnalystOpinions": 30,
-  "targetMeanPrice": 14.75,
+  "targetMeanPrice": 14.95,
   "currentPrice": 15.68,
   "heldPercentInsiders": 0.03683,
   "shortPercentOfFloat": 0.19209999,
@@ -3027,7 +3027,7 @@
   "insider_net_shares": 2073559.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "TDOC": {
   "shortName": "Teladoc Health, Inc.",
@@ -3065,7 +3065,7 @@
   "insider_net_shares": 199932.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "LOW": {
   "shortName": "Lowe's Companies, Inc.",
@@ -3103,7 +3103,7 @@
   "insider_net_shares": -1721.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "CVX": {
   "shortName": "Chevron Corporation",
@@ -3111,7 +3111,7 @@
   "industry": "Oil & Gas Integrated",
   "marketCap": 429061144576,
   "trailingPE": 16.14464,
-  "forwardPE": 13.273068,
+  "forwardPE": 13.304887,
   "pegRatio": 0.83,
   "priceToSalesTrailing12Months": 1.8963442,
   "revenueGrowth": 0.348,
@@ -3141,7 +3141,7 @@
   "insider_net_shares": -474978.0,
   "upgrades_90d": 1,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "XOM": {
   "shortName": "ExxonMobil Holdings Corporation",
@@ -3149,7 +3149,7 @@
   "industry": "Oil & Gas Integrated",
   "marketCap": 695874551808,
   "trailingPE": 17.550411,
-  "forwardPE": 13.590759,
+  "forwardPE": 13.608378,
   "pegRatio": 1.34,
   "priceToSalesTrailing12Months": 1.7924194,
   "revenueGrowth": 0.326,
@@ -3164,7 +3164,7 @@
   "returnOnEquity": 0.15528,
   "recommendationMean": 2.42308,
   "numberOfAnalystOpinions": 22,
-  "targetMeanPrice": 184.31818,
+  "targetMeanPrice": 184.18182,
   "currentPrice": 170.59,
   "heldPercentInsiders": 0.00215,
   "shortPercentOfFloat": 0.0125,
@@ -3179,7 +3179,7 @@
   "insider_net_shares": 6914499.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "CVNA": {
   "shortName": "Carvana Co.",
@@ -3187,7 +3187,7 @@
   "industry": "Auto & Truck Dealerships",
   "marketCap": 107969396736,
   "trailingPE": 34.79327,
-  "forwardPE": 34.06721,
+  "forwardPE": 34.38217,
   "pegRatio": null,
   "priceToSalesTrailing12Months": 3.933168,
   "revenueGrowth": 0.424,
@@ -3200,9 +3200,9 @@
   "totalDebt": 5696999936,
   "debtToEquity": 100.778,
   "returnOnEquity": 0.54672,
-  "recommendationMean": 2.0,
-  "numberOfAnalystOpinions": 21,
-  "targetMeanPrice": 81.57143,
+  "recommendationMean": 1.95652,
+  "numberOfAnalystOpinions": 20,
+  "targetMeanPrice": 82.2,
   "currentPrice": 72.37,
   "heldPercentInsiders": 0.02836,
   "shortPercentOfFloat": 0.12100001,
@@ -3217,7 +3217,7 @@
   "insider_net_shares": 339134.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "HEI": {
   "shortName": "Heico Corporation",
@@ -3255,7 +3255,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "PUBM": {
   "shortName": "PubMatic, Inc.",
@@ -3293,7 +3293,7 @@
   "insider_net_shares": 48916.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "HEN3.DE": {
   "shortName": "Henkel AG & Co. KGaA          I",
@@ -3322,7 +3322,7 @@
   "shortPercentOfFloat": null,
   "longBusinessSummary": "Henkel AG & Co. KGaA, together with its subsidiaries, engages in the adhesive technologies and consumer brands businesses in Europe, India, the Middle East, Africa, North America, Latin America, the Asia Pacific. It offers adhesives, sealants, and functional coatings for various business areas, including packaging and consumer goods; mobility and electronics; and craftsmen, construction, and professional industries. The company also provides hair styling, hair colorants, and hair care products; and body care products, as well as distributes its products through brick-and-mortar stores, hair salons, and digital channels. In addition, it offers laundry and home care products, such as heavy-duty and specialty detergents, fabric softeners and laundry additives, and other fabric cleaning and fabric care products; dishwashing products; and hard surface and toilet cleaners. Further, the company provides household cleaners products. The company was founded in 1876 and is headquartered in D\u00fcsseldorf, Germany.",
   "insider_net_shares": 0.0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "NOC": {
   "shortName": "Northrop Grumman Corporation",
@@ -3457,7 +3457,7 @@
   "totalDebt": 3772000000,
   "debtToEquity": 58.39,
   "returnOnEquity": 0.16006,
-  "recommendationMean": null,
+  "recommendationMean": 2.30952,
   "numberOfAnalystOpinions": 37,
   "targetMeanPrice": 209.25323,
   "currentPrice": 196.45,
@@ -3473,8 +3473,8 @@
   ],
   "insider_net_shares": -260774.0,
   "upgrades_90d": 0,
-  "downgrades_90d": 3,
-  "_date": "2026-11-15"
+  "downgrades_90d": 2,
+  "_date": "2026-11-16"
  },
  "DUOL": {
   "shortName": "Duolingo, Inc.",
@@ -3512,7 +3512,7 @@
   "insider_net_shares": 174431.0,
   "upgrades_90d": 3,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "TGT": {
   "shortName": "Target Corporation",
@@ -3520,7 +3520,7 @@
   "industry": "Discount Stores",
   "marketCap": 73346203648,
   "trailingPE": 16.765316,
-  "forwardPE": 16.85245,
+  "forwardPE": 16.848545,
   "pegRatio": 2.21,
   "priceToSalesTrailing12Months": 0.68099165,
   "revenueGrowth": 0.053,
@@ -3550,7 +3550,7 @@
   "insider_net_shares": -113010.0,
   "upgrades_90d": 1,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "MGNI": {
   "shortName": "Magnite, Inc.",
@@ -3588,7 +3588,7 @@
   "insider_net_shares": -380736.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "BAYN.DE": {
   "shortName": "Bayer AG                      N",
@@ -3624,7 +3624,7 @@
    10053000000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  },
  "ROKU": {
   "shortName": "Roku, Inc.",
@@ -3662,6 +3662,6 @@
   "insider_net_shares": 218983.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-15"
+  "_date": "2026-11-16"
  }
 }
