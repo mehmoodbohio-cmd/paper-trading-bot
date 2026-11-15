@@ -1430,6 +1430,15 @@
     "DAX": 101.53,
     "BTC": 88.32
    }
+  },
+  {
+   "t": "2026-11-15T10:30:31.374956+00:00",
+   "v": 97.11,
+   "b": {
+    "S&P 500": 99.28,
+    "DAX": 101.53,
+    "BTC": 88.5
+   }
   }
  ],
  "fees_paid": 0.6639410825152877,
@@ -1461,13 +1470,13 @@
   ]
  },
  "last_skipped": [
-  "STX: confidence 38% below 50%",
   "PEPE: good setup, but no cash left (fully invested)",
   "INJ: good setup, but no cash left (fully invested)",
   "JUP: good setup, but no cash left (fully invested)",
   "ARB: good setup, but no cash left (fully invested)",
   "NEAR: good setup, but no cash left (fully invested)",
   "QNT: good setup, but no cash left (fully invested)",
-  "AVAX: good setup, but no cash left (fully invested)"
+  "AVAX: good setup, but no cash left (fully invested)",
+  "STX: good setup, but no cash left (fully invested)"
  ]
 }
