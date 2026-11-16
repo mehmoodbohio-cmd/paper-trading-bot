@@ -1844,6 +1844,15 @@
     "DAX": 101.53,
     "BTC": 87.42
    }
+  },
+  {
+   "t": "2026-11-16T08:00:31.080475+00:00",
+   "v": 97.35,
+   "b": {
+    "S&P 500": 99.28,
+    "DAX": 101.53,
+    "BTC": 87.73
+   }
   }
  ],
  "fees_paid": 0.6639410825152877,
@@ -1859,7 +1868,7 @@
   "U": 52.810001373291016,
   "ABNB": 186.75
  },
- "fx": 1.102292776107788,
+ "fx": 1.1019283533096313,
  "mood": {
   "stocks": [
    "cautious",
@@ -1870,18 +1879,18 @@
    "DAX healthy (-0.1% today)"
   ],
   "crypto": [
-   "risk-off",
-   "BTC below 50-day average and down -1.0% today"
+   "cautious",
+   "BTC below its 50-day average"
   ]
  },
  "last_skipped": [
-  "JUP: market mood risk-off",
-  "QNT: market mood risk-off",
-  "PEPE: market mood risk-off",
-  "INJ: market mood risk-off",
-  "STX: market mood risk-off",
-  "NEAR: market mood risk-off",
-  "ARB: market mood risk-off",
-  "AAVE: market mood risk-off"
+  "PEPE: confidence 37% below 50%",
+  "INJ: confidence 44% below 50%",
+  "STX: confidence 44% below 50%",
+  "ARB: confidence 44% below 50%",
+  "JUP: good setup, but no cash left (fully invested)",
+  "QNT: good setup, but no cash left (fully invested)",
+  "NEAR: good setup, but no cash left (fully invested)",
+  "AAVE: good setup, but no cash left (fully invested)"
  ]
 }
