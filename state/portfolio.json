@@ -27,7 +27,7 @@
    "entry_price": 51.1150016784668,
    "cost_eur": 31.742480230896486,
    "peak": 53.63999938964844,
-   "last_price": 52.56930160522461,
+   "last_price": 52.380001068115234,
    "opened": "2026-11-13T17:30:31.103032+00:00",
    "reasons": [
     "daily scan score 0.78 (charts 0.81, company health 0.74)",
@@ -66,7 +66,7 @@
    "entry_price": 6.840000152587891,
    "cost_eur": 20.127082935898628,
    "peak": 6.888000011444092,
-   "last_price": 6.888000011444092,
+   "last_price": 6.875999927520752,
    "opened": "2026-11-16T15:00:31.462436+00:00",
    "reasons": [
     "daily scan score 0.44 (charts 0.44)",
@@ -84,7 +84,7 @@
    "entry_price": 156.0,
    "cost_eur": 14.854380768404129,
    "peak": 158.5500030517578,
-   "last_price": 156.83999633789062,
+   "last_price": 156.16000366210938,
    "opened": "2026-11-16T15:00:31.462436+00:00",
    "reasons": [
     "daily scan score 0.45 (charts 0.45)",
@@ -2091,6 +2091,15 @@
     "DAX": 100.95,
     "BTC": 87.8
    }
+  },
+  {
+   "t": "2026-11-16T19:30:30.930908+00:00",
+   "v": 96.57,
+   "b": {
+    "S&P 500": 97.42,
+    "DAX": 100.95,
+    "BTC": 87.75
+   }
   }
  ],
  "fees_paid": 0.9165484982289817,
@@ -2102,16 +2111,16 @@
  "trades_today": 5,
  "live_prices": {
   "SAP.DE": 213.39999389648438,
-  "U": 52.56930160522461,
+  "U": 52.380001068115234,
   "PEPE24478-USD": 3.900000137946336e-06,
-  "INJ-USD": 6.888000011444092,
-  "QNT-USD": 156.83999633789062
+  "INJ-USD": 6.875999927520752,
+  "QNT-USD": 156.16000366210938
  },
- "fx": 1.1002310514450073,
+ "fx": 1.1009578704833984,
  "mood": {
   "stocks": [
    "risk-off",
-   "S&P 500 below 50-day average and down -1.8% today"
+   "S&P 500 below 50-day average and down -1.9% today"
   ],
   "eu_stocks": [
    "ok",
@@ -2136,6 +2145,6 @@
   "JUP: negative news (-0.32)",
   "NEAR: confidence 44% below 50%",
   "ARB: confidence 42% below 50%",
-  "AAVE: confidence 34% below 50%"
+  "AAVE: confidence 41% below 50%"
  ]
 }
