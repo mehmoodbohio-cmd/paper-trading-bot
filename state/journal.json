@@ -359,5 +359,26 @@
    "trend broke: short-term: falling (-0.4% in 2h), below 10-hour average, and below its 20-day average"
   ],
   "check": null
+ },
+ {
+  "id": 17,
+  "time": "2026-11-16T22:00:31.593502+00:00",
+  "ticker": "NEAR-USD",
+  "side": "BUY",
+  "price": 3.178999900817871,
+  "eur": 14.64,
+  "fee": 0.037,
+  "confidence": 0.5859296209101864,
+  "reasons": [
+   "daily scan score 0.42 (charts 0.42)",
+   "downtrend (below its moving averages)",
+   "momentum stronger than 92% of the scan (3-month +23%)",
+   "RSI 36",
+   "short-term: above its 10-hour average and up +0.3% in 2h",
+   "good news: \"Bitcoin Gained 7% in September, but NEAR and Arbitrum Reportedly Surged 187% and 137%\" (gained)",
+   "market mood: BTC below its 50-day average",
+   "size 14.64 EUR = 15% of portfolio (confidence x0.59, volatility x0.84)"
+  ],
+  "check": null
  }
 ]
