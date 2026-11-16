@@ -345,5 +345,19 @@
    "size 14.82 EUR = 15% of portfolio (confidence x0.59, volatility x0.95)"
   ],
   "check": null
+ },
+ {
+  "id": 16,
+  "time": "2026-11-16T21:30:31.474842+00:00",
+  "ticker": "QNT-USD",
+  "side": "SELL",
+  "price": 154.8000030517578,
+  "eur": 14.71,
+  "fee": 0.037,
+  "confidence": null,
+  "reasons": [
+   "trend broke: short-term: falling (-0.4% in 2h), below 10-hour average, and below its 20-day average"
+  ],
+  "check": null
  }
 ]
