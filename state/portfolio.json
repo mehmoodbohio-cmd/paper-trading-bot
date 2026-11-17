@@ -1,5 +1,5 @@
 {
- "cash": 82.0719605504349,
+ "cash": 0.0,
  "positions": {
   "ADS.DE": {
    "units": 0.07417177883371161,
@@ -20,6 +20,71 @@
     "bad news: \"Waterless Dyeing Factory CleanDye Ceases Operations\" (ceases)",
     "market mood: DAX healthy (-0.8% today)",
     "size 13.08 EUR = 13% of portfolio (confidence x0.54, volatility x1.00)"
+   ]
+  },
+  "REGN": {
+   "units": 0.03513912634200517,
+   "entry_price": 963.02001953125,
+   "cost_eur": 30.782892472436405,
+   "peak": 963.02001953125,
+   "last_price": 963.02001953125,
+   "opened": "2026-11-17T17:30:31.211031+00:00",
+   "reasons": [
+    "daily scan score 0.83 (charts 0.79, company health 0.90)",
+    "uptrend (price above 50-day average, 20-day above 50-day)",
+    "momentum stronger than 91% of the scan (3-month +14%)",
+    "RSI 67",
+    "sales growing +36% a year",
+    "profits growing +36%",
+    "keeps 29% of sales as profit",
+    "short-term: above its 10-hour average and up +0.7% in 2h",
+    "bad news: \"Kodiak Q3 Loss Wider Than Expected, Pipeline Development in Focus\" ('wider than expected' (-3), loss)",
+    "risks: trades above analyst targets (+3%)",
+    "market mood: S&P 500 below its 50-day average",
+    "size 30.71 EUR = 32% of portfolio (confidence x0.81, volatility x1.00)"
+   ]
+  },
+  "CVNA": {
+   "units": 0.447044472397453,
+   "entry_price": 71.18000030517578,
+   "cost_eur": 28.946220440918573,
+   "peak": 71.18000030517578,
+   "last_price": 71.18000030517578,
+   "opened": "2026-11-17T17:30:31.211031+00:00",
+   "reasons": [
+    "daily scan score 0.76 (charts 0.71, company health 0.83)",
+    "uptrend (price above 50-day average, 20-day above 50-day)",
+    "momentum stronger than 74% of the scan (3-month +1%)",
+    "RSI 54",
+    "sales growing +42% a year",
+    "profits growing +86%",
+    "generates cash",
+    "short-term: above its 10-hour average and up +1.6% in 2h",
+    "good news: \"CARG vs. CVNA: Which Stock Is the Better Value Option?\" (better)",
+    "market mood: S&P 500 below its 50-day average",
+    "size 28.87 EUR = 30% of portfolio (confidence x0.77, volatility x0.99)"
+   ]
+  },
+  "CARG": {
+   "units": 0.7065015963840172,
+   "entry_price": 34.76499938964844,
+   "cost_eur": 22.34284763707992,
+   "peak": 34.76499938964844,
+   "last_price": 34.76499938964844,
+   "opened": "2026-11-17T17:30:31.211031+00:00",
+   "reasons": [
+    "daily scan score 0.77 (charts 0.72, company health 0.84)",
+    "uptrend (price above 50-day average, 20-day above 50-day)",
+    "momentum stronger than 78% of the scan (3-month -4%)",
+    "RSI 61",
+    "sales growing +12% a year",
+    "profits growing +32%",
+    "keeps 19% of sales as profit",
+    "short-term: bouncing +1.1% but still below 10-hour average",
+    "good news: \"All You Need to Know About CarGurus (CARG) Rating Upgrade to Buy\" ('upgrade to buy' (+3))",
+    "risks: 22% of shares sold short: many investors bet against it",
+    "market mood: S&P 500 below its 50-day average",
+    "size 22.29 EUR = 23% of portfolio (confidence x0.68, volatility x1.00)"
    ]
   }
  },
@@ -2456,23 +2521,35 @@
     "DAX": 98.85,
     "BTC": 85.94
    }
+  },
+  {
+   "t": "2026-11-17T17:30:31.211031+00:00",
+   "v": 94.81,
+   "b": {
+    "S&P 500": 96.51,
+    "DAX": 98.85,
+    "BTC": 86.16
+   }
   }
  ],
- "fees_paid": 1.4130171937684952,
+ "fees_paid": 1.6176854245675847,
  "benchmarks_start": {
   "SPY": 759.8099975585938,
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 10,
+ "trades_today": 13,
  "live_prices": {
-  "ADS.DE": 174.5500030517578
+  "ADS.DE": 174.5500030517578,
+  "REGN": 963.02001953125,
+  "CVNA": 71.18000030517578,
+  "CARG": 34.76499938964844
  },
- "fx": 1.1018069982528687,
+ "fx": 1.1020498275756836,
  "mood": {
   "stocks": [
-   "risk-off",
-   "S&P 500 below 50-day average and down -1.3% today"
+   "cautious",
+   "S&P 500 below its 50-day average"
   ],
   "eu_stocks": [
    "ok",
@@ -2480,24 +2557,22 @@
   ],
   "crypto": [
    "risk-off",
-   "BTC below 50-day average and down -2.0% today"
+   "BTC below 50-day average and down -1.8% today"
   ]
  },
  "last_skipped": [
-  "REGN: market mood risk-off",
-  "ELF: market mood risk-off",
-  "ABNB: market mood risk-off",
-  "MGNI: market mood risk-off",
-  "CARG: market mood risk-off",
-  "U: market mood risk-off",
-  "CVX: market mood risk-off",
-  "CVNA: market mood risk-off",
-  "V: market mood risk-off",
   "ICP: market mood risk-off",
   "QNT: market mood risk-off",
   "INJ: market mood risk-off",
   "PEPE: market mood risk-off",
   "JUP: market mood risk-off",
-  "RENDER: market mood risk-off"
+  "RENDER: market mood risk-off",
+  "STX: market mood risk-off",
+  "NEAR: market mood risk-off",
+  "ELF: good setup, but no cash left (fully invested)",
+  "MGNI: good setup, but no cash left (fully invested)",
+  "ABNB: good setup, but no cash left (fully invested)",
+  "V: good setup, but no cash left (fully invested)",
+  "CVX: good setup, but no cash left (fully invested)"
  ]
 }
