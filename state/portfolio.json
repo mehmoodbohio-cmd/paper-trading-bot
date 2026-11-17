@@ -49,7 +49,7 @@
    "entry_price": 71.18000030517578,
    "cost_eur": 28.946220440918573,
    "peak": 71.18000030517578,
-   "last_price": 70.95500183105469,
+   "last_price": 71.08999633789062,
    "opened": "2026-11-17T17:30:31.211031+00:00",
    "reasons": [
     "daily scan score 0.76 (charts 0.71, company health 0.83)",
@@ -2593,6 +2593,15 @@
     "DAX": 98.85,
     "BTC": 86.45
    }
+  },
+  {
+   "t": "2026-11-17T21:30:31.108546+00:00",
+   "v": 94.36,
+   "b": {
+    "S&P 500": 96.4,
+    "DAX": 98.85,
+    "BTC": 87.3
+   }
   }
  ],
  "fees_paid": 1.6176854245675847,
@@ -2605,10 +2614,10 @@
  "live_prices": {
   "ADS.DE": 174.5500030517578,
   "REGN": 957.5700073242188,
-  "CVNA": 70.95500183105469,
+  "CVNA": 71.08999633789062,
   "CARG": 34.209999084472656
  },
- "fx": 1.1009578704833984,
+ "fx": 1.100473165512085,
  "mood": {
   "stocks": [
    "risk-off",
@@ -2619,18 +2628,15 @@
    "DAX healthy (-2.1% today)"
   ],
   "crypto": [
-   "risk-off",
-   "BTC below 50-day average and down -1.4% today"
+   "cautious",
+   "BTC below its 50-day average"
   ]
  },
  "last_skipped": [
-  "ICP: market mood risk-off",
-  "QNT: market mood risk-off",
-  "INJ: market mood risk-off",
-  "PEPE: market mood risk-off",
-  "JUP: market mood risk-off",
-  "RENDER: market mood risk-off",
-  "STX: market mood risk-off",
-  "NEAR: market mood risk-off"
+  "ICP: negative news (-0.32)",
+  "JUP: negative news (-0.32)",
+  "QNT: good setup, but no cash left (fully invested)",
+  "PEPE: good setup, but no cash left (fully invested)",
+  "STX: good setup, but no cash left (fully invested)"
  ]
 }
