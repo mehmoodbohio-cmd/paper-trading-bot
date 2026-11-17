@@ -89,8 +89,8 @@
   }
  },
  "started": "2026-11-12T00:54:13.766037+00:00",
- "day": "2026-11-17",
- "day_start_value": 95.95066077132638,
+ "day": "2026-11-18",
+ "day_start_value": 94.3822901539057,
  "last_scan": null,
  "last_summary": "2026-11-17",
  "last_gems": "2026-W47",
@@ -2629,6 +2629,15 @@
     "DAX": 98.85,
     "BTC": 87.33
    }
+  },
+  {
+   "t": "2026-11-17T23:00:31.143761+00:00",
+   "v": 94.38,
+   "b": {
+    "S&P 500": 96.4,
+    "DAX": 100.95,
+    "BTC": 87.54
+   }
   }
  ],
  "fees_paid": 1.6176854245675847,
@@ -2637,14 +2646,14 @@
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 13,
+ "trades_today": 0,
  "live_prices": {
   "ADS.DE": 174.5500030517578,
   "REGN": 957.5700073242188,
   "CVNA": 71.08999633789062,
   "CARG": 34.209999084472656
  },
- "fx": 1.1001100540161133,
+ "fx": 1.1002310514450073,
  "mood": {
   "stocks": [
    "risk-off",
@@ -2652,7 +2661,7 @@
   ],
   "eu_stocks": [
    "ok",
-   "DAX healthy (-2.1% today)"
+   "DAX healthy (-0.6% today)"
   ],
   "crypto": [
    "cautious",
@@ -2660,11 +2669,11 @@
   ]
  },
  "last_skipped": [
-  "ICP: negative news (-0.32)",
   "JUP: negative news (-0.32)",
-  "QNT: good setup, but no cash left (fully invested)",
-  "PEPE: good setup, but no cash left (fully invested)",
   "STX: good setup, but no cash left (fully invested)",
-  "NEAR: good setup, but no cash left (fully invested)"
+  "PEPE: good setup, but no cash left (fully invested)",
+  "QNT: good setup, but no cash left (fully invested)",
+  "NEAR: good setup, but no cash left (fully invested)",
+  "AAVE: good setup, but no cash left (fully invested)"
  ]
 }
