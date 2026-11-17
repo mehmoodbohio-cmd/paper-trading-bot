@@ -1,64 +1,6 @@
 {
- "cash": 0.0,
+ "cash": 82.0719605504349,
  "positions": {
-  "U": {
-   "units": 0.6834961930700971,
-   "entry_price": 51.1150016784668,
-   "cost_eur": 31.742480230896486,
-   "peak": 53.63999938964844,
-   "last_price": 50.47999954223633,
-   "opened": "2026-11-13T17:30:31.103032+00:00",
-   "reasons": [
-    "daily scan score 0.78 (charts 0.81, company health 0.74)",
-    "uptrend (price above 50-day average, 20-day above 50-day)",
-    "momentum stronger than 91% of the scan (3-month +7%)",
-    "RSI 67",
-    "sales growing +32% a year",
-    "generates cash",
-    "analysts rate it a buy",
-    "short-term: above its 10-hour average and up +1.7% in 2h",
-    "good news: \"CBRS Q3 Earnings Beat Estimates, Revenues Rise on Strong Cloud Growth\" ('beat estimates' (+3), strong)",
-    "risks: loses money (margin -16%)",
-    "market mood: S&P 500 below its 50-day average",
-    "size 31.66 EUR = 33% of portfolio (confidence x0.82, volatility x1.00)"
-   ]
-  },
-  "INJ-USD": {
-   "units": 3.23083951320769,
-   "entry_price": 6.840000152587891,
-   "cost_eur": 20.127082935898628,
-   "peak": 7.7220001220703125,
-   "last_price": 7.4079999923706055,
-   "opened": "2026-11-16T15:00:31.462436+00:00",
-   "reasons": [
-    "daily scan score 0.44 (charts 0.44)",
-    "downtrend (below its moving averages)",
-    "momentum stronger than 96% of the scan (3-month +30%)",
-    "RSI 42",
-    "short-term: above its 10-hour average and up +2.7% in 2h",
-    "news: nothing important (-0.00)",
-    "market mood: BTC below its 50-day average",
-    "size 20.08 EUR = 21% of portfolio (confidence x0.59, volatility x0.88)"
-   ]
-  },
-  "RENDER-USD": {
-   "units": 12.41789151306607,
-   "entry_price": 1.3846999406814575,
-   "cost_eur": 15.659036711960672,
-   "peak": 1.395799994468689,
-   "last_price": 1.3906999826431274,
-   "opened": "2026-11-17T07:30:30.958690+00:00",
-   "reasons": [
-    "daily scan score 0.39 (charts 0.39)",
-    "downtrend (below its moving averages)",
-    "momentum stronger than 82% of the scan (3-month -5%)",
-    "RSI 35",
-    "short-term: above its 10-hour average and up +0.1% in 2h",
-    "good news: \"WEF mapped out 4 AI-driven futures for jobs by 2030, and only one looks good for humanity\" (good)",
-    "market mood: BTC below its 50-day average",
-    "size 15.62 EUR = 16% of portfolio (confidence x0.59, volatility x1.00)"
-   ]
-  },
   "ADS.DE": {
    "units": 0.07417177883371161,
    "entry_price": 176.3000030517578,
@@ -79,27 +21,6 @@
     "market mood: DAX healthy (-0.8% today)",
     "size 13.08 EUR = 13% of portfolio (confidence x0.54, volatility x1.00)"
    ]
-  },
-  "NDX1.DE": {
-   "units": 0.3703525516966791,
-   "entry_price": 39.619998931884766,
-   "cost_eur": 14.71005112189983,
-   "peak": 40.20000076293945,
-   "last_price": 39.540000915527344,
-   "opened": "2026-11-17T09:30:31.542915+00:00",
-   "reasons": [
-    "daily scan score 0.75 (charts 0.72, company health 0.80)",
-    "uptrend (price above 50-day average, 20-day above 50-day)",
-    "momentum stronger than 78% of the scan (3-month +6%)",
-    "RSI 58",
-    "sales growing +28% a year",
-    "profits growing +170%",
-    "generates cash",
-    "short-term: falling (-3.0% in 2h), below 10-hour average",
-    "good news: \"European shares reverse gains as U.S. indices drop\" (gains)",
-    "market mood: DAX healthy (-0.9% today)",
-    "size 14.67 EUR = 15% of portfolio (confidence x0.54, volatility x1.00)"
-   ]
   }
  },
  "started": "2026-11-12T00:54:13.766037+00:00",
@@ -117,7 +38,11 @@
   "QNT-USD": "2026-11-16T21:30:31.474842+00:00",
   "PEPE24478-USD": "2026-11-17T07:00:31.581231+00:00",
   "SAP.DE": "2026-11-17T08:30:30.917433+00:00",
-  "NEAR-USD": "2026-11-17T09:30:31.542915+00:00"
+  "NEAR-USD": "2026-11-17T09:30:31.542915+00:00",
+  "U": "2026-11-17T16:00:31.733475+00:00",
+  "INJ-USD": "2026-11-17T16:00:31.733475+00:00",
+  "RENDER-USD": "2026-11-17T16:00:31.733475+00:00",
+  "NDX1.DE": "2026-11-17T16:00:31.733475+00:00"
  },
  "history": [
   {
@@ -2495,40 +2420,57 @@
     "DAX": 99.51,
     "BTC": 87.81
    }
+  },
+  {
+   "t": "2026-11-17T16:00:31.733475+00:00",
+   "v": 95.08,
+   "b": {
+    "S&P 500": 96.34,
+    "DAX": 99.13,
+    "BTC": 86.45
+   }
   }
  ],
- "fees_paid": 1.2073230570506133,
+ "fees_paid": 1.4130171937684952,
  "benchmarks_start": {
   "SPY": 759.8099975585938,
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 6,
+ "trades_today": 10,
  "live_prices": {
-  "U": 50.47999954223633,
-  "INJ-USD": 7.4079999923706055,
-  "RENDER-USD": 1.3906999826431274,
-  "ADS.DE": 175.39999389648438,
-  "NDX1.DE": 39.540000915527344
+  "ADS.DE": 175.39999389648438
  },
- "fx": 1.1001100540161133,
+ "fx": 1.1007153987884521,
  "mood": {
   "stocks": [
-   "cautious",
-   "S&P 500 below its 50-day average"
+   "risk-off",
+   "S&P 500 below 50-day average and down -1.1% today"
   ],
   "eu_stocks": [
    "ok",
-   "DAX healthy (-1.4% today)"
+   "DAX healthy (-1.8% today)"
   ],
   "crypto": [
-   "cautious",
-   "BTC below its 50-day average"
+   "risk-off",
+   "BTC below 50-day average and down -1.4% today"
   ]
  },
  "last_skipped": [
-  "ICP: negative news (-0.32)",
-  "QNT: confidence 49% below 50%",
-  "JUP: negative news (-0.32)"
+  "REGN: market mood risk-off",
+  "ELF: market mood risk-off",
+  "ABNB: market mood risk-off",
+  "MGNI: market mood risk-off",
+  "CARG: market mood risk-off",
+  "U: market mood risk-off",
+  "CVX: market mood risk-off",
+  "CVNA: market mood risk-off",
+  "V: market mood risk-off",
+  "ICP: market mood risk-off",
+  "QNT: market mood risk-off",
+  "INJ: market mood risk-off",
+  "PEPE: market mood risk-off",
+  "JUP: market mood risk-off",
+  "RENDER: market mood risk-off"
  ]
 }
