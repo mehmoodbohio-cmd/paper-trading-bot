@@ -49,7 +49,7 @@
    "entry_price": 3.860000106215011e-06,
    "cost_eur": 15.539703679166394,
    "peak": 3.929999820684316e-06,
-   "last_price": 3.919999926438322e-06,
+   "last_price": 3.929999820684316e-06,
    "opened": "2026-11-16T15:00:31.462436+00:00",
    "reasons": [
     "daily scan score 0.44 (charts 0.44)",
@@ -65,8 +65,8 @@
    "units": 3.23083951320769,
    "entry_price": 6.840000152587891,
    "cost_eur": 20.127082935898628,
-   "peak": 6.920000076293945,
-   "last_price": 6.916999816894531,
+   "peak": 6.954999923706055,
+   "last_price": 6.954999923706055,
    "opened": "2026-11-16T15:00:31.462436+00:00",
    "reasons": [
     "daily scan score 0.44 (charts 0.44)",
@@ -84,7 +84,7 @@
    "entry_price": 3.178999900817871,
    "cost_eur": 14.67628441544278,
    "peak": 3.178999900817871,
-   "last_price": 3.127500057220459,
+   "last_price": 3.1633999347686768,
    "opened": "2026-11-16T22:00:31.593502+00:00",
    "reasons": [
     "daily scan score 0.42 (charts 0.42)",
@@ -2218,6 +2218,15 @@
     "DAX": 101.53,
     "BTC": 87.25
    }
+  },
+  {
+   "t": "2026-11-17T02:00:30.944829+00:00",
+   "v": 96.43,
+   "b": {
+    "S&P 500": 99.28,
+    "DAX": 101.53,
+    "BTC": 87.47
+   }
   }
  ],
  "fees_paid": 0.98993037894295,
@@ -2230,11 +2239,11 @@
  "live_prices": {
   "SAP.DE": 213.39999389648438,
   "U": 51.88999938964844,
-  "PEPE24478-USD": 3.919999926438322e-06,
-  "INJ-USD": 6.916999816894531,
-  "NEAR-USD": 3.127500057220459
+  "PEPE24478-USD": 3.929999820684316e-06,
+  "INJ-USD": 6.954999923706055,
+  "NEAR-USD": 3.1633999347686768
  },
- "fx": 1.0989010334014893,
+ "fx": 1.0997470617294312,
  "mood": {
   "stocks": [
    "cautious",
@@ -2245,15 +2254,14 @@
    "DAX healthy (-0.1% today)"
   ],
   "crypto": [
-   "risk-off",
-   "BTC below 50-day average and down -1.2% today"
+   "cautious",
+   "BTC below its 50-day average"
   ]
  },
  "last_skipped": [
-  "ICP: market mood risk-off",
-  "QNT: market mood risk-off",
-  "JUP: market mood risk-off",
-  "RENDER: market mood risk-off",
-  "STX: market mood risk-off"
+  "ICP: negative news (-0.32)",
+  "JUP: negative news (-0.32)",
+  "RENDER: confidence 37% below 50%",
+  "STX: confidence 31% below 50%"
  ]
 }
