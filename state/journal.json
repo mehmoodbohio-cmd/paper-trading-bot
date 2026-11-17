@@ -415,5 +415,43 @@
    "size 15.62 EUR = 16% of portfolio (confidence x0.59, volatility x1.00)"
   ],
   "check": null
+ },
+ {
+  "id": 20,
+  "time": "2026-11-17T08:30:30.917433+00:00",
+  "ticker": "SAP.DE",
+  "side": "SELL",
+  "price": 209.5500030517578,
+  "eur": 13.14,
+  "fee": 0.033,
+  "confidence": null,
+  "reasons": [
+   "trend broke: short-term: falling (-1.4% in 2h), below 10-hour average, and below its 20-day average"
+  ],
+  "check": null
+ },
+ {
+  "id": 21,
+  "time": "2026-11-17T08:30:30.917433+00:00",
+  "ticker": "ADS.DE",
+  "side": "BUY",
+  "price": 176.3000030517578,
+  "eur": 13.08,
+  "fee": 0.033,
+  "confidence": 0.5405618557923274,
+  "reasons": [
+   "daily scan score 0.76 (charts 0.76, company health 0.75)",
+   "uptrend (price above 50-day average, 20-day above 50-day)",
+   "momentum stronger than 89% of the scan (3-month +15%)",
+   "RSI 67",
+   "profits growing +58%",
+   "generates cash",
+   "cheap for its growth (PEG 0.7)",
+   "short-term: falling (-1.0% in 2h), below 10-hour average",
+   "bad news: \"Waterless Dyeing Factory CleanDye Ceases Operations\" (ceases)",
+   "market mood: DAX healthy (-0.8% today)",
+   "size 13.08 EUR = 13% of portfolio (confidence x0.54, volatility x1.00)"
+  ],
+  "check": null
  }
 ]
