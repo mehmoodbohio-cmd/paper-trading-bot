@@ -268,7 +268,12 @@
   "reasons": [
    "market mood risk-off (S&P 500 below 50-day average and down -1.2% today) and position losing"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-17T15:00:31.612020+00:00",
+   "price": 115.12999725341797,
+   "move": -0.013749118503806002,
+   "right": true
+  }
  },
  {
   "id": 12,
@@ -282,7 +287,12 @@
   "reasons": [
    "market mood risk-off (S&P 500 below 50-day average and down -1.2% today) and position losing"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-17T15:00:31.612020+00:00",
+   "price": 185.33999633789062,
+   "move": 0.00689623385934679,
+   "right": false
+  }
  },
  {
   "id": 13,
@@ -302,7 +312,12 @@
    "market mood: BTC below its 50-day average",
    "size 15.50 EUR = 16% of portfolio (confidence x0.59, volatility x0.68)"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-17T15:00:31.612020+00:00",
+   "price": 3.82999996872968e-06,
+   "move": -0.0077720561294875035,
+   "right": false
+  }
  },
  {
   "id": 14,
@@ -323,7 +338,12 @@
    "market mood: BTC below its 50-day average",
    "size 20.08 EUR = 21% of portfolio (confidence x0.59, volatility x0.88)"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-17T15:00:31.612020+00:00",
+   "price": 7.432000160217285,
+   "move": 0.08654970678698204,
+   "right": true
+  }
  },
  {
   "id": 15,
@@ -344,7 +364,12 @@
    "market mood: BTC below its 50-day average",
    "size 14.82 EUR = 15% of portfolio (confidence x0.59, volatility x0.95)"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-17T15:00:31.612020+00:00",
+   "price": 156.6999969482422,
+   "move": 0.004487159924629447,
+   "right": true
+  }
  },
  {
   "id": 16,
