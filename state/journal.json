@@ -380,5 +380,19 @@
    "size 14.64 EUR = 15% of portfolio (confidence x0.59, volatility x0.84)"
   ],
   "check": null
+ },
+ {
+  "id": 18,
+  "time": "2026-11-17T07:00:31.581231+00:00",
+  "ticker": "PEPE24478-USD",
+  "side": "SELL",
+  "price": 3.910000032192329e-06,
+  "eur": 15.7,
+  "fee": 0.039,
+  "confidence": null,
+  "reasons": [
+   "trend broke: short-term: falling (-0.8% in 2h), below 10-hour average, and below its 20-day average"
+  ],
+  "check": null
  }
 ]

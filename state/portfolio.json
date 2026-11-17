@@ -1,5 +1,5 @@
 {
- "cash": 0.0,
+ "cash": 15.659036711960672,
  "positions": {
   "SAP.DE": {
    "units": 0.06271549001786499,
@@ -44,29 +44,12 @@
     "size 31.66 EUR = 33% of portfolio (confidence x0.82, volatility x1.00)"
    ]
   },
-  "PEPE24478-USD": {
-   "units": 4420242.311733151,
-   "entry_price": 3.860000106215011e-06,
-   "cost_eur": 15.539703679166394,
-   "peak": 3.9599999581696466e-06,
-   "last_price": 3.929999820684316e-06,
-   "opened": "2026-11-16T15:00:31.462436+00:00",
-   "reasons": [
-    "daily scan score 0.44 (charts 0.44)",
-    "momentum stronger than 90% of the scan (3-month +30%)",
-    "RSI 31",
-    "short-term: above its 10-hour average and up +2.1% in 2h",
-    "good news: \"Better Buy in 2026: Pepe, Dogecoin or XRP? One Is Up 21% This Month.\" (better)",
-    "market mood: BTC below its 50-day average",
-    "size 15.50 EUR = 16% of portfolio (confidence x0.59, volatility x0.68)"
-   ]
-  },
   "INJ-USD": {
    "units": 3.23083951320769,
    "entry_price": 6.840000152587891,
    "cost_eur": 20.127082935898628,
    "peak": 7.406000137329102,
-   "last_price": 7.291999816894531,
+   "last_price": 7.230000019073486,
    "opened": "2026-11-16T15:00:31.462436+00:00",
    "reasons": [
     "daily scan score 0.44 (charts 0.44)",
@@ -84,7 +67,7 @@
    "entry_price": 3.178999900817871,
    "cost_eur": 14.67628441544278,
    "peak": 3.2827000617980957,
-   "last_price": 3.216599941253662,
+   "last_price": 3.2260000705718994,
    "opened": "2026-11-16T22:00:31.593502+00:00",
    "reasons": [
     "daily scan score 0.42 (charts 0.42)",
@@ -110,7 +93,8 @@
   "AMD": "2026-11-13T17:00:31.503713+00:00",
   "ELF": "2026-11-16T15:00:31.462436+00:00",
   "ABNB": "2026-11-16T15:00:31.462436+00:00",
-  "QNT-USD": "2026-11-16T21:30:31.474842+00:00"
+  "QNT-USD": "2026-11-16T21:30:31.474842+00:00",
+  "PEPE24478-USD": "2026-11-17T07:00:31.581231+00:00"
  },
  "history": [
   {
@@ -2317,21 +2301,29 @@
     "DAX": 100.95,
     "BTC": 87.27
    }
+  },
+  {
+   "t": "2026-11-17T07:00:31.581231+00:00",
+   "v": 97.32,
+   "b": {
+    "S&P 500": 97.39,
+    "DAX": 100.95,
+    "BTC": 87.24
+   }
   }
  ],
- "fees_paid": 0.98993037894295,
+ "fees_paid": 1.0291760849879643,
  "benchmarks_start": {
   "SPY": 759.8099975585938,
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 0,
+ "trades_today": 1,
  "live_prices": {
   "SAP.DE": 213.39999389648438,
   "U": 51.88999938964844,
-  "PEPE24478-USD": 3.929999820684316e-06,
-  "INJ-USD": 7.291999816894531,
-  "NEAR-USD": 3.216599941253662
+  "INJ-USD": 7.230000019073486,
+  "NEAR-USD": 3.2260000705718994
  },
  "fx": 1.1009578704833984,
  "mood": {
@@ -2351,6 +2343,7 @@
  "last_skipped": [
   "ICP: market mood risk-off",
   "QNT: market mood risk-off",
+  "PEPE: market mood risk-off",
   "JUP: market mood risk-off",
   "RENDER: market mood risk-off",
   "STX: market mood risk-off"
