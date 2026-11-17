@@ -27,7 +27,7 @@
    "entry_price": 963.02001953125,
    "cost_eur": 30.782892472436405,
    "peak": 965.405029296875,
-   "last_price": 965.405029296875,
+   "last_price": 958.8026733398438,
    "opened": "2026-11-17T17:30:31.211031+00:00",
    "reasons": [
     "daily scan score 0.83 (charts 0.79, company health 0.90)",
@@ -49,7 +49,7 @@
    "entry_price": 71.18000030517578,
    "cost_eur": 28.946220440918573,
    "peak": 71.18000030517578,
-   "last_price": 70.9800033569336,
+   "last_price": 70.44999694824219,
    "opened": "2026-11-17T17:30:31.211031+00:00",
    "reasons": [
     "daily scan score 0.76 (charts 0.71, company health 0.83)",
@@ -70,7 +70,7 @@
    "entry_price": 34.76499938964844,
    "cost_eur": 22.34284763707992,
    "peak": 34.76499938964844,
-   "last_price": 34.619998931884766,
+   "last_price": 34.5099983215332,
    "opened": "2026-11-17T17:30:31.211031+00:00",
    "reasons": [
     "daily scan score 0.77 (charts 0.72, company health 0.84)",
@@ -2548,6 +2548,15 @@
     "DAX": 98.85,
     "BTC": 86.38
    }
+  },
+  {
+   "t": "2026-11-17T19:00:30.903121+00:00",
+   "v": 94.26,
+   "b": {
+    "S&P 500": 96.18,
+    "DAX": 98.85,
+    "BTC": 86.09
+   }
   }
  ],
  "fees_paid": 1.6176854245675847,
@@ -2559,15 +2568,15 @@
  "trades_today": 13,
  "live_prices": {
   "ADS.DE": 174.5500030517578,
-  "REGN": 965.405029296875,
-  "CVNA": 70.9800033569336,
-  "CARG": 34.619998931884766
+  "REGN": 958.8026733398438,
+  "CVNA": 70.44999694824219,
+  "CARG": 34.5099983215332
  },
- "fx": 1.1018069982528687,
+ "fx": 1.1015641689300537,
  "mood": {
   "stocks": [
-   "cautious",
-   "S&P 500 below its 50-day average"
+   "risk-off",
+   "S&P 500 below 50-day average and down -1.2% today"
   ],
   "eu_stocks": [
    "ok",
@@ -2575,10 +2584,16 @@
   ],
   "crypto": [
    "risk-off",
-   "BTC below 50-day average and down -1.5% today"
+   "BTC below 50-day average and down -1.8% today"
   ]
  },
  "last_skipped": [
+  "ELF: market mood risk-off",
+  "ABNB: market mood risk-off",
+  "MGNI: market mood risk-off",
+  "U: market mood risk-off",
+  "CVX: market mood risk-off",
+  "V: market mood risk-off",
   "ICP: market mood risk-off",
   "QNT: market mood risk-off",
   "INJ: market mood risk-off",
@@ -2586,11 +2601,6 @@
   "JUP: market mood risk-off",
   "RENDER: market mood risk-off",
   "STX: market mood risk-off",
-  "NEAR: market mood risk-off",
-  "MGNI: good setup, but no cash left (fully invested)",
-  "ABNB: good setup, but no cash left (fully invested)",
-  "CVX: good setup, but no cash left (fully invested)",
-  "ELF: good setup, but no cash left (fully invested)",
-  "V: good setup, but no cash left (fully invested)"
+  "NEAR: market mood risk-off"
  ]
 }
