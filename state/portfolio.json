@@ -2611,6 +2611,15 @@
     "DAX": 98.85,
     "BTC": 86.93
    }
+  },
+  {
+   "t": "2026-11-17T22:30:30.730456+00:00",
+   "v": 94.39,
+   "b": {
+    "S&P 500": 96.4,
+    "DAX": 98.85,
+    "BTC": 87.38
+   }
   }
  ],
  "fees_paid": 1.6176854245675847,
@@ -2643,9 +2652,9 @@
  },
  "last_skipped": [
   "ICP: negative news (-0.32)",
-  "PEPE: confidence 44% below 50%",
   "JUP: negative news (-0.32)",
   "QNT: good setup, but no cash left (fully invested)",
+  "PEPE: good setup, but no cash left (fully invested)",
   "STX: good setup, but no cash left (fully invested)",
   "NEAR: good setup, but no cash left (fully invested)"
  ]
