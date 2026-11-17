@@ -49,7 +49,7 @@
    "entry_price": 3.860000106215011e-06,
    "cost_eur": 15.539703679166394,
    "peak": 3.9599999581696466e-06,
-   "last_price": 3.950000063923653e-06,
+   "last_price": 3.929999820684316e-06,
    "opened": "2026-11-16T15:00:31.462436+00:00",
    "reasons": [
     "daily scan score 0.44 (charts 0.44)",
@@ -66,7 +66,7 @@
    "entry_price": 6.840000152587891,
    "cost_eur": 20.127082935898628,
    "peak": 7.406000137329102,
-   "last_price": 7.2779998779296875,
+   "last_price": 7.291999816894531,
    "opened": "2026-11-16T15:00:31.462436+00:00",
    "reasons": [
     "daily scan score 0.44 (charts 0.44)",
@@ -84,7 +84,7 @@
    "entry_price": 3.178999900817871,
    "cost_eur": 14.67628441544278,
    "peak": 3.2827000617980957,
-   "last_price": 3.242799997329712,
+   "last_price": 3.216599941253662,
    "opened": "2026-11-16T22:00:31.593502+00:00",
    "reasons": [
     "daily scan score 0.42 (charts 0.42)",
@@ -2308,6 +2308,15 @@
     "DAX": 100.95,
     "BTC": 87.55
    }
+  },
+  {
+   "t": "2026-11-17T06:30:30.936053+00:00",
+   "v": 97.58,
+   "b": {
+    "S&P 500": 97.39,
+    "DAX": 100.95,
+    "BTC": 87.27
+   }
   }
  ],
  "fees_paid": 0.98993037894295,
@@ -2320,11 +2329,11 @@
  "live_prices": {
   "SAP.DE": 213.39999389648438,
   "U": 51.88999938964844,
-  "PEPE24478-USD": 3.950000063923653e-06,
-  "INJ-USD": 7.2779998779296875,
-  "NEAR-USD": 3.242799997329712
+  "PEPE24478-USD": 3.929999820684316e-06,
+  "INJ-USD": 7.291999816894531,
+  "NEAR-USD": 3.216599941253662
  },
- "fx": 1.1014429330825806,
+ "fx": 1.1009578704833984,
  "mood": {
   "stocks": [
    "risk-off",
@@ -2335,13 +2344,15 @@
    "DAX healthy (-0.6% today)"
   ],
   "crypto": [
-   "cautious",
-   "BTC below its 50-day average"
+   "risk-off",
+   "BTC below 50-day average and down -1.2% today"
   ]
  },
  "last_skipped": [
-  "ICP: negative news (-0.32)",
-  "JUP: negative news (-0.32)",
-  "RENDER: confidence 49% below 50%"
+  "ICP: market mood risk-off",
+  "QNT: market mood risk-off",
+  "JUP: market mood risk-off",
+  "RENDER: market mood risk-off",
+  "STX: market mood risk-off"
  ]
 }
