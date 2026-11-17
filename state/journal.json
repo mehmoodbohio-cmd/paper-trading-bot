@@ -453,5 +453,43 @@
    "size 13.08 EUR = 13% of portfolio (confidence x0.54, volatility x1.00)"
   ],
   "check": null
+ },
+ {
+  "id": 22,
+  "time": "2026-11-17T09:30:31.542915+00:00",
+  "ticker": "NEAR-USD",
+  "side": "SELL",
+  "price": 3.204400062561035,
+  "eur": 14.75,
+  "fee": 0.037,
+  "confidence": null,
+  "reasons": [
+   "trend broke: short-term: falling (-1.7% in 2h), below 10-hour average, and below its 20-day average"
+  ],
+  "check": null
+ },
+ {
+  "id": 23,
+  "time": "2026-11-17T09:30:31.542915+00:00",
+  "ticker": "NDX1.DE",
+  "side": "BUY",
+  "price": 39.619998931884766,
+  "eur": 14.67,
+  "fee": 0.037,
+  "confidence": 0.539051029072294,
+  "reasons": [
+   "daily scan score 0.75 (charts 0.72, company health 0.80)",
+   "uptrend (price above 50-day average, 20-day above 50-day)",
+   "momentum stronger than 78% of the scan (3-month +6%)",
+   "RSI 58",
+   "sales growing +28% a year",
+   "profits growing +170%",
+   "generates cash",
+   "short-term: falling (-3.0% in 2h), below 10-hour average",
+   "good news: \"European shares reverse gains as U.S. indices drop\" (gains)",
+   "market mood: DAX healthy (-0.9% today)",
+   "size 14.67 EUR = 15% of portfolio (confidence x0.54, volatility x1.00)"
+  ],
+  "check": null
  }
 ]
