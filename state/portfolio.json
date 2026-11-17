@@ -27,7 +27,7 @@
    "entry_price": 963.02001953125,
    "cost_eur": 30.782892472436405,
    "peak": 965.405029296875,
-   "last_price": 956.9400024414062,
+   "last_price": 954.5999755859375,
    "opened": "2026-11-17T17:30:31.211031+00:00",
    "reasons": [
     "daily scan score 0.83 (charts 0.79, company health 0.90)",
@@ -49,7 +49,7 @@
    "entry_price": 71.18000030517578,
    "cost_eur": 28.946220440918573,
    "peak": 71.18000030517578,
-   "last_price": 70.54570007324219,
+   "last_price": 70.2699966430664,
    "opened": "2026-11-17T17:30:31.211031+00:00",
    "reasons": [
     "daily scan score 0.76 (charts 0.71, company health 0.83)",
@@ -70,7 +70,7 @@
    "entry_price": 34.76499938964844,
    "cost_eur": 22.34284763707992,
    "peak": 34.76499938964844,
-   "last_price": 34.53499984741211,
+   "last_price": 34.39500045776367,
    "opened": "2026-11-17T17:30:31.211031+00:00",
    "reasons": [
     "daily scan score 0.77 (charts 0.72, company health 0.84)",
@@ -92,7 +92,7 @@
  "day": "2026-11-17",
  "day_start_value": 95.95066077132638,
  "last_scan": null,
- "last_summary": "2026-11-16",
+ "last_summary": "2026-11-17",
  "last_gems": "2026-W47",
  "recent_sells": {
   "ADI": "2026-11-13T15:00:31.277926+00:00",
@@ -2566,6 +2566,15 @@
     "DAX": 98.85,
     "BTC": 86.08
    }
+  },
+  {
+   "t": "2026-11-17T20:00:30.818344+00:00",
+   "v": 94.01,
+   "b": {
+    "S&P 500": 95.88,
+    "DAX": 98.85,
+    "BTC": 86.11
+   }
   }
  ],
  "fees_paid": 1.6176854245675847,
@@ -2577,15 +2586,15 @@
  "trades_today": 13,
  "live_prices": {
   "ADS.DE": 174.5500030517578,
-  "REGN": 956.9400024414062,
-  "CVNA": 70.54570007324219,
-  "CARG": 34.53499984741211
+  "REGN": 954.5999755859375,
+  "CVNA": 70.2699966430664,
+  "CARG": 34.39500045776367
  },
- "fx": 1.1014429330825806,
+ "fx": 1.101078987121582,
  "mood": {
   "stocks": [
    "risk-off",
-   "S&P 500 below 50-day average and down -1.2% today"
+   "S&P 500 below 50-day average and down -1.5% today"
   ],
   "eu_stocks": [
    "ok",
@@ -2593,7 +2602,7 @@
   ],
   "crypto": [
    "risk-off",
-   "BTC below 50-day average and down -1.9% today"
+   "BTC below 50-day average and down -1.8% today"
   ]
  },
  "last_skipped": [
