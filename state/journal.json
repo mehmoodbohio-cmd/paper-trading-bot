@@ -394,5 +394,26 @@
    "trend broke: short-term: falling (-0.8% in 2h), below 10-hour average, and below its 20-day average"
   ],
   "check": null
+ },
+ {
+  "id": 19,
+  "time": "2026-11-17T07:30:30.958690+00:00",
+  "ticker": "RENDER-USD",
+  "side": "BUY",
+  "price": 1.3846999406814575,
+  "eur": 15.62,
+  "fee": 0.039,
+  "confidence": 0.5942941308960206,
+  "reasons": [
+   "daily scan score 0.39 (charts 0.39)",
+   "downtrend (below its moving averages)",
+   "momentum stronger than 82% of the scan (3-month -5%)",
+   "RSI 35",
+   "short-term: above its 10-hour average and up +0.1% in 2h",
+   "good news: \"WEF mapped out 4 AI-driven futures for jobs by 2030, and only one looks good for humanity\" (good)",
+   "market mood: BTC below its 50-day average",
+   "size 15.62 EUR = 16% of portfolio (confidence x0.59, volatility x1.00)"
+  ],
+  "check": null
  }
 ]
