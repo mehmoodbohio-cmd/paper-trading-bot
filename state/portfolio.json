@@ -27,7 +27,7 @@
    "entry_price": 963.02001953125,
    "cost_eur": 30.782892472436405,
    "peak": 965.405029296875,
-   "last_price": 953.7550048828125,
+   "last_price": 948.8400268554688,
    "opened": "2026-11-17T17:30:31.211031+00:00",
    "reasons": [
     "daily scan score 0.83 (charts 0.79, company health 0.90)",
@@ -49,7 +49,7 @@
    "entry_price": 71.18000030517578,
    "cost_eur": 28.946220440918573,
    "peak": 73.66000366210938,
-   "last_price": 73.15499877929688,
+   "last_price": 73.01000213623047,
    "opened": "2026-11-17T17:30:31.211031+00:00",
    "reasons": [
     "daily scan score 0.76 (charts 0.71, company health 0.83)",
@@ -70,7 +70,7 @@
    "entry_price": 34.76499938964844,
    "cost_eur": 22.34284763707992,
    "peak": 34.880001068115234,
-   "last_price": 34.880001068115234,
+   "last_price": 34.869998931884766,
    "opened": "2026-11-17T17:30:31.211031+00:00",
    "reasons": [
     "daily scan score 0.77 (charts 0.72, company health 0.84)",
@@ -2998,6 +2998,15 @@
     "DAX": 97.68,
     "BTC": 85.5
    }
+  },
+  {
+   "t": "2026-11-18T18:00:31.231964+00:00",
+   "v": 95.46,
+   "b": {
+    "S&P 500": 96.25,
+    "DAX": 97.68,
+    "BTC": 85.24
+   }
   }
  ],
  "fees_paid": 1.6176854245675847,
@@ -3009,11 +3018,11 @@
  "trades_today": 0,
  "live_prices": {
   "ADS.DE": 174.3000030517578,
-  "REGN": 953.7550048828125,
-  "CVNA": 73.15499877929688,
-  "CARG": 34.880001068115234
+  "REGN": 948.8400268554688,
+  "CVNA": 73.01000213623047,
+  "CARG": 34.869998931884766
  },
- "fx": 1.0978153944015503,
+ "fx": 1.0979359149932861,
  "mood": {
   "stocks": [
    "cautious",
@@ -3025,7 +3034,7 @@
   ],
   "crypto": [
    "risk-off",
-   "BTC below 50-day average and down -2.6% today"
+   "BTC below 50-day average and down -2.9% today"
   ]
  },
  "last_skipped": [
@@ -3038,11 +3047,11 @@
   "RENDER: market mood risk-off",
   "AAVE: market mood risk-off",
   "ELF: good setup, but no cash left (fully invested)",
+  "MGNI: good setup, but no cash left (fully invested)",
   "APP: good setup, but no cash left (fully invested)",
   "ABNB: good setup, but no cash left (fully invested)",
-  "MGNI: good setup, but no cash left (fully invested)",
-  "CVX: good setup, but no cash left (fully invested)",
   "TXN: good setup, but no cash left (fully invested)",
+  "CVX: good setup, but no cash left (fully invested)",
   "U: good setup, but no cash left (fully invested)"
  ]
 }
