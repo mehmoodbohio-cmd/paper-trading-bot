@@ -2674,6 +2674,15 @@
     "DAX": 100.95,
     "BTC": 87.42
    }
+  },
+  {
+   "t": "2026-11-18T01:30:31.427387+00:00",
+   "v": 94.45,
+   "b": {
+    "S&P 500": 97.39,
+    "DAX": 100.95,
+    "BTC": 87.23
+   }
   }
  ],
  "fees_paid": 1.6176854245675847,
@@ -2689,7 +2698,7 @@
   "CVNA": 71.08999633789062,
   "CARG": 34.209999084472656
  },
- "fx": 1.0989010334014893,
+ "fx": 1.0992635488510132,
  "mood": {
   "stocks": [
    "risk-off",
@@ -2706,10 +2715,10 @@
  },
  "last_skipped": [
   "JUP: negative news (-0.32)",
-  "QNT: confidence 49% below 50%",
-  "AAVE: confidence 47% below 50%",
-  "STX: good setup, but no cash left (fully invested)",
-  "PEPE: good setup, but no cash left (fully invested)",
-  "NEAR: good setup, but no cash left (fully invested)"
+  "QNT: confidence 36% below 50%",
+  "STX: confidence 49% below 50%",
+  "PEPE: confidence 49% below 50%",
+  "NEAR: confidence 48% below 50%",
+  "AAVE: confidence 34% below 50%"
  ]
 }
