@@ -473,7 +473,12 @@
   "reasons": [
    "trend broke: short-term: falling (-1.4% in 2h), below 10-hour average, and below its 20-day average"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-18T08:30:31.672588+00:00",
+   "price": 202.1999969482422,
+   "move": -0.03507518967537404,
+   "right": true
+  }
  },
  {
   "id": 21,
@@ -497,7 +502,12 @@
    "market mood: DAX healthy (-0.8% today)",
    "size 13.08 EUR = 13% of portfolio (confidence x0.54, volatility x1.00)"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-18T08:30:31.672588+00:00",
+   "price": 172.35000610351562,
+   "move": -0.02240497379391737,
+   "right": false
+  }
  },
  {
   "id": 22,
