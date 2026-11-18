@@ -27,7 +27,7 @@
    "entry_price": 963.02001953125,
    "cost_eur": 30.782892472436405,
    "peak": 965.405029296875,
-   "last_price": 947.905029296875,
+   "last_price": 945.0599975585938,
    "opened": "2026-11-17T17:30:31.211031+00:00",
    "reasons": [
     "daily scan score 0.83 (charts 0.79, company health 0.90)",
@@ -49,7 +49,7 @@
    "entry_price": 71.18000030517578,
    "cost_eur": 28.946220440918573,
    "peak": 73.66000366210938,
-   "last_price": 72.27999877929688,
+   "last_price": 71.87999725341797,
    "opened": "2026-11-17T17:30:31.211031+00:00",
    "reasons": [
     "daily scan score 0.76 (charts 0.71, company health 0.83)",
@@ -70,7 +70,7 @@
    "entry_price": 34.76499938964844,
    "cost_eur": 22.34284763707992,
    "peak": 34.91999816894531,
-   "last_price": 34.88999938964844,
+   "last_price": 34.70000076293945,
    "opened": "2026-11-17T17:30:31.211031+00:00",
    "reasons": [
     "daily scan score 0.77 (charts 0.72, company health 0.84)",
@@ -3061,6 +3061,15 @@
     "DAX": 97.68,
     "BTC": 84.53
    }
+  },
+  {
+   "t": "2026-11-18T21:00:30.762338+00:00",
+   "v": 94.77,
+   "b": {
+    "S&P 500": 96.1,
+    "DAX": 97.68,
+    "BTC": 84.59
+   }
   }
  ],
  "fees_paid": 1.6176854245675847,
@@ -3072,11 +3081,11 @@
  "trades_today": 0,
  "live_prices": {
   "ADS.DE": 174.3000030517578,
-  "REGN": 947.905029296875,
-  "CVNA": 72.27999877929688,
-  "CARG": 34.88999938964844
+  "REGN": 945.0599975585938,
+  "CVNA": 71.87999725341797,
+  "CARG": 34.70000076293945
  },
- "fx": 1.0978153944015503,
+ "fx": 1.0979359149932861,
  "mood": {
   "stocks": [
    "cautious",
@@ -3088,7 +3097,7 @@
   ],
   "crypto": [
    "risk-off",
-   "BTC below 50-day average and down -3.7% today"
+   "BTC below 50-day average and down -3.6% today"
   ]
  },
  "last_skipped": [
@@ -3099,13 +3108,6 @@
   "PEPE: market mood risk-off",
   "NEAR: market mood risk-off",
   "RENDER: market mood risk-off",
-  "AAVE: market mood risk-off",
-  "ELF: good setup, but no cash left (fully invested)",
-  "MGNI: good setup, but no cash left (fully invested)",
-  "APP: good setup, but no cash left (fully invested)",
-  "ABNB: good setup, but no cash left (fully invested)",
-  "CVX: good setup, but no cash left (fully invested)",
-  "TXN: good setup, but no cash left (fully invested)",
-  "U: good setup, but no cash left (fully invested)"
+  "AAVE: market mood risk-off"
  ]
 }
