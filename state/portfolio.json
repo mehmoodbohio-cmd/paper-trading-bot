@@ -27,7 +27,7 @@
    "entry_price": 963.02001953125,
    "cost_eur": 30.782892472436405,
    "peak": 965.405029296875,
-   "last_price": 945.155029296875,
+   "last_price": 947.4500122070312,
    "opened": "2026-11-17T17:30:31.211031+00:00",
    "reasons": [
     "daily scan score 0.83 (charts 0.79, company health 0.90)",
@@ -49,7 +49,7 @@
    "entry_price": 71.18000030517578,
    "cost_eur": 28.946220440918573,
    "peak": 73.66000366210938,
-   "last_price": 72.26000213623047,
+   "last_price": 72.36000061035156,
    "opened": "2026-11-17T17:30:31.211031+00:00",
    "reasons": [
     "daily scan score 0.76 (charts 0.71, company health 0.83)",
@@ -70,7 +70,7 @@
    "entry_price": 34.76499938964844,
    "cost_eur": 22.34284763707992,
    "peak": 34.91999816894531,
-   "last_price": 34.84000015258789,
+   "last_price": 34.810001373291016,
    "opened": "2026-11-17T17:30:31.211031+00:00",
    "reasons": [
     "daily scan score 0.77 (charts 0.72, company health 0.84)",
@@ -92,7 +92,7 @@
  "day": "2026-11-18",
  "day_start_value": 94.3822901539057,
  "last_scan": null,
- "last_summary": "2026-11-17",
+ "last_summary": "2026-11-18",
  "last_gems": "2026-W47",
  "recent_sells": {
   "ADI": "2026-11-13T15:00:31.277926+00:00",
@@ -3034,6 +3034,15 @@
     "DAX": 97.68,
     "BTC": 84.95
    }
+  },
+  {
+   "t": "2026-11-18T20:00:31.279177+00:00",
+   "v": 95.19,
+   "b": {
+    "S&P 500": 96.09,
+    "DAX": 97.68,
+    "BTC": 84.75
+   }
   }
  ],
  "fees_paid": 1.6176854245675847,
@@ -3045,11 +3054,11 @@
  "trades_today": 0,
  "live_prices": {
   "ADS.DE": 174.3000030517578,
-  "REGN": 945.155029296875,
-  "CVNA": 72.26000213623047,
-  "CARG": 34.84000015258789
+  "REGN": 947.4500122070312,
+  "CVNA": 72.36000061035156,
+  "CARG": 34.810001373291016
  },
- "fx": 1.0969723463058472,
+ "fx": 1.0968520641326904,
  "mood": {
   "stocks": [
    "cautious",
@@ -3061,7 +3070,7 @@
   ],
   "crypto": [
    "risk-off",
-   "BTC below 50-day average and down -3.2% today"
+   "BTC below 50-day average and down -3.4% today"
   ]
  },
  "last_skipped": [
@@ -3074,11 +3083,11 @@
   "RENDER: market mood risk-off",
   "AAVE: market mood risk-off",
   "ELF: good setup, but no cash left (fully invested)",
+  "U: good setup, but no cash left (fully invested)",
   "MGNI: good setup, but no cash left (fully invested)",
   "APP: good setup, but no cash left (fully invested)",
   "ABNB: good setup, but no cash left (fully invested)",
   "CVX: good setup, but no cash left (fully invested)",
-  "TXN: good setup, but no cash left (fully invested)",
-  "U: good setup, but no cash left (fully invested)"
+  "TXN: good setup, but no cash left (fully invested)"
  ]
 }
