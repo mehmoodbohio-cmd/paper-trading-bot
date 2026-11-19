@@ -6,7 +6,7 @@
    "entry_price": 176.3000030517578,
    "cost_eur": 13.109176046824507,
    "peak": 176.3000030517578,
-   "last_price": 174.10000610351562,
+   "last_price": 173.89999389648438,
    "opened": "2026-11-17T08:30:30.917433+00:00",
    "reasons": [
     "daily scan score 0.76 (charts 0.76, company health 0.75)",
@@ -3358,6 +3358,15 @@
     "DAX": 97.98,
     "BTC": 86.24
    }
+  },
+  {
+   "t": "2026-11-19T12:30:31.024006+00:00",
+   "v": 94.66,
+   "b": {
+    "S&P 500": 96.1,
+    "DAX": 97.78,
+    "BTC": 86.07
+   }
   }
  ],
  "fees_paid": 1.6176854245675847,
@@ -3368,12 +3377,12 @@
  },
  "trades_today": 0,
  "live_prices": {
-  "ADS.DE": 174.10000610351562,
+  "ADS.DE": 173.89999389648438,
   "REGN": 945.6015014648438,
   "CVNA": 71.77999877929688,
   "CARG": 34.724998474121094
  },
- "fx": 1.0995051860809326,
+ "fx": 1.0989010334014893,
  "mood": {
   "stocks": [
    "cautious",
@@ -3381,7 +3390,7 @@
   ],
   "eu_stocks": [
    "ok",
-   "DAX healthy (+0.3% today)"
+   "DAX healthy (+0.1% today)"
   ],
   "crypto": [
    "cautious",
@@ -3391,11 +3400,11 @@
  "last_skipped": [
   "JUP: negative news (-0.32)",
   "STX: confidence 40% below 50%",
-  "NEAR: good setup, but no cash left (fully invested)",
-  "RENDER: good setup, but no cash left (fully invested)",
+  "NEAR: confidence 39% below 50%",
+  "INJ: confidence 48% below 50%",
+  "AAVE: confidence 34% below 50%",
   "PEPE: good setup, but no cash left (fully invested)",
   "QNT: good setup, but no cash left (fully invested)",
-  "INJ: good setup, but no cash left (fully invested)",
-  "AAVE: good setup, but no cash left (fully invested)"
+  "RENDER: good setup, but no cash left (fully invested)"
  ]
 }
