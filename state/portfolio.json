@@ -6,7 +6,7 @@
    "entry_price": 176.3000030517578,
    "cost_eur": 13.109176046824507,
    "peak": 176.3000030517578,
-   "last_price": 173.14999389648438,
+   "last_price": 173.35000610351562,
    "opened": "2026-11-17T08:30:30.917433+00:00",
    "reasons": [
     "daily scan score 0.76 (charts 0.76, company health 0.75)",
@@ -27,7 +27,7 @@
    "entry_price": 963.02001953125,
    "cost_eur": 30.782892472436405,
    "peak": 965.405029296875,
-   "last_price": 945.6015014648438,
+   "last_price": 945.0399780273438,
    "opened": "2026-11-17T17:30:31.211031+00:00",
    "reasons": [
     "daily scan score 0.83 (charts 0.79, company health 0.90)",
@@ -49,7 +49,7 @@
    "entry_price": 71.18000030517578,
    "cost_eur": 28.946220440918573,
    "peak": 73.66000366210938,
-   "last_price": 71.77999877929688,
+   "last_price": 72.20999908447266,
    "opened": "2026-11-17T17:30:31.211031+00:00",
    "reasons": [
     "daily scan score 0.76 (charts 0.71, company health 0.83)",
@@ -70,7 +70,7 @@
    "entry_price": 34.76499938964844,
    "cost_eur": 22.34284763707992,
    "peak": 34.91999816894531,
-   "last_price": 34.724998474121094,
+   "last_price": 34.880001068115234,
    "opened": "2026-11-17T17:30:31.211031+00:00",
    "reasons": [
     "daily scan score 0.77 (charts 0.72, company health 0.84)",
@@ -3403,6 +3403,15 @@
     "DAX": 97.54,
     "BTC": 86.46
    }
+  },
+  {
+   "t": "2026-11-19T14:30:31.484388+00:00",
+   "v": 94.74,
+   "b": {
+    "S&P 500": 97.1,
+    "DAX": 97.53,
+    "BTC": 86.34
+   }
   }
  ],
  "fees_paid": 1.6176854245675847,
@@ -3413,12 +3422,12 @@
  },
  "trades_today": 0,
  "live_prices": {
-  "ADS.DE": 173.14999389648438,
-  "REGN": 945.6015014648438,
-  "CVNA": 71.77999877929688,
-  "CARG": 34.724998474121094
+  "ADS.DE": 173.35000610351562,
+  "REGN": 945.0399780273438,
+  "CVNA": 72.20999908447266,
+  "CARG": 34.880001068115234
  },
- "fx": 1.1002310514450073,
+ "fx": 1.1007153987884521,
  "mood": {
   "stocks": [
    "cautious",
@@ -3426,7 +3435,7 @@
   ],
   "eu_stocks": [
    "ok",
-   "DAX healthy (-0.1% today)"
+   "DAX healthy (-0.2% today)"
   ],
   "crypto": [
    "cautious",
@@ -3435,12 +3444,19 @@
  },
  "last_skipped": [
   "JUP: negative news (-0.32)",
-  "STX: good setup, but no cash left (fully invested)",
-  "NEAR: good setup, but no cash left (fully invested)",
-  "RENDER: good setup, but no cash left (fully invested)",
-  "PEPE: good setup, but no cash left (fully invested)",
-  "QNT: good setup, but no cash left (fully invested)",
+  "QNT: confidence 49% below 50%",
+  "STX: confidence 40% below 50%",
+  "PEPE: confidence 49% below 50%",
+  "NEAR: confidence 39% below 50%",
+  "AAVE: confidence 42% below 50%",
+  "TXN: good setup, but no cash left (fully invested)",
+  "DIS: good setup, but no cash left (fully invested)",
+  "MGNI: good setup, but no cash left (fully invested)",
+  "APP: good setup, but no cash left (fully invested)",
+  "U: good setup, but no cash left (fully invested)",
   "INJ: good setup, but no cash left (fully invested)",
-  "AAVE: good setup, but no cash left (fully invested)"
+  "ELF: good setup, but no cash left (fully invested)",
+  "ABNB: good setup, but no cash left (fully invested)",
+  "V: good setup, but no cash left (fully invested)"
  ]
 }
