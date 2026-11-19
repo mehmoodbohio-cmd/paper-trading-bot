@@ -750,5 +750,33 @@
    "size 21.49 EUR = 23% of portfolio (confidence x0.68, volatility x1.00)"
   ],
   "check": null
+ },
+ {
+  "id": 33,
+  "time": "2026-11-19T18:00:31.515025+00:00",
+  "ticker": "REGN",
+  "side": "SELL",
+  "price": 937.0,
+  "eur": 29.98,
+  "fee": 0.075,
+  "confidence": null,
+  "reasons": [
+   "market mood risk-off (S&P 500 below 50-day average and down -1.2% today) and position losing"
+  ],
+  "check": null
+ },
+ {
+  "id": 34,
+  "time": "2026-11-19T18:00:31.515025+00:00",
+  "ticker": "CVNA",
+  "side": "SELL",
+  "price": 69.7300033569336,
+  "eur": 28.39,
+  "fee": 0.071,
+  "confidence": null,
+  "reasons": [
+   "market mood risk-off (S&P 500 below 50-day average and down -1.2% today) and position losing"
+  ],
+  "check": null
  }
 ]
