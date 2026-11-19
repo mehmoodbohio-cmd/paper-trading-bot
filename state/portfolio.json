@@ -49,7 +49,7 @@
    "entry_price": 7.204999923706055,
    "cost_eur": 19.064827916621695,
    "peak": 7.204999923706055,
-   "last_price": 7.060999870300293,
+   "last_price": 7.110000133514404,
    "opened": "2026-11-19T18:30:31.667082+00:00",
    "reasons": [
     "daily scan score 0.42 (charts 0.42)",
@@ -64,8 +64,8 @@
   }
  },
  "started": "2026-11-12T00:54:13.766037+00:00",
- "day": "2026-11-19",
- "day_start_value": 94.77156840021995,
+ "day": "2026-11-20",
+ "day_start_value": 91.92272477477474,
  "last_scan": null,
  "last_summary": "2026-11-19",
  "last_gems": "2026-W47",
@@ -3543,6 +3543,15 @@
     "DAX": 96.65,
     "BTC": 84.01
    }
+  },
+  {
+   "t": "2026-11-19T23:00:31.329401+00:00",
+   "v": 91.92,
+   "b": {
+    "S&P 500": 94.22,
+    "DAX": 97.68,
+    "BTC": 84.01
+   }
   }
  ],
  "fees_paid": 1.9188828663381472,
@@ -3551,21 +3560,21 @@
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 5,
+ "trades_today": 0,
  "live_prices": {
   "ADS.DE": 171.89999389648438,
   "DIS": 120.2699966430664,
-  "INJ-USD": 7.060999870300293
+  "INJ-USD": 7.110000133514404
  },
- "fx": 1.0970927476882935,
+ "fx": 1.0973334312438965,
  "mood": {
   "stocks": [
    "risk-off",
    "S&P 500 below 50-day average and down -2.0% today"
   ],
   "eu_stocks": [
-   "risk-off",
-   "DAX below 50-day average and down -1.1% today"
+   "ok",
+   "DAX healthy (-1.2% today)"
   ],
   "crypto": [
    "risk-off",
@@ -3575,10 +3584,10 @@
  "last_skipped": [
   "JUP: market mood risk-off",
   "QNT: market mood risk-off",
-  "STX: market mood risk-off",
   "PEPE: market mood risk-off",
+  "STX: market mood risk-off",
   "NEAR: market mood risk-off",
-  "RENDER: market mood risk-off",
-  "AAVE: market mood risk-off"
+  "ICP: market mood risk-off",
+  "RENDER: market mood risk-off"
  ]
 }
