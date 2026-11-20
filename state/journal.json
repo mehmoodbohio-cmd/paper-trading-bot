@@ -834,5 +834,19 @@
    "size 22.04 EUR = 24% of portfolio (confidence x0.60, volatility x1.00)"
   ],
   "check": null
+ },
+ {
+  "id": 38,
+  "time": "2026-11-20T08:00:30.561937+00:00",
+  "ticker": "ADS.DE",
+  "side": "SELL",
+  "price": 171.89999389648438,
+  "eur": 12.75,
+  "fee": 0.032,
+  "confidence": null,
+  "reasons": [
+   "market mood risk-off (DAX below 50-day average and down -1.1% today) and position losing"
+  ],
+  "check": null
  }
 ]

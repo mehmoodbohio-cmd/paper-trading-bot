@@ -1,27 +1,6 @@
 {
- "cash": 35.45854766179288,
+ "cash": 48.17680066977728,
  "positions": {
-  "ADS.DE": {
-   "units": 0.07417177883371161,
-   "entry_price": 176.3000030517578,
-   "cost_eur": 13.109176046824507,
-   "peak": 176.3000030517578,
-   "last_price": 171.89999389648438,
-   "opened": "2026-11-17T08:30:30.917433+00:00",
-   "reasons": [
-    "daily scan score 0.76 (charts 0.76, company health 0.75)",
-    "uptrend (price above 50-day average, 20-day above 50-day)",
-    "momentum stronger than 89% of the scan (3-month +15%)",
-    "RSI 67",
-    "profits growing +58%",
-    "generates cash",
-    "cheap for its growth (PEG 0.7)",
-    "short-term: falling (-1.0% in 2h), below 10-hour average",
-    "bad news: \"Waterless Dyeing Factory CleanDye Ceases Operations\" (ceases)",
-    "market mood: DAX healthy (-0.8% today)",
-    "size 13.08 EUR = 13% of portfolio (confidence x0.54, volatility x1.00)"
-   ]
-  },
   "DIS": {
    "units": 0.193745894613927,
    "entry_price": 121.83999633789062,
@@ -48,8 +27,8 @@
    "units": 17.733848465909855,
    "entry_price": 1.3658000230789185,
    "cost_eur": 22.096114329302313,
-   "peak": 1.3658000230789185,
-   "last_price": 1.3658000230789185,
+   "peak": 1.3717999458312988,
+   "last_price": 1.3717999458312988,
    "opened": "2026-11-20T07:30:30.651225+00:00",
    "reasons": [
     "daily scan score 0.40 (charts 0.40)",
@@ -85,7 +64,8 @@
   "NDX1.DE": "2026-11-17T16:00:31.733475+00:00",
   "CARG": "2026-11-19T15:30:30.974870+00:00",
   "REGN": "2026-11-19T18:00:31.515025+00:00",
-  "CVNA": "2026-11-19T18:00:31.515025+00:00"
+  "CVNA": "2026-11-19T18:00:31.515025+00:00",
+  "ADS.DE": "2026-11-20T08:00:30.561937+00:00"
  },
  "history": [
   {
@@ -3723,21 +3703,29 @@
     "DAX": 96.65,
     "BTC": 83.24
    }
+  },
+  {
+   "t": "2026-11-20T08:00:30.561937+00:00",
+   "v": 91.53,
+   "b": {
+    "S&P 500": 94.22,
+    "DAX": 96.65,
+    "BTC": 83.55
+   }
   }
  ],
- "fees_paid": 2.0200956167605693,
+ "fees_paid": 2.051970937582585,
  "benchmarks_start": {
   "SPY": 759.8099975585938,
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 2,
+ "trades_today": 3,
  "live_prices": {
-  "ADS.DE": 171.89999389648438,
   "DIS": 120.2699966430664,
-  "RENDER-USD": 1.3658000230789185
+  "RENDER-USD": 1.3717999458312988
  },
- "fx": 1.0989010334014893,
+ "fx": 1.098659634590149,
  "mood": {
   "stocks": [
    "risk-off",
@@ -3753,10 +3741,11 @@
   ]
  },
  "last_skipped": [
+  "ADS: market mood risk-off",
   "JUP: negative news (-0.32)",
   "QNT: confidence 36% below 50%",
-  "PEPE: confidence 37% below 50%",
-  "STX: confidence 40% below 50%",
+  "PEPE: confidence 44% below 50%",
+  "STX: confidence 47% below 50%",
   "NEAR: confidence 43% below 50%",
   "ICP: negative news (-0.32)"
  ]
