@@ -6,7 +6,7 @@
    "entry_price": 938.5,
    "cost_eur": 29.015583699333593,
    "peak": 938.5,
-   "last_price": 919.8099975585938,
+   "last_price": 919.1599731445312,
    "opened": "2026-11-20T14:30:31.758108+00:00",
    "reasons": [
     "daily scan score 0.83 (charts 0.78, company health 0.90)",
@@ -28,7 +28,7 @@
    "entry_price": 1102.9599609375,
    "cost_eur": 18.689372473458786,
    "peak": 1120.10498046875,
-   "last_price": 1106.9150390625,
+   "last_price": 1101.3299560546875,
    "opened": "2026-11-20T14:30:31.758108+00:00",
    "reasons": [
     "daily scan score 0.77 (charts 0.79, company health 0.75)",
@@ -3960,6 +3960,15 @@
     "DAX": 94.14,
     "BTC": 79.19
    }
+  },
+  {
+   "t": "2026-11-20T21:00:31.558302+00:00",
+   "v": 88.04,
+   "b": {
+    "S&P 500": 90.54,
+    "DAX": 94.14,
+    "BTC": 78.85
+   }
   }
  ],
  "fees_paid": 2.3808162402539654,
@@ -3970,14 +3979,14 @@
  },
  "trades_today": 9,
  "live_prices": {
-  "REGN": 919.8099975585938,
-  "COST": 1106.9150390625
+  "REGN": 919.1599731445312,
+  "COST": 1101.3299560546875
  },
- "fx": 1.0969723463058472,
+ "fx": 1.0968520641326904,
  "mood": {
   "stocks": [
    "risk-off",
-   "S&P 500 below 50-day average and down -3.3% today"
+   "S&P 500 below 50-day average and down -3.9% today"
   ],
   "eu_stocks": [
    "risk-off",
@@ -3985,24 +3994,17 @@
   ],
   "crypto": [
    "risk-off",
-   "BTC below 50-day average and down -5.4% today"
+   "BTC below 50-day average and down -5.8% today"
   ]
  },
  "last_skipped": [
-  "DIS: market mood risk-off",
-  "APP: market mood risk-off",
-  "PUBM: market mood risk-off",
-  "ABNB: market mood risk-off",
-  "MGNI: market mood risk-off",
-  "U: market mood risk-off",
-  "CARG: market mood risk-off",
-  "CVNA: market mood risk-off",
   "JUP: market mood risk-off",
   "QNT: market mood risk-off",
   "INJ: market mood risk-off",
   "PEPE: market mood risk-off",
   "STX: market mood risk-off",
   "NEAR: market mood risk-off",
-  "ICP: market mood risk-off"
+  "ICP: market mood risk-off",
+  "RENDER: market mood risk-off"
  ]
 }
