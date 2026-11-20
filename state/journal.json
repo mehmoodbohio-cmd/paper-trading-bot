@@ -882,5 +882,55 @@
    "trend broke: short-term: falling (-1.9% in 2h), below 10-hour average, and below its 20-day average"
   ],
   "check": null
+ },
+ {
+  "id": 41,
+  "time": "2026-11-20T14:30:31.758108+00:00",
+  "ticker": "REGN",
+  "side": "BUY",
+  "price": 938.5,
+  "eur": 28.94,
+  "fee": 0.072,
+  "confidence": 0.801823422846851,
+  "reasons": [
+   "daily scan score 0.83 (charts 0.78, company health 0.90)",
+   "uptrend (price above 50-day average, 20-day above 50-day)",
+   "momentum stronger than 94% of the scan (3-month +13%)",
+   "RSI 58",
+   "sales growing +36% a year",
+   "profits growing +36%",
+   "keeps 29% of sales as profit",
+   "short-term: above its 10-hour average and up +0.7% in 2h",
+   "bad news: \"Alnylam Pharmaceuticals (ALNY) Stock Dropped, So What Is Driving Attention Now?\" (dropped)",
+   "risks: trades above analyst targets (+7%)",
+   "market mood: S&P 500 below its 50-day average",
+   "size 28.94 EUR = 32% of portfolio (confidence x0.80, volatility x1.00)"
+  ],
+  "check": null
+ },
+ {
+  "id": 42,
+  "time": "2026-11-20T14:30:31.758108+00:00",
+  "ticker": "COST",
+  "side": "BUY",
+  "price": 1102.9599609375,
+  "eur": 18.64,
+  "fee": 0.047,
+  "confidence": 0.7842863899686724,
+  "reasons": [
+   "daily scan score 0.77 (charts 0.79, company health 0.75)",
+   "uptrend (price above 50-day average, 20-day above 50-day)",
+   "momentum stronger than 96% of the scan (3-month +15%)",
+   "RSI 68",
+   "sales growing +11% a year",
+   "profits growing +15%",
+   "generates cash",
+   "short-term: above its 10-hour average and up +1.1% in 2h",
+   "good news: \"Walmart Is Up 183% in Five Years and Just Raised Guidance Again. Is There Room Left to Run?\" ('raised guidance' (+3))",
+   "risks: expensive for its growth (PEG 5.5); trades above analyst targets (-1%)",
+   "market mood: S&P 500 below its 50-day average",
+   "size 18.64 EUR = 21% of portfolio (confidence x0.78, volatility x1.00)"
+  ],
+  "check": null
  }
 ]
