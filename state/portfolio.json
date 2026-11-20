@@ -1,5 +1,5 @@
 {
- "cash": 26.514478860190238,
+ "cash": 47.70495617279238,
  "positions": {
   "DIS": {
    "units": 0.193745894613927,
@@ -23,30 +23,12 @@
     "size 21.49 EUR = 23% of portfolio (confidence x0.68, volatility x1.00)"
    ]
   },
-  "RENDER-USD": {
-   "units": 17.733848465909855,
-   "entry_price": 1.3658000230789185,
-   "cost_eur": 22.096114329302313,
-   "peak": 1.3776999711990356,
-   "last_price": 1.32669997215271,
-   "opened": "2026-11-20T07:30:30.651225+00:00",
-   "reasons": [
-    "daily scan score 0.40 (charts 0.40)",
-    "downtrend (below its moving averages)",
-    "momentum stronger than 86% of the scan (3-month -20%)",
-    "RSI 39",
-    "short-term: above its 10-hour average and up +0.7% in 2h",
-    "good news: \"WEF mapped out 4 AI-driven futures for jobs by 2030, and only one looks good for humanity\" (good)",
-    "market mood: BTC below its 50-day average",
-    "size 22.04 EUR = 24% of portfolio (confidence x0.60, volatility x1.00)"
-   ]
-  },
   "PEPE24478-USD": {
    "units": 6543679.517205728,
    "entry_price": 3.6199999158270657e-06,
    "cost_eur": 21.66232180958704,
    "peak": 3.6199999158270657e-06,
-   "last_price": 3.5400000797380926e-06,
+   "last_price": 3.529999958118424e-06,
    "opened": "2026-11-20T11:00:31.389123+00:00",
    "reasons": [
     "daily scan score 0.44 (charts 0.44)",
@@ -77,7 +59,7 @@
   "NEAR-USD": "2026-11-17T09:30:31.542915+00:00",
   "U": "2026-11-17T16:00:31.733475+00:00",
   "INJ-USD": "2026-11-20T01:00:31.249447+00:00",
-  "RENDER-USD": "2026-11-17T16:00:31.733475+00:00",
+  "RENDER-USD": "2026-11-20T13:30:31.588693+00:00",
   "NDX1.DE": "2026-11-17T16:00:31.733475+00:00",
   "CARG": "2026-11-19T15:30:30.974870+00:00",
   "REGN": "2026-11-19T18:00:31.515025+00:00",
@@ -3828,21 +3810,29 @@
     "DAX": 94.5,
     "BTC": 83.16
    }
+  },
+  {
+   "t": "2026-11-20T13:30:31.588693+00:00",
+   "v": 89.9,
+   "b": {
+    "S&P 500": 94.22,
+    "DAX": 94.36,
+    "BTC": 83.09
+   }
   }
  ],
- "fees_paid": 2.105991690224947,
+ "fees_paid": 2.1591006559206916,
  "benchmarks_start": {
   "SPY": 759.8099975585938,
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 4,
+ "trades_today": 5,
  "live_prices": {
   "DIS": 120.2699966430664,
-  "RENDER-USD": 1.32669997215271,
-  "PEPE24478-USD": 3.5400000797380926e-06
+  "PEPE24478-USD": 3.529999958118424e-06
  },
- "fx": 1.0984183549880981,
+ "fx": 1.0997470617294312,
  "mood": {
   "stocks": [
    "risk-off",
@@ -3850,7 +3840,7 @@
   ],
   "eu_stocks": [
    "risk-off",
-   "DAX below 50-day average and down -2.2% today"
+   "DAX below 50-day average and down -2.4% today"
   ],
   "crypto": [
    "cautious",
@@ -3861,6 +3851,7 @@
   "ADS: market mood risk-off",
   "JUP: negative news (-0.32)",
   "QNT: confidence 36% below 50%",
+  "INJ: confidence 37% below 50%",
   "STX: confidence 40% below 50%",
   "NEAR: negative news (-0.53)",
   "ICP: negative news (-0.32)"

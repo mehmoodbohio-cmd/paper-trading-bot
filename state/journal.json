@@ -868,5 +868,19 @@
    "size 21.61 EUR = 24% of portfolio (confidence x0.59, volatility x1.00)"
   ],
   "check": null
+ },
+ {
+  "id": 40,
+  "time": "2026-11-20T13:30:31.588693+00:00",
+  "ticker": "RENDER-USD",
+  "side": "SELL",
+  "price": 1.3173999786376953,
+  "eur": 21.24,
+  "fee": 0.053,
+  "confidence": null,
+  "reasons": [
+   "trend broke: short-term: falling (-1.9% in 2h), below 10-hour average, and below its 20-day average"
+  ],
+  "check": null
  }
 ]
