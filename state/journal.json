@@ -813,5 +813,26 @@
    "market mood risk-off (BTC below 50-day average and down -1.5% today) and position losing"
   ],
   "check": null
+ },
+ {
+  "id": 37,
+  "time": "2026-11-20T07:30:30.651225+00:00",
+  "ticker": "RENDER-USD",
+  "side": "BUY",
+  "price": 1.3658000230789185,
+  "eur": 22.04,
+  "fee": 0.055,
+  "confidence": 0.6021512737531635,
+  "reasons": [
+   "daily scan score 0.40 (charts 0.40)",
+   "downtrend (below its moving averages)",
+   "momentum stronger than 86% of the scan (3-month -20%)",
+   "RSI 39",
+   "short-term: above its 10-hour average and up +0.7% in 2h",
+   "good news: \"WEF mapped out 4 AI-driven futures for jobs by 2030, and only one looks good for humanity\" (good)",
+   "market mood: BTC below its 50-day average",
+   "size 22.04 EUR = 24% of portfolio (confidence x0.60, volatility x1.00)"
+  ],
+  "check": null
  }
 ]
