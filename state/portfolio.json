@@ -1,5 +1,5 @@
 {
- "cash": 39.156683842852075,
+ "cash": 57.55466199109519,
  "positions": {
   "ADS.DE": {
    "units": 0.07417177883371161,
@@ -43,24 +43,6 @@
     "market mood: S&P 500 below its 50-day average",
     "size 21.49 EUR = 23% of portfolio (confidence x0.68, volatility x1.00)"
    ]
-  },
-  "INJ-USD": {
-   "units": 2.898590745331213,
-   "entry_price": 7.204999923706055,
-   "cost_eur": 19.064827916621695,
-   "peak": 7.204999923706055,
-   "last_price": 7.008999824523926,
-   "opened": "2026-11-19T18:30:31.667082+00:00",
-   "reasons": [
-    "daily scan score 0.42 (charts 0.42)",
-    "downtrend (below its moving averages)",
-    "momentum stronger than 92% of the scan (3-month -13%)",
-    "RSI 42",
-    "short-term: above its 10-hour average and up +1.9% in 2h",
-    "news: nothing important (-0.00)",
-    "market mood: BTC below its 50-day average",
-    "size 19.02 EUR = 21% of portfolio (confidence x0.58, volatility x0.89)"
-   ]
   }
  },
  "started": "2026-11-12T00:54:13.766037+00:00",
@@ -80,7 +62,7 @@
   "SAP.DE": "2026-11-17T08:30:30.917433+00:00",
   "NEAR-USD": "2026-11-17T09:30:31.542915+00:00",
   "U": "2026-11-17T16:00:31.733475+00:00",
-  "INJ-USD": "2026-11-17T16:00:31.733475+00:00",
+  "INJ-USD": "2026-11-20T01:00:31.249447+00:00",
   "RENDER-USD": "2026-11-17T16:00:31.733475+00:00",
   "NDX1.DE": "2026-11-17T16:00:31.733475+00:00",
   "CARG": "2026-11-19T15:30:30.974870+00:00",
@@ -3588,25 +3570,33 @@
     "DAX": 97.68,
     "BTC": 83.85
    }
+  },
+  {
+   "t": "2026-11-20T01:00:31.249447+00:00",
+   "v": 91.54,
+   "b": {
+    "S&P 500": 96.1,
+    "DAX": 97.68,
+    "BTC": 83.92
+   }
   }
  ],
- "fees_paid": 1.9188828663381472,
+ "fees_paid": 1.9649930872610624,
  "benchmarks_start": {
   "SPY": 759.8099975585938,
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 0,
+ "trades_today": 1,
  "live_prices": {
   "ADS.DE": 171.89999389648438,
-  "DIS": 120.2699966430664,
-  "INJ-USD": 7.008999824523926
+  "DIS": 120.2699966430664
  },
  "fx": 1.0975743532180786,
  "mood": {
   "stocks": [
-   "risk-off",
-   "S&P 500 below 50-day average and down -2.0% today"
+   "cautious",
+   "S&P 500 below its 50-day average"
   ],
   "eu_stocks": [
    "ok",
@@ -3614,12 +3604,13 @@
   ],
   "crypto": [
    "risk-off",
-   "BTC below 50-day average and down -1.6% today"
+   "BTC below 50-day average and down -1.5% today"
   ]
  },
  "last_skipped": [
   "JUP: market mood risk-off",
   "QNT: market mood risk-off",
+  "INJ: market mood risk-off",
   "PEPE: market mood risk-off",
   "STX: market mood risk-off",
   "NEAR: market mood risk-off",

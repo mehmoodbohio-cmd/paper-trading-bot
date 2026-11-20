@@ -799,5 +799,19 @@
    "size 19.02 EUR = 21% of portfolio (confidence x0.58, volatility x0.89)"
   ],
   "check": null
+ },
+ {
+  "id": 36,
+  "time": "2026-11-20T01:00:31.249447+00:00",
+  "ticker": "INJ-USD",
+  "side": "SELL",
+  "price": 6.984000205993652,
+  "eur": 18.44,
+  "fee": 0.046,
+  "confidence": null,
+  "reasons": [
+   "market mood risk-off (BTC below 50-day average and down -1.5% today) and position losing"
+  ],
+  "check": null
  }
 ]
