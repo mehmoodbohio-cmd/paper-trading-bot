@@ -956,5 +956,19 @@
    "market mood risk-off (S&P 500 below 50-day average and down -1.2% today) and position losing"
   ],
   "check": null
+ },
+ {
+  "id": 44,
+  "time": "2026-11-20T17:30:30.757068+00:00",
+  "ticker": "PEPE24478-USD",
+  "side": "SELL",
+  "price": 3.370000058566802e-06,
+  "eur": 20.08,
+  "fee": 0.05,
+  "confidence": null,
+  "reasons": [
+   "trend broke: short-term: falling (-0.9% in 2h), below 10-hour average, and below its 20-day average"
+  ],
+  "check": null
  }
 ]
