@@ -28,7 +28,7 @@
    "entry_price": 1.3658000230789185,
    "cost_eur": 22.096114329302313,
    "peak": 1.3776999711990356,
-   "last_price": 1.34089994430542,
+   "last_price": 1.3320000171661377,
    "opened": "2026-11-20T07:30:30.651225+00:00",
    "reasons": [
     "daily scan score 0.40 (charts 0.40)",
@@ -46,7 +46,7 @@
    "entry_price": 3.6199999158270657e-06,
    "cost_eur": 21.66232180958704,
    "peak": 3.6199999158270657e-06,
-   "last_price": 3.6199999158270657e-06,
+   "last_price": 3.5900000057154102e-06,
    "opened": "2026-11-20T11:00:31.389123+00:00",
    "reasons": [
     "daily scan score 0.44 (charts 0.44)",
@@ -3801,6 +3801,15 @@
     "DAX": 95.02,
     "BTC": 83.54
    }
+  },
+  {
+   "t": "2026-11-20T12:00:31.610398+00:00",
+   "v": 90.75,
+   "b": {
+    "S&P 500": 94.22,
+    "DAX": 94.84,
+    "BTC": 83.53
+   }
   }
  ],
  "fees_paid": 2.105991690224947,
@@ -3812,10 +3821,10 @@
  "trades_today": 4,
  "live_prices": {
   "DIS": 120.2699966430664,
-  "RENDER-USD": 1.34089994430542,
-  "PEPE24478-USD": 3.6199999158270657e-06
+  "RENDER-USD": 1.3320000171661377,
+  "PEPE24478-USD": 3.5900000057154102e-06
  },
- "fx": 1.096611499786377,
+ "fx": 1.0961307287216187,
  "mood": {
   "stocks": [
    "risk-off",
@@ -3823,7 +3832,7 @@
   ],
   "eu_stocks": [
    "risk-off",
-   "DAX below 50-day average and down -1.7% today"
+   "DAX below 50-day average and down -1.9% today"
   ],
   "crypto": [
    "cautious",
@@ -3835,7 +3844,7 @@
   "JUP: negative news (-0.32)",
   "QNT: confidence 36% below 50%",
   "STX: confidence 40% below 50%",
-  "NEAR: confidence 43% below 50%",
+  "NEAR: confidence 35% below 50%",
   "ICP: negative news (-0.32)"
  ]
 }
