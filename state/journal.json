@@ -848,5 +848,25 @@
    "market mood risk-off (DAX below 50-day average and down -1.1% today) and position losing"
   ],
   "check": null
+ },
+ {
+  "id": 39,
+  "time": "2026-11-20T11:00:31.389123+00:00",
+  "ticker": "PEPE24478-USD",
+  "side": "BUY",
+  "price": 3.6199999158270657e-06,
+  "eur": 21.61,
+  "fee": 0.054,
+  "confidence": 0.5916071858183065,
+  "reasons": [
+   "daily scan score 0.44 (charts 0.44)",
+   "momentum stronger than 90% of the scan (3-month -7%)",
+   "RSI 27",
+   "short-term: above its 10-hour average and up +0.3% in 2h",
+   "good news: \"Better Buy in 2026: Pepe, Dogecoin or XRP? One Is Up 21% This Month.\" (better)",
+   "market mood: BTC below its 50-day average",
+   "size 21.61 EUR = 24% of portfolio (confidence x0.59, volatility x1.00)"
+  ],
+  "check": null
  }
 ]

@@ -1,5 +1,5 @@
 {
- "cash": 48.17680066977728,
+ "cash": 26.514478860190238,
  "positions": {
   "DIS": {
    "units": 0.193745894613927,
@@ -28,7 +28,7 @@
    "entry_price": 1.3658000230789185,
    "cost_eur": 22.096114329302313,
    "peak": 1.3776999711990356,
-   "last_price": 1.3487000465393066,
+   "last_price": 1.3524999618530273,
    "opened": "2026-11-20T07:30:30.651225+00:00",
    "reasons": [
     "daily scan score 0.40 (charts 0.40)",
@@ -39,6 +39,23 @@
     "good news: \"WEF mapped out 4 AI-driven futures for jobs by 2030, and only one looks good for humanity\" (good)",
     "market mood: BTC below its 50-day average",
     "size 22.04 EUR = 24% of portfolio (confidence x0.60, volatility x1.00)"
+   ]
+  },
+  "PEPE24478-USD": {
+   "units": 6543679.517205728,
+   "entry_price": 3.6199999158270657e-06,
+   "cost_eur": 21.66232180958704,
+   "peak": 3.6199999158270657e-06,
+   "last_price": 3.6199999158270657e-06,
+   "opened": "2026-11-20T11:00:31.389123+00:00",
+   "reasons": [
+    "daily scan score 0.44 (charts 0.44)",
+    "momentum stronger than 90% of the scan (3-month -7%)",
+    "RSI 27",
+    "short-term: above its 10-hour average and up +0.3% in 2h",
+    "good news: \"Better Buy in 2026: Pepe, Dogecoin or XRP? One Is Up 21% This Month.\" (better)",
+    "market mood: BTC below its 50-day average",
+    "size 21.61 EUR = 24% of portfolio (confidence x0.59, volatility x1.00)"
    ]
   }
  },
@@ -3757,18 +3774,28 @@
     "DAX": 94.97,
     "BTC": 83.69
    }
+  },
+  {
+   "t": "2026-11-20T11:00:31.389123+00:00",
+   "v": 91.26,
+   "b": {
+    "S&P 500": 94.22,
+    "DAX": 95.42,
+    "BTC": 83.86
+   }
   }
  ],
- "fees_paid": 2.051970937582585,
+ "fees_paid": 2.105991690224947,
  "benchmarks_start": {
   "SPY": 759.8099975585938,
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 3,
+ "trades_today": 4,
  "live_prices": {
   "DIS": 120.2699966430664,
-  "RENDER-USD": 1.3487000465393066
+  "RENDER-USD": 1.3524999618530273,
+  "PEPE24478-USD": 3.6199999158270657e-06
  },
  "fx": 1.0962508916854858,
  "mood": {
@@ -3778,7 +3805,7 @@
   ],
   "eu_stocks": [
    "risk-off",
-   "DAX below 50-day average and down -1.7% today"
+   "DAX below 50-day average and down -1.3% today"
   ],
   "crypto": [
    "cautious",
@@ -3789,9 +3816,8 @@
   "ADS: market mood risk-off",
   "JUP: negative news (-0.32)",
   "QNT: confidence 36% below 50%",
-  "PEPE: confidence 37% below 50%",
   "STX: confidence 40% below 50%",
-  "NEAR: confidence 35% below 50%",
+  "NEAR: confidence 43% below 50%",
   "ICP: negative news (-0.32)"
  ]
 }
