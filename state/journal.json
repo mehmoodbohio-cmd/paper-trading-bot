@@ -1081,5 +1081,40 @@
    "size 19.81 EUR = 22% of portfolio (confidence x0.56, volatility x1.00)"
   ],
   "check": null
+ },
+ {
+  "id": 47,
+  "time": "2026-11-21T19:30:30.944200+00:00",
+  "ticker": "PEPE24478-USD",
+  "side": "SELL",
+  "price": 3.3799999528127955e-06,
+  "eur": 19.75,
+  "fee": 0.049,
+  "confidence": null,
+  "reasons": [
+   "trend broke: short-term: falling (-0.6% in 2h), below 10-hour average, and below its 20-day average"
+  ],
+  "check": null
+ },
+ {
+  "id": 48,
+  "time": "2026-11-21T19:30:30.944200+00:00",
+  "ticker": "RENDER-USD",
+  "side": "BUY",
+  "price": 1.312000036239624,
+  "eur": 19.43,
+  "fee": 0.049,
+  "confidence": 0.5471512737531634,
+  "reasons": [
+   "daily scan score 0.30 (charts 0.30)",
+   "downtrend (below its moving averages)",
+   "momentum stronger than 86% of the scan (3-month -32%)",
+   "RSI 34",
+   "short-term: above its 10-hour average and up +0.4% in 2h",
+   "good news: \"WEF mapped out 4 AI-driven futures for jobs by 2030, and only one looks good for humanity\" (good)",
+   "market mood: BTC below its 50-day average",
+   "size 19.43 EUR = 22% of portfolio (confidence x0.55, volatility x1.00)"
+  ],
+  "check": null
  }
 ]
