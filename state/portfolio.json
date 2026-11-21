@@ -1,5 +1,5 @@
 {
- "cash": 40.997491932157715,
+ "cash": 1.399848382827642,
  "positions": {
   "REGN": {
    "units": 0.03388625344226112,
@@ -43,6 +43,41 @@
     "risks: expensive for its growth (PEG 5.5); trades above analyst targets (-1%)",
     "market mood: S&P 500 below its 50-day average",
     "size 18.64 EUR = 21% of portfolio (confidence x0.78, volatility x1.00)"
+   ]
+  },
+  "PEPE24478-USD": {
+   "units": 6408953.52869636,
+   "entry_price": 3.370000058566802e-06,
+   "cost_eur": 19.738117623832466,
+   "peak": 3.370000058566802e-06,
+   "last_price": 3.370000058566802e-06,
+   "opened": "2026-11-21T12:30:31.311816+00:00",
+   "reasons": [
+    "daily scan score 0.43 (charts 0.43)",
+    "momentum stronger than 88% of the scan (3-month -31%)",
+    "RSI 23",
+    "short-term: above its 10-hour average and up +2.4% in 2h",
+    "good news: \"Better Buy in 2026: Pepe, Dogecoin or XRP? One Is Up 21% This Month.\" (better)",
+    "market mood: BTC below its 50-day average",
+    "size 19.69 EUR = 22% of portfolio (confidence x0.59, volatility x0.95)"
+   ]
+  },
+  "STX4847-USD": {
+   "units": 90.39527065672233,
+   "entry_price": 0.24040000140666962,
+   "cost_eur": 19.859525925497607,
+   "peak": 0.24040000140666962,
+   "last_price": 0.24040000140666962,
+   "opened": "2026-11-21T12:30:31.311816+00:00",
+   "reasons": [
+    "daily scan score 0.33 (charts 0.33)",
+    "downtrend (below its moving averages)",
+    "momentum stronger than 94% of the scan (3-month -28%)",
+    "RSI 33",
+    "short-term: above its 10-hour average and up +1.6% in 2h",
+    "good news: \"Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom\" (boom)",
+    "market mood: BTC below its 50-day average",
+    "size 19.81 EUR = 22% of portfolio (confidence x0.56, volatility x1.00)"
    ]
   }
  },
@@ -4266,18 +4301,29 @@
     "DAX": 94.14,
     "BTC": 78.59
    }
+  },
+  {
+   "t": "2026-11-21T12:30:31.311816+00:00",
+   "v": 88.05,
+   "b": {
+    "S&P 500": 90.79,
+    "DAX": 94.14,
+    "BTC": 78.92
+   }
   }
  ],
- "fees_paid": 2.3808162402539654,
+ "fees_paid": 2.4795634810253624,
  "benchmarks_start": {
   "SPY": 759.8099975585938,
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 0,
+ "trades_today": 2,
  "live_prices": {
   "REGN": 921.3599853515625,
-  "COST": 1104.02001953125
+  "COST": 1104.02001953125,
+  "PEPE24478-USD": 3.370000058566802e-06,
+  "STX4847-USD": 0.24040000140666962
  },
  "fx": 1.0969723463058472,
  "mood": {
@@ -4290,18 +4336,16 @@
    "DAX below 50-day average and down -2.6% today"
   ],
   "crypto": [
-   "risk-off",
-   "BTC below 50-day average and down -1.2% today"
+   "cautious",
+   "BTC below its 50-day average"
   ]
  },
  "last_skipped": [
-  "INJ: market mood risk-off",
-  "JUP: market mood risk-off",
-  "PEPE: market mood risk-off",
-  "ICP: market mood risk-off",
-  "QNT: market mood risk-off",
-  "STX: market mood risk-off",
-  "NEAR: market mood risk-off",
-  "RENDER: market mood risk-off"
+  "INJ: confidence 37% below 50%",
+  "JUP: negative news (-0.32)",
+  "ICP: negative news (-0.32)",
+  "NEAR: negative news (-0.39)",
+  "RENDER: good setup, but no cash left (fully invested)",
+  "QNT: good setup, but no cash left (fully invested)"
  ]
 }

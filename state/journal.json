@@ -1015,5 +1015,46 @@
    "trend broke: short-term: falling (-0.9% in 2h), below 10-hour average, and below its 20-day average"
   ],
   "check": null
+ },
+ {
+  "id": 45,
+  "time": "2026-11-21T12:30:31.311816+00:00",
+  "ticker": "PEPE24478-USD",
+  "side": "BUY",
+  "price": 3.370000058566802e-06,
+  "eur": 19.69,
+  "fee": 0.049,
+  "confidence": 0.587678614389735,
+  "reasons": [
+   "daily scan score 0.43 (charts 0.43)",
+   "momentum stronger than 88% of the scan (3-month -31%)",
+   "RSI 23",
+   "short-term: above its 10-hour average and up +2.4% in 2h",
+   "good news: \"Better Buy in 2026: Pepe, Dogecoin or XRP? One Is Up 21% This Month.\" (better)",
+   "market mood: BTC below its 50-day average",
+   "size 19.69 EUR = 22% of portfolio (confidence x0.59, volatility x0.95)"
+  ],
+  "check": null
+ },
+ {
+  "id": 46,
+  "time": "2026-11-21T12:30:31.311816+00:00",
+  "ticker": "STX4847-USD",
+  "side": "BUY",
+  "price": 0.24040000140666962,
+  "eur": 19.81,
+  "fee": 0.05,
+  "confidence": 0.5618239404208283,
+  "reasons": [
+   "daily scan score 0.33 (charts 0.33)",
+   "downtrend (below its moving averages)",
+   "momentum stronger than 94% of the scan (3-month -28%)",
+   "RSI 33",
+   "short-term: above its 10-hour average and up +1.6% in 2h",
+   "good news: \"Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom\" (boom)",
+   "market mood: BTC below its 50-day average",
+   "size 19.81 EUR = 22% of portfolio (confidence x0.56, volatility x1.00)"
+  ],
+  "check": null
  }
 ]
