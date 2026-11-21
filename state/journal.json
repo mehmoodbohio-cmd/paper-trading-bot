@@ -966,7 +966,12 @@
    "market mood: S&P 500 below its 50-day average",
    "size 28.94 EUR = 32% of portfolio (confidence x0.80, volatility x1.00)"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-21T14:30:59.224047+00:00",
+   "price": 921.3599853515625,
+   "move": -0.018263201543353702,
+   "right": false
+  }
  },
  {
   "id": 42,
@@ -991,7 +996,12 @@
    "market mood: S&P 500 below its 50-day average",
    "size 18.64 EUR = 21% of portfolio (confidence x0.78, volatility x1.00)"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-21T14:30:59.224047+00:00",
+   "price": 1104.02001953125,
+   "move": 0.0009611034228740323,
+   "right": true
+  }
  },
  {
   "id": 43,
