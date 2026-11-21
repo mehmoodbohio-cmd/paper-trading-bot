@@ -1015,7 +1015,12 @@
   "reasons": [
    "market mood risk-off (S&P 500 below 50-day average and down -1.2% today) and position losing"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-21T16:30:30.759840+00:00",
+   "price": 117.95999908447266,
+   "move": -0.010236627098331508,
+   "right": true
+  }
  },
  {
   "id": 44,
