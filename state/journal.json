@@ -1116,5 +1116,19 @@
    "size 19.43 EUR = 22% of portfolio (confidence x0.55, volatility x1.00)"
   ],
   "check": null
+ },
+ {
+  "id": 49,
+  "time": "2026-11-22T02:30:31.374684+00:00",
+  "ticker": "STX4847-USD",
+  "side": "SELL",
+  "price": 0.24950000643730164,
+  "eur": 20.56,
+  "fee": 0.051,
+  "confidence": null,
+  "reasons": [
+   "trend broke: short-term: falling (-0.6% in 2h), below 10-hour average, and below its 20-day average"
+  ],
+  "check": null
  }
 ]
