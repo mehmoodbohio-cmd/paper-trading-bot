@@ -1144,5 +1144,46 @@
    "trend broke: short-term: falling (-0.7% in 2h), below 10-hour average, and below its 20-day average"
   ],
   "check": null
+ },
+ {
+  "id": 51,
+  "time": "2026-11-22T08:30:31.781791+00:00",
+  "ticker": "PEPE24478-USD",
+  "side": "BUY",
+  "price": 3.370000058566802e-06,
+  "eur": 13.44,
+  "fee": 0.034,
+  "confidence": 0.5916071858183065,
+  "reasons": [
+   "daily scan score 0.44 (charts 0.44)",
+   "momentum stronger than 90% of the scan (3-month -32%)",
+   "RSI 31",
+   "short-term: above its 10-hour average and up +1.2% in 2h",
+   "good news: \"Better Buy in 2026: Pepe, Dogecoin or XRP? One Is Up 21% This Month.\" (better)",
+   "market mood: BTC below its 50-day average",
+   "size 13.44 EUR = 15% of portfolio (confidence x0.59, volatility x0.64)"
+  ],
+  "check": null
+ },
+ {
+  "id": 52,
+  "time": "2026-11-22T08:30:31.781791+00:00",
+  "ticker": "INJ-USD",
+  "side": "BUY",
+  "price": 6.090000152587891,
+  "eur": 15.33,
+  "fee": 0.038,
+  "confidence": 0.5346428571428571,
+  "reasons": [
+   "daily scan score 0.34 (charts 0.34)",
+   "downtrend (below its moving averages)",
+   "momentum stronger than 96% of the scan (3-month -25%)",
+   "RSI 35",
+   "short-term: above its 10-hour average and up +2.3% in 2h",
+   "news: nothing important (-0.00)",
+   "market mood: BTC below its 50-day average",
+   "size 15.33 EUR = 17% of portfolio (confidence x0.53, volatility x0.81)"
+  ],
+  "check": null
  }
 ]
