@@ -1130,5 +1130,19 @@
    "trend broke: short-term: falling (-0.6% in 2h), below 10-hour average, and below its 20-day average"
   ],
   "check": null
+ },
+ {
+  "id": 50,
+  "time": "2026-11-22T03:00:31.144901+00:00",
+  "ticker": "RENDER-USD",
+  "side": "SELL",
+  "price": 1.3008999824523926,
+  "eur": 19.27,
+  "fee": 0.048,
+  "confidence": null,
+  "reasons": [
+   "trend broke: short-term: falling (-0.7% in 2h), below 10-hour average, and below its 20-day average"
+  ],
+  "check": null
  }
 ]
