@@ -1185,5 +1185,26 @@
    "size 15.33 EUR = 17% of portfolio (confidence x0.53, volatility x0.81)"
   ],
   "check": null
+ },
+ {
+  "id": 53,
+  "time": "2026-11-22T10:00:31.514984+00:00",
+  "ticker": "QNT-USD",
+  "side": "BUY",
+  "price": 140.77999877929688,
+  "eur": 12.47,
+  "fee": 0.031,
+  "confidence": 0.5341880723085082,
+  "reasons": [
+   "daily scan score 0.35 (charts 0.35)",
+   "downtrend (below its moving averages)",
+   "momentum stronger than 100% of the scan (3-month +94%)",
+   "RSI 35",
+   "short-term: above its 10-hour average and up +1.3% in 2h",
+   "news: nothing important (-0.08)",
+   "market mood: BTC below its 50-day average",
+   "size 12.47 EUR = 14% of portfolio (confidence x0.53, volatility x1.00)"
+  ],
+  "check": null
  }
 ]

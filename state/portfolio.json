@@ -1,5 +1,5 @@
 {
- "cash": 12.50057905400081,
+ "cash": -1.7763568394002505e-15,
  "positions": {
   "REGN": {
    "units": 0.03388625344226112,
@@ -49,8 +49,8 @@
    "units": 4376157.555293881,
    "entry_price": 3.370000058566802e-06,
    "cost_eur": 13.477568869871906,
-   "peak": 3.370000058566802e-06,
-   "last_price": 3.35000004270114e-06,
+   "peak": 3.3799999528127955e-06,
+   "last_price": 3.3799999528127955e-06,
    "opened": "2026-11-22T08:30:31.781791+00:00",
    "reasons": [
     "daily scan score 0.44 (charts 0.44)",
@@ -66,8 +66,8 @@
    "units": 2.7610988369350036,
    "entry_price": 6.090000152587891,
    "cost_eur": 15.366959910938437,
-   "peak": 6.090000152587891,
-   "last_price": 6.050000190734863,
+   "peak": 6.107999801635742,
+   "last_price": 6.107999801635742,
    "opened": "2026-11-22T08:30:31.781791+00:00",
    "reasons": [
     "daily scan score 0.34 (charts 0.34)",
@@ -78,6 +78,24 @@
     "news: nothing important (-0.00)",
     "market mood: BTC below its 50-day average",
     "size 15.33 EUR = 17% of portfolio (confidence x0.53, volatility x0.81)"
+   ]
+  },
+  "QNT-USD": {
+   "units": 0.09716290077443536,
+   "entry_price": 140.77999877929688,
+   "cost_eur": 12.500579054000811,
+   "peak": 140.77999877929688,
+   "last_price": 140.77999877929688,
+   "opened": "2026-11-22T10:00:31.514984+00:00",
+   "reasons": [
+    "daily scan score 0.35 (charts 0.35)",
+    "downtrend (below its moving averages)",
+    "momentum stronger than 100% of the scan (3-month +94%)",
+    "RSI 35",
+    "short-term: above its 10-hour average and up +1.3% in 2h",
+    "news: nothing important (-0.08)",
+    "market mood: BTC below its 50-day average",
+    "size 12.47 EUR = 14% of portfolio (confidence x0.53, volatility x1.00)"
    ]
   }
  },
@@ -4725,20 +4743,30 @@
     "DAX": 94.14,
     "BTC": 80.96
    }
+  },
+  {
+   "t": "2026-11-22T10:00:31.514984+00:00",
+   "v": 88.48,
+   "b": {
+    "S&P 500": 90.79,
+    "DAX": 94.14,
+    "BTC": 82.35
+   }
   }
  ],
- "fees_paid": 2.7490195458915663,
+ "fees_paid": 2.780193059741942,
  "benchmarks_start": {
   "SPY": 759.8099975585938,
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 4,
+ "trades_today": 5,
  "live_prices": {
   "REGN": 921.3599853515625,
   "COST": 1104.02001953125,
-  "PEPE24478-USD": 3.35000004270114e-06,
-  "INJ-USD": 6.050000190734863
+  "PEPE24478-USD": 3.3799999528127955e-06,
+  "INJ-USD": 6.107999801635742,
+  "QNT-USD": 140.77999877929688
  },
  "fx": 1.0969723463058472,
  "mood": {
@@ -4757,7 +4785,6 @@
  },
  "last_skipped": [
   "JUP: negative news (-0.32)",
-  "QNT: confidence 38% below 50%",
   "NEAR: negative news (-0.39)",
   "ICP: negative news (-0.32)"
  ]
