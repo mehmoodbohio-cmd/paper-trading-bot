@@ -1275,5 +1275,26 @@
    "trend broke: short-term: falling (-0.6% in 2h), below 10-hour average, and below its 20-day average"
   ],
   "check": null
+ },
+ {
+  "id": 57,
+  "time": "2026-11-22T23:00:31.278993+00:00",
+  "ticker": "XTZ-USD",
+  "side": "BUY",
+  "price": 0.20880000293254852,
+  "eur": 12.48,
+  "fee": 0.031,
+  "confidence": 0.5425,
+  "reasons": [
+   "daily scan score 0.35 (charts 0.35)",
+   "downtrend (below its moving averages)",
+   "momentum stronger than 71% of the scan (3-month -36%)",
+   "RSI 35",
+   "short-term: above its 10-hour average and up +0.2% in 2h",
+   "good news: \"Tether\u2019s USDT Gains Regulatory Recognition as Fiat-Referenced Token in Abu Dhabi Global Market\" (gains)",
+   "market mood: BTC below its 50-day average",
+   "size 12.48 EUR = 14% of portfolio (confidence x0.54, volatility x1.00)"
+  ],
+  "check": null
  }
 ]

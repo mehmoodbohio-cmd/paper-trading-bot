@@ -1,5 +1,5 @@
 {
- "cash": 12.512841646522178,
+ "cash": -3.552713678800501e-15,
  "positions": {
   "REGN": {
    "units": 0.03388625344226112,
@@ -50,7 +50,7 @@
    "entry_price": 6.090000152587891,
    "cost_eur": 15.366959910938437,
    "peak": 6.261000156402588,
-   "last_price": 6.185999870300293,
+   "last_price": 6.229000091552734,
    "opened": "2026-11-22T08:30:31.781791+00:00",
    "reasons": [
     "daily scan score 0.34 (charts 0.34)",
@@ -68,7 +68,7 @@
    "entry_price": 0.2581000030040741,
    "cost_eur": 13.52972867733152,
    "peak": 0.2581000030040741,
-   "last_price": 0.25540000200271606,
+   "last_price": 0.2556999921798706,
    "opened": "2026-11-22T22:00:31.063676+00:00",
    "reasons": [
     "daily scan score 0.44 (charts 0.44)",
@@ -80,11 +80,29 @@
     "market mood: BTC below its 50-day average",
     "size 13.50 EUR = 15% of portfolio (confidence x0.62, volatility x1.00)"
    ]
+  },
+  "XTZ-USD": {
+   "units": 65.60355490967349,
+   "entry_price": 0.20880000293254852,
+   "cost_eur": 12.512841646522181,
+   "peak": 0.20880000293254852,
+   "last_price": 0.20880000293254852,
+   "opened": "2026-11-22T23:00:31.278993+00:00",
+   "reasons": [
+    "daily scan score 0.35 (charts 0.35)",
+    "downtrend (below its moving averages)",
+    "momentum stronger than 71% of the scan (3-month -36%)",
+    "RSI 35",
+    "short-term: above its 10-hour average and up +0.2% in 2h",
+    "good news: \"Tether\u2019s USDT Gains Regulatory Recognition as Fiat-Referenced Token in Abu Dhabi Global Market\" (gains)",
+    "market mood: BTC below its 50-day average",
+    "size 12.48 EUR = 14% of portfolio (confidence x0.54, volatility x1.00)"
+   ]
   }
  },
  "started": "2026-11-12T00:54:13.766037+00:00",
- "day": "2026-11-22",
- "day_start_value": 88.743222301159,
+ "day": "2026-11-23",
+ "day_start_value": 88.68130075035467,
  "last_scan": null,
  "last_summary": "2026-11-22",
  "last_gems": "2026-W47",
@@ -4978,22 +4996,32 @@
     "DAX": 94.14,
     "BTC": 82.06
    }
+  },
+  {
+   "t": "2026-11-22T23:00:31.278993+00:00",
+   "v": 88.65,
+   "b": {
+    "S&P 500": 90.79,
+    "DAX": 94.14,
+    "BTC": 82.66
+   }
   }
  ],
- "fees_paid": 2.8792026313150183,
+ "fees_paid": 2.9104067251966197,
  "benchmarks_start": {
   "SPY": 759.8099975585938,
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 8,
+ "trades_today": 1,
  "live_prices": {
   "REGN": 921.3599853515625,
   "COST": 1104.02001953125,
-  "INJ-USD": 6.185999870300293,
-  "STX4847-USD": 0.25540000200271606
+  "INJ-USD": 6.229000091552734,
+  "STX4847-USD": 0.2556999921798706,
+  "XTZ-USD": 0.20880000293254852
  },
- "fx": 1.0970927476882935,
+ "fx": 1.0974539518356323,
  "mood": {
   "stocks": [
    "risk-off",
@@ -5010,8 +5038,7 @@
  },
  "last_skipped": [
   "JUP: negative news (-0.32)",
-  "RENDER: confidence 38% below 50%",
   "NEAR: negative news (-0.39)",
-  "ICP: negative news (-0.32)"
+  "TAO: confidence 47% below 50%"
  ]
 }

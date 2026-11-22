@@ -35,7 +35,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "ELF": {
   "shortName": "e.l.f. Beauty, Inc.",
@@ -73,7 +73,7 @@
   "insider_net_shares": 233120.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "NXPI": {
   "shortName": "NXP Semiconductors N.V.",
@@ -111,14 +111,14 @@
   "insider_net_shares": 16772.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "HNR1.DE": {
   "shortName": "HANNOVER RUECK SE NA O.N.",
   "sector": "Financial Services",
   "industry": "Insurance - Reinsurance",
   "marketCap": 35431436288,
-  "trailingPE": 12.539478,
+  "trailingPE": 12.757272,
   "forwardPE": 12.222238,
   "pegRatio": 5.42,
   "priceToSalesTrailing12Months": 1.5545422,
@@ -147,14 +147,14 @@
    6409900000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "MUV2.DE": {
   "shortName": "MUENCHENER RUECKVERS.-GES. AG N",
   "sector": "Financial Services",
   "industry": "Insurance - Reinsurance",
   "marketCap": 72972386304,
-  "trailingPE": 10.861423,
+  "trailingPE": 10.786684,
   "forwardPE": 11.242633,
   "pegRatio": 2.03,
   "priceToSalesTrailing12Months": 1.1521653,
@@ -183,7 +183,7 @@
    17865000000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "ABNB": {
   "shortName": "Airbnb, Inc.",
@@ -221,7 +221,7 @@
   "insider_net_shares": 9488948.0,
   "upgrades_90d": 3,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "DV": {
   "shortName": "DoubleVerify Holdings, Inc.",
@@ -259,7 +259,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "PAYO": {
   "shortName": "Payoneer Global Inc.",
@@ -297,7 +297,7 @@
   "insider_net_shares": 694086.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "MRNA": {
   "shortName": "Moderna, Inc.",
@@ -335,7 +335,7 @@
   "insider_net_shares": 870774.0,
   "upgrades_90d": 2,
   "downgrades_90d": 3,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "ZAL.DE": {
   "shortName": "Zalando SE                    I",
@@ -371,7 +371,7 @@
    3174700000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "ADI": {
   "shortName": "Analog Devices, Inc.",
@@ -416,7 +416,7 @@
   "sector": "Financial Services",
   "industry": "Insurance - Diversified",
   "marketCap": 168970600448,
-  "trailingPE": 14.9900465,
+  "trailingPE": 14.803407,
   "forwardPE": 13.429578,
   "pegRatio": 3.09,
   "priceToSalesTrailing12Months": 1.4130104,
@@ -445,14 +445,14 @@
    34966000000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "SRT3.DE": {
   "shortName": "SARTORIUS AG                  V",
   "sector": "Healthcare",
   "industry": "Medical Instruments & Supplies",
   "marketCap": 19887058944,
-  "trailingPE": 91.13924,
+  "trailingPE": 92.30769,
   "forwardPE": 44.46661,
   "pegRatio": 0.94,
   "priceToSalesTrailing12Months": 5.426506,
@@ -481,7 +481,7 @@
    926300000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "DOCS": {
   "shortName": "Doximity, Inc.",
@@ -595,7 +595,7 @@
   "insider_net_shares": -22465.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "SAP.DE": {
   "shortName": "SAP SE                        I",
@@ -669,7 +669,7 @@
   "insider_net_shares": -23925.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "TEM": {
   "shortName": "Tempus AI, Inc.",
@@ -781,7 +781,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "U": {
   "shortName": "Unity Software Inc.",
@@ -819,7 +819,7 @@
   "insider_net_shares": -368920.0,
   "upgrades_90d": 1,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "AAPL": {
   "shortName": "Apple Inc.",
@@ -857,17 +857,17 @@
   "insider_net_shares": 456822.0,
   "upgrades_90d": 1,
   "downgrades_90d": 1,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "BEI.DE": {
   "shortName": "BEIERSDORF AG                 I",
   "sector": "Consumer Defensive",
   "industry": "Household & Personal Products",
-  "marketCap": 17302712320,
-  "trailingPE": 17.914026,
+  "marketCap": 17266989056,
+  "trailingPE": 18.413952,
   "forwardPE": 19.851776,
   "pegRatio": 5.42,
-  "priceToSalesTrailing12Months": 1.799367,
+  "priceToSalesTrailing12Months": 1.7956519,
   "revenueGrowth": -0.045,
   "earningsGrowth": 0.019,
   "profitMargins": 0.097550005,
@@ -888,7 +888,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "SG": {
   "shortName": "Sweetgreen, Inc.",
@@ -926,7 +926,7 @@
   "insider_net_shares": 117969.0,
   "upgrades_90d": 2,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "AI": {
   "shortName": "C3.ai, Inc.",
@@ -1002,14 +1002,14 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "AIR.DE": {
   "shortName": "Airbus SE                     A",
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
   "marketCap": 149936832512,
-  "trailingPE": 25.40107,
+  "trailingPE": 24.358974,
   "forwardPE": 39.66597,
   "pegRatio": 1.38,
   "priceToSalesTrailing12Months": 1.9566591,
@@ -1038,17 +1038,17 @@
    17469000000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "DHL.DE": {
   "shortName": "DHL AG                        N",
   "sector": "Industrials",
   "industry": "Integrated Freight & Logistics",
-  "marketCap": 63908790272,
-  "trailingPE": 17.788162,
+  "marketCap": 63381000192,
+  "trailingPE": 17.198795,
   "forwardPE": 14.482351,
   "pegRatio": 2.53,
-  "priceToSalesTrailing12Months": 0.7252884,
+  "priceToSalesTrailing12Months": 0.7192986,
   "revenueGrowth": 0.126,
   "earningsGrowth": 0.095,
   "profitMargins": 0.04296,
@@ -1074,7 +1074,7 @@
    22658000000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "SPOT": {
   "shortName": "Spotify Technology S.A.",
@@ -1112,7 +1112,7 @@
   "insider_net_shares": 16976.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "VRTX": {
   "shortName": "Vertex Pharmaceuticals Incorpor",
@@ -1150,17 +1150,17 @@
   "insider_net_shares": -5538.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "WMT": {
   "shortName": "Walmart Inc.",
   "sector": "Consumer Defensive",
   "industry": "Discount Stores",
-  "marketCap": 1015122821120,
+  "marketCap": 1018236174336,
   "trailingPE": 46.358696,
   "forwardPE": 39.63386,
   "pegRatio": 4.35,
-  "priceToSalesTrailing12Months": 1.3622537,
+  "priceToSalesTrailing12Months": 1.3664317,
   "revenueGrowth": 0.052,
   "earningsGrowth": -0.195,
   "profitMargins": 0.02802,
@@ -1188,7 +1188,7 @@
   "insider_net_shares": -9057524.0,
   "upgrades_90d": 1,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "TDG": {
   "shortName": "Transdigm Group Incorporated",
@@ -1302,7 +1302,7 @@
   "insider_net_shares": -171696.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "TLN": {
   "shortName": "Talen Energy Corporation",
@@ -1340,7 +1340,7 @@
   "insider_net_shares": 861475.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "LNG": {
   "shortName": "Cheniere Energy, Inc.",
@@ -1378,7 +1378,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "TOST": {
   "shortName": "Toast, Inc.",
@@ -1416,7 +1416,7 @@
   "insider_net_shares": -237717.0,
   "upgrades_90d": 0,
   "downgrades_90d": 2,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "HD": {
   "shortName": "Home Depot, Inc. (The)",
@@ -1424,18 +1424,18 @@
   "industry": "Home Improvement Retail",
   "marketCap": 338256691200,
   "trailingPE": 23.544445,
-  "forwardPE": 21.494715,
+  "forwardPE": 21.531736,
   "pegRatio": 1.84,
   "priceToSalesTrailing12Months": 1.9755445,
   "revenueGrowth": 0.049,
   "earningsGrowth": 0.028,
   "profitMargins": 0.08375,
-  "grossMargins": 0.33046,
-  "operatingMargins": 0.123509996,
-  "freeCashflow": 12039124992,
+  "grossMargins": 0.32614,
+  "operatingMargins": 0.11919,
+  "freeCashflow": 11576625152,
   "totalCash": 1968000000,
-  "totalDebt": 61971001344,
-  "debtToEquity": 341.739,
+  "totalDebt": 62608998400,
+  "debtToEquity": 345.258,
   "returnOnEquity": 0.94803,
   "recommendationMean": 1.88889,
   "numberOfAnalystOpinions": 32,
@@ -1454,7 +1454,7 @@
   "insider_net_shares": 52954.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "BOSS.DE": {
   "shortName": "HUGO BOSS AG                  N",
@@ -1490,7 +1490,7 @@
    946000000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "PUM.DE": {
   "shortName": "PUMA SE                       I",
@@ -1534,7 +1534,7 @@
   "industry": "Software - Infrastructure",
   "marketCap": 3598139523072,
   "trailingPE": 25.2881,
-  "forwardPE": 20.018377,
+  "forwardPE": 20.020792,
   "pegRatio": 1.43,
   "priceToSalesTrailing12Months": 10.38589,
   "revenueGrowth": 0.188,
@@ -1547,7 +1547,7 @@
   "totalDebt": 133930999808,
   "debtToEquity": 28.465,
   "returnOnEquity": 0.34221,
-  "recommendationMean": 1.37931,
+  "recommendationMean": 1.36207,
   "numberOfAnalystOpinions": 54,
   "targetMeanPrice": 636.12427,
   "currentPrice": 484.52,
@@ -1564,7 +1564,7 @@
   "insider_net_shares": 257656.0,
   "upgrades_90d": 1,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "LLY": {
   "shortName": "Eli Lilly and Company",
@@ -1602,7 +1602,7 @@
   "insider_net_shares": -257529.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "ISRG": {
   "shortName": "Intuitive Surgical, Inc.",
@@ -1640,7 +1640,7 @@
   "insider_net_shares": -35534.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "URI": {
   "shortName": "United Rentals, Inc.",
@@ -1694,7 +1694,7 @@
   "profitMargins": 0.19851999,
   "grossMargins": 0.58604,
   "operatingMargins": 0.1188,
-  "freeCashflow": 28152876,
+  "freeCashflow": 21933876,
   "totalCash": 492961984,
   "totalDebt": 866902016,
   "debtToEquity": 157.415,
@@ -1716,7 +1716,7 @@
   "insider_net_shares": 139443.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "TXN": {
   "shortName": "Texas Instruments Incorporated",
@@ -1754,7 +1754,7 @@
   "insider_net_shares": -8481.0,
   "upgrades_90d": 1,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "XYZ": {
   "shortName": "Block, Inc.",
@@ -1830,7 +1830,7 @@
   "insider_net_shares": -7719.0,
   "upgrades_90d": 2,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "SHAK": {
   "shortName": "Shake Shack, Inc.",
@@ -1868,7 +1868,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "G1A.DE": {
   "shortName": "GEA Group AG                  I",
@@ -1904,14 +1904,14 @@
    1461231000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "NDX1.DE": {
   "shortName": "Nordex SE                     I",
   "sector": "Industrials",
   "industry": "Specialty Industrial Machinery",
   "marketCap": 8740892672,
-  "trailingPE": 19.421053,
+  "trailingPE": 18.35821,
   "forwardPE": 13.404923,
   "pegRatio": 1.5,
   "priceToSalesTrailing12Months": 1.0292681,
@@ -1940,14 +1940,14 @@
    2186647000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "SY1.DE": {
   "shortName": "Symrise AG                    I",
   "sector": "Basic Materials",
   "industry": "Specialty Chemicals",
   "marketCap": 12966269952,
-  "trailingPE": 54.011425,
+  "trailingPE": 53.401127,
   "forwardPE": 21.241213,
   "pegRatio": 2.95,
   "priceToSalesTrailing12Months": 2.6381679,
@@ -1969,7 +1969,7 @@
   "shortPercentOfFloat": null,
   "longBusinessSummary": "Symrise AG operates as a supplier of fragrances, flavorings, cosmetic base materials and active ingredients, and functional ingredients and solutions in Europe, Africa, the Middle East, North America, the Asia Pacific, and Latin America. It operates in two segments, Taste, Nutrition & Health; and Scent & Care. The Taste, Nutrition & Health segment provides functional ingredients and product solutions used in the production of food and beverages; savory flavors; sweets, chocolate, chewing gum, baked goods, cereals, ice cream, milk, yogurt and milk alternatives; natural and sustainable ingredients for food and beverage manufacturers, baby food, and dietary supplements; product solutions and services for pet food manufacturers; sustainable ingredients and services for fish feed manufacturers to develop solutions for fish and shrimp farms; and probiotics for food supplements and functional foods. The Scent & Care segment develops, produces, and sells fragrance ingredients and compositions, aroma molecules, cosmetic ingredients, and mint flavors, as well as specific application processes for such substances. This segment's products are used by manufacturers of perfumes, personal care and cosmetic products, cleaning products, detergents, air fresheners, and oral care products. The company was founded in 1874 and is headquartered in Holzminden, Germany.",
   "insider_net_shares": 0.0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "TSLA": {
   "shortName": "Tesla, Inc.",
@@ -2045,7 +2045,7 @@
   "insider_net_shares": 583528.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "S": {
   "shortName": "SentinelOne, Inc.",
@@ -2083,7 +2083,7 @@
   "insider_net_shares": -563130.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "AMZN": {
   "shortName": "Amazon.com, Inc.",
@@ -2121,7 +2121,7 @@
   "insider_net_shares": 465350.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "REGN": {
   "shortName": "Regeneron Pharmaceuticals, Inc.",
@@ -2159,7 +2159,7 @@
   "insider_net_shares": 32282.0,
   "upgrades_90d": 2,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "LYFT": {
   "shortName": "Lyft, Inc.",
@@ -2167,7 +2167,7 @@
   "industry": "Software - Application",
   "marketCap": 6227729920,
   "trailingPE": 2.445104,
-  "forwardPE": 8.023369,
+  "forwardPE": 8.053324,
   "pegRatio": 0.15,
   "priceToSalesTrailing12Months": 0.90145046,
   "revenueGrowth": 0.081,
@@ -2197,7 +2197,7 @@
   "insider_net_shares": 478875.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "AMD": {
   "shortName": "Advanced Micro Devices, Inc.",
@@ -2272,8 +2272,8 @@
   ],
   "insider_net_shares": -1796.0,
   "upgrades_90d": 0,
-  "downgrades_90d": 1,
-  "_date": "2026-11-22"
+  "downgrades_90d": 0,
+  "_date": "2026-11-23"
  },
  "INTU": {
   "shortName": "Intuit Inc.",
@@ -2387,15 +2387,15 @@
   "insider_net_shares": 62466.0,
   "upgrades_90d": 1,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "ADS.DE": {
   "shortName": "adidas AG                     N",
   "sector": "Consumer Cyclical",
   "industry": "Footwear & Accessories",
   "marketCap": 27895375872,
-  "trailingPE": 18.581081,
-  "forwardPE": 14.042948,
+  "trailingPE": 17.799353,
+  "forwardPE": 14.070695,
   "pegRatio": 0.66,
   "priceToSalesTrailing12Months": 1.0462204,
   "revenueGrowth": 0.094,
@@ -2423,7 +2423,7 @@
    7252000000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "CPNG": {
   "shortName": "Coupang, Inc.",
@@ -2573,7 +2573,7 @@
   "insider_net_shares": 33221.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "BILL": {
   "shortName": "BILL Holdings, Inc.",
@@ -2611,7 +2611,7 @@
   "insider_net_shares": -86223.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "AR": {
   "shortName": "Antero Resources Corporation",
@@ -2763,7 +2763,7 @@
   "insider_net_shares": 18275.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "GD": {
   "shortName": "General Dynamics Corporation",
@@ -2862,7 +2862,7 @@
   "returnOnEquity": 0.23679,
   "recommendationMean": 1.6875,
   "numberOfAnalystOpinions": 31,
-  "targetMeanPrice": 43.90509,
+  "targetMeanPrice": 43.88209,
   "currentPrice": 29.97,
   "heldPercentInsiders": 0.24209,
   "shortPercentOfFloat": 0.1163,
@@ -2877,14 +2877,14 @@
   "insider_net_shares": 155886.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "LEG.DE": {
   "shortName": "LEG Immobilien SE             N",
   "sector": "Real Estate",
   "industry": "Real Estate Services",
   "marketCap": 3840886528,
-  "trailingPE": 5.596864,
+  "trailingPE": 5.666667,
   "forwardPE": 8.368243,
   "pegRatio": null,
   "priceToSalesTrailing12Months": 2.5965972,
@@ -2913,7 +2913,7 @@
    345900000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "MPWR": {
   "shortName": "Monolithic Power Systems, Inc.",
@@ -3027,7 +3027,7 @@
   "insider_net_shares": 2073559.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "TDOC": {
   "shortName": "Teladoc Health, Inc.",
@@ -3065,7 +3065,7 @@
   "insider_net_shares": 199932.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "LOW": {
   "shortName": "Lowe's Companies, Inc.",
@@ -3103,7 +3103,7 @@
   "insider_net_shares": -1721.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "CVX": {
   "shortName": "Chevron Corporation",
@@ -3141,7 +3141,7 @@
   "insider_net_shares": -474978.0,
   "upgrades_90d": 1,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "XOM": {
   "shortName": "ExxonMobil Holdings Corporation",
@@ -3179,7 +3179,7 @@
   "insider_net_shares": 6914499.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "CVNA": {
   "shortName": "Carvana Co.",
@@ -3217,7 +3217,7 @@
   "insider_net_shares": 339134.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "HEI": {
   "shortName": "Heico Corporation",
@@ -3255,7 +3255,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "PUBM": {
   "shortName": "PubMatic, Inc.",
@@ -3293,7 +3293,7 @@
   "insider_net_shares": 50443.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "HEN3.DE": {
   "shortName": "Henkel AG & Co. KGaA          I",
@@ -3322,7 +3322,7 @@
   "shortPercentOfFloat": null,
   "longBusinessSummary": "Henkel AG & Co. KGaA, together with its subsidiaries, engages in the adhesive technologies and consumer brands businesses in Europe, India, the Middle East, Africa, North America, Latin America, the Asia Pacific. It offers adhesives, sealants, and functional coatings for various business areas, including packaging and consumer goods; mobility and electronics; and craftsmen, construction, and professional industries. The company also provides hair styling, hair colorants, and hair care products; and body care products, as well as distributes its products through brick-and-mortar stores, hair salons, and digital channels. In addition, it offers laundry and home care products, such as heavy-duty and specialty detergents, fabric softeners and laundry additives, and other fabric cleaning and fabric care products; dishwashing products; and hard surface and toilet cleaners. Further, the company provides household cleaners products. The company was founded in 1876 and is headquartered in D\u00fcsseldorf, Germany.",
   "insider_net_shares": 0.0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "NOC": {
   "shortName": "Northrop Grumman Corporation",
@@ -3360,7 +3360,7 @@
   "insider_net_shares": 1130.0,
   "upgrades_90d": 1,
   "downgrades_90d": 1,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "ANET": {
   "shortName": "Arista Networks, Inc.",
@@ -3512,7 +3512,7 @@
   "insider_net_shares": 91837.0,
   "upgrades_90d": 2,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "TGT": {
   "shortName": "Target Corporation",
@@ -3520,7 +3520,7 @@
   "industry": "Discount Stores",
   "marketCap": 75076984832,
   "trailingPE": 15.41171,
-  "forwardPE": 16.955582,
+  "forwardPE": 16.977367,
   "pegRatio": 2.27,
   "priceToSalesTrailing12Months": 0.68562204,
   "revenueGrowth": 0.071,
@@ -3550,7 +3550,7 @@
   "insider_net_shares": -113010.0,
   "upgrades_90d": 1,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "MGNI": {
   "shortName": "Magnite, Inc.",
@@ -3588,7 +3588,7 @@
   "insider_net_shares": -401213.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "BAYN.DE": {
   "shortName": "Bayer AG                      N",
@@ -3624,7 +3624,7 @@
    10053000000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "ROKU": {
   "shortName": "Roku, Inc.",
@@ -5554,7 +5554,7 @@
   "insider_net_shares": -1496285.0,
   "upgrades_90d": 1,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "ZS": {
   "shortName": "Zscaler, Inc.",
@@ -5592,7 +5592,7 @@
   "insider_net_shares": -18600.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "PANW": {
   "shortName": "Palo Alto Networks, Inc.",
@@ -5630,7 +5630,7 @@
   "insider_net_shares": 416667.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "FTNT": {
   "shortName": "Fortinet, Inc.",
@@ -5706,7 +5706,7 @@
   "insider_net_shares": -121272.0,
   "upgrades_90d": 1,
   "downgrades_90d": 1,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "MDB": {
   "shortName": "MongoDB, Inc.",
@@ -6466,7 +6466,7 @@
   "insider_net_shares": 572744.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "IAS": {
   "shortName": "Integral Ad Science Holding Cor",
@@ -8777,7 +8777,7 @@
   "insider_net_shares": -7457.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "AXSM": {
   "shortName": "Axsome Therapeutics, Inc.",
@@ -9499,7 +9499,7 @@
   "insider_net_shares": 126188.0,
   "upgrades_90d": 1,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "LULU": {
   "shortName": "lululemon athletica inc.",
@@ -9537,7 +9537,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "BIRK": {
   "shortName": "Birkenstock Holding plc",
@@ -9688,8 +9688,8 @@
   ],
   "insider_net_shares": 140235.0,
   "upgrades_90d": 0,
-  "downgrades_90d": 2,
-  "_date": "2026-11-22"
+  "downgrades_90d": 1,
+  "_date": "2026-11-23"
  },
  "UBER": {
   "shortName": "Uber Technologies, Inc.",
@@ -10759,11 +10759,11 @@
   "shortName": "RTX Corporation",
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
-  "marketCap": 261035769856,
-  "trailingPE": 31.45366,
-  "forwardPE": 23.906185,
-  "pegRatio": 2.11,
-  "priceToSalesTrailing12Months": 2.719491,
+  "marketCap": 256623099904,
+  "trailingPE": 30.921951,
+  "forwardPE": 23.502064,
+  "pegRatio": 2.03,
+  "priceToSalesTrailing12Months": 2.6735194,
   "revenueGrowth": 0.111,
   "earningsGrowth": 0.34,
   "profitMargins": 0.08754,
@@ -10777,7 +10777,7 @@
   "recommendationMean": 1.91667,
   "numberOfAnalystOpinions": 23,
   "targetMeanPrice": 228.13043,
-  "currentPrice": 193.44,
+  "currentPrice": 190.17,
   "heldPercentInsiders": 0.00122,
   "shortPercentOfFloat": 0.010199999,
   "longBusinessSummary": "RTX Corporation, an aerospace and defense company, provides systems and services for commercial, military, and government customers worldwide. It operates through three segments: Collins Aerospace (Collins), Pratt & Whitney, and Raytheon. The Collins segment offers aerospace and defense products, and aftermarket services for civil and military aircraft manufacturers and commercial airlines, as well as regional, business, and general aviation, defense, and commercial space operations. This segment designs, manufactures, and supplies electric power generation and management and distribution, environmental control, flight control, air data and aircraft sensing, engine control, and engine nacelle systems, as well as engine components; cabin interiors, including seating, oxygen, food and beverage preparation, storage and galley, lavatory, and wastewater management systems; connected aviation solutions and services; and systems solutions for connected battlespace, test and training range systems, crew escape systems, and simulation and training. It also provides spare parts, overhaul and repair, engineering and technical support, training and fleet management solutions, and asset and information management services. The Pratt & Whitney segment supplies aircraft engines for commercial, military, business jet, and general aviation customers; and produces, sells, and services military and commercial auxiliary power units, as well as offers fleet management and aftermarket maintenance, repair, and overhaul services. The Raytheon segment provides defensive and offensive threat detection, tracking, and mitigation capabilities for government and commercial customers. This segment offers sensors, mission orchestration and satellite control products, and software. The company was formerly known as Raytheon Technologies Corporation and changed its name to RTX Corporation in July 2023. RTX Corporation was incorporated in 1934 and is headquartered in Arlington, Virginia.",
@@ -10791,7 +10791,7 @@
   "insider_net_shares": 10308.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-20"
+  "_date": "2026-11-23"
  },
  "BA": {
   "shortName": "Boeing Company (The)",
@@ -11095,7 +11095,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "MOD": {
   "shortName": "Modine Manufacturing Company",
@@ -11719,7 +11719,7 @@
   "sector": "Healthcare",
   "industry": "Diagnostics & Research",
   "marketCap": 9306798080,
-  "trailingPE": 28.525316,
+  "trailingPE": 28.345911,
   "forwardPE": 19.481306,
   "pegRatio": 1.32,
   "priceToSalesTrailing12Months": 4.3990273,
@@ -11750,7 +11750,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 1,
   "downgrades_90d": 2,
-  "_date": "2026-11-22"
+  "_date": "2026-11-23"
  },
  "R3NK.DE": {
   "shortName": "RENK Group AG                 I",
