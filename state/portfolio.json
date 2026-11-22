@@ -4591,6 +4591,15 @@
     "DAX": 94.14,
     "BTC": 79.96
    }
+  },
+  {
+   "t": "2026-11-22T05:00:31.609508+00:00",
+   "v": 88.5,
+   "b": {
+    "S&P 500": 90.79,
+    "DAX": 94.14,
+    "BTC": 80.04
+   }
   }
  ],
  "fees_paid": 2.677088052672588,
@@ -4622,7 +4631,7 @@
  "last_skipped": [
   "JUP: negative news (-0.32)",
   "QNT: confidence 31% below 50%",
-  "INJ: confidence 31% below 50%",
+  "INJ: confidence 38% below 50%",
   "NEAR: negative news (-0.39)",
   "ICP: negative news (-0.32)"
  ]
