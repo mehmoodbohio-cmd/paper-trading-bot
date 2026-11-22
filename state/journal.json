@@ -1226,5 +1226,40 @@
    "size 12.47 EUR = 14% of portfolio (confidence x0.53, volatility x1.00)"
   ],
   "check": null
+ },
+ {
+  "id": 54,
+  "time": "2026-11-22T22:00:31.063676+00:00",
+  "ticker": "PEPE24478-USD",
+  "side": "SELL",
+  "price": 3.3999999686784577e-06,
+  "eur": 13.56,
+  "fee": 0.034,
+  "confidence": null,
+  "reasons": [
+   "trend broke: short-term: falling (-0.3% in 2h), below 10-hour average, and below its 20-day average"
+  ],
+  "check": null
+ },
+ {
+  "id": 55,
+  "time": "2026-11-22T22:00:31.063676+00:00",
+  "ticker": "STX4847-USD",
+  "side": "BUY",
+  "price": 0.2581000030040741,
+  "eur": 13.5,
+  "fee": 0.034,
+  "confidence": 0.6246810832779711,
+  "reasons": [
+   "daily scan score 0.44 (charts 0.44)",
+   "downtrend (below its moving averages)",
+   "momentum stronger than 98% of the scan (3-month -25%)",
+   "RSI 35",
+   "short-term: above its 10-hour average and up +0.1% in 2h",
+   "good news: \"Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom\" (boom)",
+   "market mood: BTC below its 50-day average",
+   "size 13.50 EUR = 15% of portfolio (confidence x0.62, volatility x1.00)"
+  ],
+  "check": null
  }
 ]

@@ -45,29 +45,12 @@
     "size 18.64 EUR = 21% of portfolio (confidence x0.78, volatility x1.00)"
    ]
   },
-  "PEPE24478-USD": {
-   "units": 4376157.555293881,
-   "entry_price": 3.370000058566802e-06,
-   "cost_eur": 13.477568869871906,
-   "peak": 3.4300001061637886e-06,
-   "last_price": 3.4100000902981265e-06,
-   "opened": "2026-11-22T08:30:31.781791+00:00",
-   "reasons": [
-    "daily scan score 0.44 (charts 0.44)",
-    "momentum stronger than 90% of the scan (3-month -32%)",
-    "RSI 31",
-    "short-term: above its 10-hour average and up +1.2% in 2h",
-    "good news: \"Better Buy in 2026: Pepe, Dogecoin or XRP? One Is Up 21% This Month.\" (better)",
-    "market mood: BTC below its 50-day average",
-    "size 13.44 EUR = 15% of portfolio (confidence x0.59, volatility x0.64)"
-   ]
-  },
   "INJ-USD": {
    "units": 2.7610988369350036,
    "entry_price": 6.090000152587891,
    "cost_eur": 15.366959910938437,
    "peak": 6.261000156402588,
-   "last_price": 6.205999851226807,
+   "last_price": 6.203999996185303,
    "opened": "2026-11-22T08:30:31.781791+00:00",
    "reasons": [
     "daily scan score 0.34 (charts 0.34)",
@@ -85,7 +68,7 @@
    "entry_price": 140.77999877929688,
    "cost_eur": 12.500579054000811,
    "peak": 143.6999969482422,
-   "last_price": 142.67999267578125,
+   "last_price": 142.2100067138672,
    "opened": "2026-11-22T10:00:31.514984+00:00",
    "reasons": [
     "daily scan score 0.35 (charts 0.35)",
@@ -96,6 +79,24 @@
     "news: nothing important (-0.08)",
     "market mood: BTC below its 50-day average",
     "size 12.47 EUR = 14% of portfolio (confidence x0.53, volatility x1.00)"
+   ]
+  },
+  "STX4847-USD": {
+   "units": 57.36042705830582,
+   "entry_price": 0.2581000030040741,
+   "cost_eur": 13.52972867733152,
+   "peak": 0.2581000030040741,
+   "last_price": 0.2581000030040741,
+   "opened": "2026-11-22T22:00:31.063676+00:00",
+   "reasons": [
+    "daily scan score 0.44 (charts 0.44)",
+    "downtrend (below its moving averages)",
+    "momentum stronger than 98% of the scan (3-month -25%)",
+    "RSI 35",
+    "short-term: above its 10-hour average and up +0.1% in 2h",
+    "good news: \"Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom\" (boom)",
+    "market mood: BTC below its 50-day average",
+    "size 13.50 EUR = 15% of portfolio (confidence x0.62, volatility x1.00)"
    ]
   }
  },
@@ -112,7 +113,7 @@
   "ELF": "2026-11-16T15:00:31.462436+00:00",
   "ABNB": "2026-11-16T15:00:31.462436+00:00",
   "QNT-USD": "2026-11-16T21:30:31.474842+00:00",
-  "PEPE24478-USD": "2026-11-21T19:30:30.944200+00:00",
+  "PEPE24478-USD": "2026-11-22T22:00:31.063676+00:00",
   "SAP.DE": "2026-11-17T08:30:30.917433+00:00",
   "NEAR-USD": "2026-11-17T09:30:31.542915+00:00",
   "U": "2026-11-17T16:00:31.733475+00:00",
@@ -4977,21 +4978,30 @@
     "DAX": 94.14,
     "BTC": 82.34
    }
+  },
+  {
+   "t": "2026-11-22T22:00:31.063676+00:00",
+   "v": 88.86,
+   "b": {
+    "S&P 500": 90.79,
+    "DAX": 94.14,
+    "BTC": 82.29
+   }
   }
  ],
- "fees_paid": 2.780193059741942,
+ "fees_paid": 2.8478421259352635,
  "benchmarks_start": {
   "SPY": 759.8099975585938,
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 5,
+ "trades_today": 7,
  "live_prices": {
   "REGN": 921.3599853515625,
   "COST": 1104.02001953125,
-  "PEPE24478-USD": 3.4100000902981265e-06,
-  "INJ-USD": 6.205999851226807,
-  "QNT-USD": 142.67999267578125
+  "INJ-USD": 6.203999996185303,
+  "QNT-USD": 142.2100067138672,
+  "STX4847-USD": 0.2581000030040741
  },
  "fx": 1.0969723463058472,
  "mood": {
