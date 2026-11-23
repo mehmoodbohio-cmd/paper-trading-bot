@@ -1425,5 +1425,43 @@
    "size 12.52 EUR = 14% of portfolio (confidence x0.75, volatility x1.00)"
   ],
   "check": null
+ },
+ {
+  "id": 64,
+  "time": "2026-11-23T11:00:31.168910+00:00",
+  "ticker": "RENDER-USD",
+  "side": "SELL",
+  "price": 1.3346999883651733,
+  "eur": 15.49,
+  "fee": 0.039,
+  "confidence": null,
+  "reasons": [
+   "trend broke: short-term: falling (-0.7% in 2h), below 10-hour average, and below its 20-day average"
+  ],
+  "check": null
+ },
+ {
+  "id": 65,
+  "time": "2026-11-23T11:00:31.168910+00:00",
+  "ticker": "ADS.DE",
+  "side": "BUY",
+  "price": 166.10000610351562,
+  "eur": 15.42,
+  "fee": 0.039,
+  "confidence": 0.5206191294499977,
+  "reasons": [
+   "daily scan score 0.75 (charts 0.75, company health 0.75)",
+   "uptrend (price above 50-day average, 20-day above 50-day)",
+   "momentum stronger than 87% of the scan (3-month +7%)",
+   "RSI 45",
+   "profits growing +58%",
+   "generates cash",
+   "cheap for its growth (PEG 0.7)",
+   "short-term: falling (-0.5% in 2h), below 10-hour average",
+   "bad news: \"Mbapp\u00e9\u2019s apology is a warning: China\u2019s economic coercion needs a collective response\" (warning, coercion)",
+   "market mood: DAX below its 50-day average",
+   "size 15.42 EUR = 17% of portfolio (confidence x0.52, volatility x1.00)"
+  ],
+  "check": null
  }
 ]
