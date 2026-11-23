@@ -45,30 +45,12 @@
     "size 18.64 EUR = 21% of portfolio (confidence x0.78, volatility x1.00)"
    ]
   },
-  "STX4847-USD": {
-   "units": 57.36042705830582,
-   "entry_price": 0.2581000030040741,
-   "cost_eur": 13.52972867733152,
-   "peak": 0.2590999901294708,
-   "last_price": 0.2578999996185303,
-   "opened": "2026-11-22T22:00:31.063676+00:00",
-   "reasons": [
-    "daily scan score 0.44 (charts 0.44)",
-    "downtrend (below its moving averages)",
-    "momentum stronger than 98% of the scan (3-month -25%)",
-    "RSI 35",
-    "short-term: above its 10-hour average and up +0.1% in 2h",
-    "good news: \"Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom\" (boom)",
-    "market mood: BTC below its 50-day average",
-    "size 13.50 EUR = 15% of portfolio (confidence x0.62, volatility x1.00)"
-   ]
-  },
   "XTZ-USD": {
    "units": 65.60355490967349,
    "entry_price": 0.20880000293254852,
    "cost_eur": 12.512841646522181,
    "peak": 0.2125999927520752,
-   "last_price": 0.21230000257492065,
+   "last_price": 0.21130000054836273,
    "opened": "2026-11-22T23:00:31.278993+00:00",
    "reasons": [
     "daily scan score 0.35 (charts 0.35)",
@@ -86,7 +68,7 @@
    "entry_price": 1.3324999809265137,
    "cost_eur": 15.476604835570535,
    "peak": 1.3422000408172607,
-   "last_price": 1.3422000408172607,
+   "last_price": 1.3349000215530396,
    "opened": "2026-11-23T03:30:31.281862+00:00",
    "reasons": [
     "daily scan score 0.41 (charts 0.41)",
@@ -97,6 +79,24 @@
     "good news: \"WEF mapped out 4 AI-driven futures for jobs by 2030, and only one looks good for humanity\" (good)",
     "market mood: BTC below its 50-day average",
     "size 15.44 EUR = 17% of portfolio (confidence x0.61, volatility x1.00)"
+   ]
+  },
+  "TAO22974-USD": {
+   "units": 0.07655401496867852,
+   "entry_price": 190.7100067138672,
+   "cost_eur": 13.307155916157884,
+   "peak": 190.7100067138672,
+   "last_price": 190.7100067138672,
+   "opened": "2026-11-23T06:30:31.098134+00:00",
+   "reasons": [
+    "daily scan score 0.39 (charts 0.39)",
+    "downtrend (below its moving averages)",
+    "momentum stronger than 84% of the scan (3-month -34%)",
+    "RSI 37",
+    "short-term: above its 10-hour average and up +0.1% in 2h",
+    "good news: \"Better Buy for the AI Boom: Bittensor or Bitcoin?\" (better, boom)",
+    "market mood: BTC below its 50-day average",
+    "size 13.27 EUR = 15% of portfolio (confidence x0.57, volatility x1.00)"
    ]
   }
  },
@@ -125,7 +125,7 @@
   "CVNA": "2026-11-19T18:00:31.515025+00:00",
   "ADS.DE": "2026-11-20T08:00:30.561937+00:00",
   "DIS": "2026-11-20T16:00:31.712604+00:00",
-  "STX4847-USD": "2026-11-22T02:30:31.374684+00:00"
+  "STX4847-USD": "2026-11-23T06:30:31.098134+00:00"
  },
  "history": [
   {
@@ -5149,23 +5149,32 @@
     "DAX": 94.14,
     "BTC": 83.34
    }
+  },
+  {
+   "t": "2026-11-23T06:30:31.098134+00:00",
+   "v": 88.36,
+   "b": {
+    "S&P 500": 90.79,
+    "DAX": 94.14,
+    "BTC": 83.12
+   }
   }
  ],
- "fees_paid": 2.9877902330213963,
+ "fees_paid": 3.054326428453407,
  "benchmarks_start": {
   "SPY": 759.8099975585938,
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 3,
+ "trades_today": 5,
  "live_prices": {
   "REGN": 921.3599853515625,
   "COST": 1104.02001953125,
-  "STX4847-USD": 0.2578999996185303,
-  "XTZ-USD": 0.21230000257492065,
-  "RENDER-USD": 1.3422000408172607
+  "XTZ-USD": 0.21130000054836273,
+  "RENDER-USD": 1.3349000215530396,
+  "TAO22974-USD": 190.7100067138672
  },
- "fx": 1.0996261835098267,
+ "fx": 1.0998680591583252,
  "mood": {
   "stocks": [
    "risk-off",

@@ -1341,5 +1341,40 @@
    "size 15.44 EUR = 17% of portfolio (confidence x0.61, volatility x1.00)"
   ],
   "check": null
+ },
+ {
+  "id": 60,
+  "time": "2026-11-23T06:30:31.098134+00:00",
+  "ticker": "STX4847-USD",
+  "side": "SELL",
+  "price": 0.2558000087738037,
+  "eur": 13.34,
+  "fee": 0.033,
+  "confidence": null,
+  "reasons": [
+   "trend broke: short-term: falling (-0.7% in 2h), below 10-hour average, and below its 20-day average"
+  ],
+  "check": null
+ },
+ {
+  "id": 61,
+  "time": "2026-11-23T06:30:31.098134+00:00",
+  "ticker": "TAO22974-USD",
+  "side": "BUY",
+  "price": 190.7100067138672,
+  "eur": 13.27,
+  "fee": 0.033,
+  "confidence": 0.5660714321465609,
+  "reasons": [
+   "daily scan score 0.39 (charts 0.39)",
+   "downtrend (below its moving averages)",
+   "momentum stronger than 84% of the scan (3-month -34%)",
+   "RSI 37",
+   "short-term: above its 10-hour average and up +0.1% in 2h",
+   "good news: \"Better Buy for the AI Boom: Bittensor or Bitcoin?\" (better, boom)",
+   "market mood: BTC below its 50-day average",
+   "size 13.27 EUR = 15% of portfolio (confidence x0.57, volatility x1.00)"
+  ],
+  "check": null
  }
 ]
