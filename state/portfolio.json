@@ -1,5 +1,5 @@
 {
- "cash": 15.476604835570534,
+ "cash": -1.7763568394002505e-15,
  "positions": {
   "REGN": {
    "units": 0.03388625344226112,
@@ -50,7 +50,7 @@
    "entry_price": 0.2581000030040741,
    "cost_eur": 13.52972867733152,
    "peak": 0.2581000030040741,
-   "last_price": 0.25130000710487366,
+   "last_price": 0.25529998540878296,
    "opened": "2026-11-22T22:00:31.063676+00:00",
    "reasons": [
     "daily scan score 0.44 (charts 0.44)",
@@ -67,8 +67,8 @@
    "units": 65.60355490967349,
    "entry_price": 0.20880000293254852,
    "cost_eur": 12.512841646522181,
-   "peak": 0.20909999310970306,
-   "last_price": 0.20749999582767487,
+   "peak": 0.20970000326633453,
+   "last_price": 0.20970000326633453,
    "opened": "2026-11-22T23:00:31.278993+00:00",
    "reasons": [
     "daily scan score 0.35 (charts 0.35)",
@@ -79,6 +79,24 @@
     "good news: \"Tether\u2019s USDT Gains Regulatory Recognition as Fiat-Referenced Token in Abu Dhabi Global Market\" (gains)",
     "market mood: BTC below its 50-day average",
     "size 12.48 EUR = 14% of portfolio (confidence x0.54, volatility x1.00)"
+   ]
+  },
+  "RENDER-USD": {
+   "units": 12.730193425436953,
+   "entry_price": 1.3324999809265137,
+   "cost_eur": 15.476604835570535,
+   "peak": 1.3324999809265137,
+   "last_price": 1.3324999809265137,
+   "opened": "2026-11-23T03:30:31.281862+00:00",
+   "reasons": [
+    "daily scan score 0.41 (charts 0.41)",
+    "downtrend (below its moving averages)",
+    "momentum stronger than 88% of the scan (3-month -23%)",
+    "RSI 39",
+    "short-term: above its 10-hour average and up +1.1% in 2h",
+    "good news: \"WEF mapped out 4 AI-driven futures for jobs by 2030, and only one looks good for humanity\" (good)",
+    "market mood: BTC below its 50-day average",
+    "size 15.44 EUR = 17% of portfolio (confidence x0.61, volatility x1.00)"
    ]
   }
  },
@@ -5068,22 +5086,32 @@
     "DAX": 94.14,
     "BTC": 81.87
    }
+  },
+  {
+   "t": "2026-11-23T03:30:31.281862+00:00",
+   "v": 88.36,
+   "b": {
+    "S&P 500": 90.79,
+    "DAX": 94.14,
+    "BTC": 82.89
+   }
   }
  ],
- "fees_paid": 2.949195208493789,
+ "fees_paid": 2.9877902330213963,
  "benchmarks_start": {
   "SPY": 759.8099975585938,
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 2,
+ "trades_today": 3,
  "live_prices": {
   "REGN": 921.3599853515625,
   "COST": 1104.02001953125,
-  "STX4847-USD": 0.25130000710487366,
-  "XTZ-USD": 0.20749999582767487
+  "STX4847-USD": 0.25529998540878296,
+  "XTZ-USD": 0.20970000326633453,
+  "RENDER-USD": 1.3324999809265137
  },
- "fx": 1.098659634590149,
+ "fx": 1.0987803936004639,
  "mood": {
   "stocks": [
    "risk-off",
@@ -5100,8 +5128,6 @@
  },
  "last_skipped": [
   "JUP: negative news (-0.32)",
-  "NEAR: negative news (-0.39)",
-  "RENDER: confidence 38% below 50%",
-  "TAO: confidence 34% below 50%"
+  "NEAR: negative news (-0.39)"
  ]
 }

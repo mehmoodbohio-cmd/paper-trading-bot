@@ -1168,7 +1168,12 @@
   "reasons": [
    "trend broke: short-term: falling (-0.7% in 2h), below 10-hour average, and below its 20-day average"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-23T03:30:31.281862+00:00",
+   "price": 1.3324999809265137,
+   "move": 0.02429087470241198,
+   "right": false
+  }
  },
  {
   "id": 51,
@@ -1313,6 +1318,27 @@
   "confidence": null,
   "reasons": [
    "trend broke: short-term: falling (-0.6% in 2h), below 10-hour average, and below its 20-day average"
+  ],
+  "check": null
+ },
+ {
+  "id": 59,
+  "time": "2026-11-23T03:30:31.281862+00:00",
+  "ticker": "RENDER-USD",
+  "side": "BUY",
+  "price": 1.3324999809265137,
+  "eur": 15.44,
+  "fee": 0.039,
+  "confidence": 0.6060798451817349,
+  "reasons": [
+   "daily scan score 0.41 (charts 0.41)",
+   "downtrend (below its moving averages)",
+   "momentum stronger than 88% of the scan (3-month -23%)",
+   "RSI 39",
+   "short-term: above its 10-hour average and up +1.1% in 2h",
+   "good news: \"WEF mapped out 4 AI-driven futures for jobs by 2030, and only one looks good for humanity\" (good)",
+   "market mood: BTC below its 50-day average",
+   "size 15.44 EUR = 17% of portfolio (confidence x0.61, volatility x1.00)"
   ],
   "check": null
  }
