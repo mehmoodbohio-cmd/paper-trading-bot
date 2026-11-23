@@ -1386,5 +1386,44 @@
    "size 13.27 EUR = 15% of portfolio (confidence x0.57, volatility x1.00)"
   ],
   "check": null
+ },
+ {
+  "id": 62,
+  "time": "2026-11-23T10:30:30.682791+00:00",
+  "ticker": "XTZ-USD",
+  "side": "SELL",
+  "price": 0.21050000190734863,
+  "eur": 12.58,
+  "fee": 0.031,
+  "confidence": null,
+  "reasons": [
+   "trend broke: short-term: falling (-0.9% in 2h), below 10-hour average, and below its 20-day average"
+  ],
+  "check": null
+ },
+ {
+  "id": 63,
+  "time": "2026-11-23T10:30:30.682791+00:00",
+  "ticker": "SRT3.DE",
+  "side": "BUY",
+  "price": 292.20001220703125,
+  "eur": 12.52,
+  "fee": 0.031,
+  "confidence": 0.7524898798169091,
+  "reasons": [
+   "daily scan score 0.75 (charts 0.79, company health 0.69)",
+   "uptrend (price above 50-day average, 20-day above 50-day)",
+   "momentum stronger than 96% of the scan (3-month +14%)",
+   "RSI 53",
+   "generates cash",
+   "cheap for its growth (PEG 0.9)",
+   "analysts rate it a buy",
+   "short-term: above its 10-hour average and up +0.5% in 2h",
+   "news: nothing important (-0.08)",
+   "risks: trades above analyst targets (+5%)",
+   "market mood: DAX below its 50-day average",
+   "size 12.52 EUR = 14% of portfolio (confidence x0.75, volatility x1.00)"
+  ],
+  "check": null
  }
 ]
