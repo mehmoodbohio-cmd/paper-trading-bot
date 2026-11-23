@@ -1477,5 +1477,25 @@
    "trend broke: short-term: falling (-0.3% in 2h), below 10-hour average, and below its 20-day average"
   ],
   "check": null
+ },
+ {
+  "id": 67,
+  "time": "2026-11-23T14:00:31.500485+00:00",
+  "ticker": "PEPE24478-USD",
+  "side": "BUY",
+  "price": 3.5900000057154102e-06,
+  "eur": 13.25,
+  "fee": 0.033,
+  "confidence": 0.5916071428571429,
+  "reasons": [
+   "daily scan score 0.44 (charts 0.44)",
+   "momentum stronger than 90% of the scan (3-month -16%)",
+   "RSI 31",
+   "short-term: above its 10-hour average and up +4.7% in 2h",
+   "good news: \"Better Buy in 2026: Pepe, Dogecoin or XRP? One Is Up 21% This Month.\" (better)",
+   "market mood: BTC below its 50-day average",
+   "size 13.25 EUR = 15% of portfolio (confidence x0.59, volatility x0.65)"
+  ],
+  "check": null
  }
 ]
