@@ -1149,7 +1149,12 @@
   "reasons": [
    "trend broke: short-term: falling (-0.6% in 2h), below 10-hour average, and below its 20-day average"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-23T03:00:30.843864+00:00",
+   "price": 0.25130000710487366,
+   "move": 0.0072144313472166655,
+   "right": false
+  }
  },
  {
   "id": 50,
