@@ -1296,5 +1296,19 @@
    "size 12.48 EUR = 14% of portfolio (confidence x0.54, volatility x1.00)"
   ],
   "check": null
+ },
+ {
+  "id": 58,
+  "time": "2026-11-23T01:30:30.718260+00:00",
+  "ticker": "INJ-USD",
+  "side": "SELL",
+  "price": 6.172999858856201,
+  "eur": 15.52,
+  "fee": 0.039,
+  "confidence": null,
+  "reasons": [
+   "trend broke: short-term: falling (-0.6% in 2h), below 10-hour average, and below its 20-day average"
+  ],
+  "check": null
  }
 ]

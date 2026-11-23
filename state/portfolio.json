@@ -1,5 +1,5 @@
 {
- "cash": -3.552713678800501e-15,
+ "cash": 15.476604835570534,
  "positions": {
   "REGN": {
    "units": 0.03388625344226112,
@@ -45,30 +45,12 @@
     "size 18.64 EUR = 21% of portfolio (confidence x0.78, volatility x1.00)"
    ]
   },
-  "INJ-USD": {
-   "units": 2.7610988369350036,
-   "entry_price": 6.090000152587891,
-   "cost_eur": 15.366959910938437,
-   "peak": 6.261000156402588,
-   "last_price": 6.189000129699707,
-   "opened": "2026-11-22T08:30:31.781791+00:00",
-   "reasons": [
-    "daily scan score 0.34 (charts 0.34)",
-    "downtrend (below its moving averages)",
-    "momentum stronger than 96% of the scan (3-month -25%)",
-    "RSI 35",
-    "short-term: above its 10-hour average and up +2.3% in 2h",
-    "news: nothing important (-0.00)",
-    "market mood: BTC below its 50-day average",
-    "size 15.33 EUR = 17% of portfolio (confidence x0.53, volatility x0.81)"
-   ]
-  },
   "STX4847-USD": {
    "units": 57.36042705830582,
    "entry_price": 0.2581000030040741,
    "cost_eur": 13.52972867733152,
    "peak": 0.2581000030040741,
-   "last_price": 0.2542000114917755,
+   "last_price": 0.25270000100135803,
    "opened": "2026-11-22T22:00:31.063676+00:00",
    "reasons": [
     "daily scan score 0.44 (charts 0.44)",
@@ -86,7 +68,7 @@
    "entry_price": 0.20880000293254852,
    "cost_eur": 12.512841646522181,
    "peak": 0.20909999310970306,
-   "last_price": 0.20819999277591705,
+   "last_price": 0.2076999992132187,
    "opened": "2026-11-22T23:00:31.278993+00:00",
    "reasons": [
     "daily scan score 0.35 (charts 0.35)",
@@ -117,7 +99,7 @@
   "SAP.DE": "2026-11-17T08:30:30.917433+00:00",
   "NEAR-USD": "2026-11-17T09:30:31.542915+00:00",
   "U": "2026-11-17T16:00:31.733475+00:00",
-  "INJ-USD": "2026-11-20T01:00:31.249447+00:00",
+  "INJ-USD": "2026-11-23T01:30:30.718260+00:00",
   "RENDER-USD": "2026-11-22T03:00:31.144901+00:00",
   "NDX1.DE": "2026-11-17T16:00:31.733475+00:00",
   "CARG": "2026-11-19T15:30:30.974870+00:00",
@@ -5050,23 +5032,31 @@
     "DAX": 94.14,
     "BTC": 82.69
    }
+  },
+  {
+   "t": "2026-11-23T01:30:30.718260+00:00",
+   "v": 88.16,
+   "b": {
+    "S&P 500": 90.79,
+    "DAX": 94.14,
+    "BTC": 82.53
+   }
   }
  ],
- "fees_paid": 2.9104067251966197,
+ "fees_paid": 2.949195208493789,
  "benchmarks_start": {
   "SPY": 759.8099975585938,
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 1,
+ "trades_today": 2,
  "live_prices": {
   "REGN": 921.3599853515625,
   "COST": 1104.02001953125,
-  "INJ-USD": 6.189000129699707,
-  "STX4847-USD": 0.2542000114917755,
-  "XTZ-USD": 0.20819999277591705
+  "STX4847-USD": 0.25270000100135803,
+  "XTZ-USD": 0.2076999992132187
  },
- "fx": 1.0981770753860474,
+ "fx": 1.098538875579834,
  "mood": {
   "stocks": [
    "risk-off",
