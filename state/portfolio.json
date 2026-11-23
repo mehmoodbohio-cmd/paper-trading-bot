@@ -1,12 +1,12 @@
 {
- "cash": 0.0,
+ "cash": 1.7763568394002505e-15,
  "positions": {
   "REGN": {
    "units": 0.03388625344226112,
    "entry_price": 938.5,
    "cost_eur": 29.015583699333593,
-   "peak": 942.7750244140625,
-   "last_price": 942.7750244140625,
+   "peak": 944.2349853515625,
+   "last_price": 944.2349853515625,
    "opened": "2026-11-20T14:30:31.758108+00:00",
    "reasons": [
     "daily scan score 0.83 (charts 0.78, company health 0.90)",
@@ -28,7 +28,7 @@
    "entry_price": 1102.9599609375,
    "cost_eur": 18.689372473458786,
    "peak": 1120.10498046875,
-   "last_price": 1099.4599609375,
+   "last_price": 1099.405029296875,
    "opened": "2026-11-20T14:30:31.758108+00:00",
    "reasons": [
     "daily scan score 0.77 (charts 0.79, company health 0.75)",
@@ -88,21 +88,25 @@
     "size 15.42 EUR = 17% of portfolio (confidence x0.52, volatility x1.00)"
    ]
   },
-  "PEPE24478-USD": {
-   "units": 4036843.8811118365,
-   "entry_price": 3.5900000057154102e-06,
-   "cost_eur": 13.287766547786164,
-   "peak": 3.710000100909383e-06,
-   "last_price": 3.4699999105214374e-06,
-   "opened": "2026-11-23T14:00:31.500485+00:00",
+  "APP": {
+   "units": 0.036724082788100375,
+   "entry_price": 377.3450012207031,
+   "cost_eur": 12.737843513982902,
+   "peak": 377.3450012207031,
+   "last_price": 377.3450012207031,
+   "opened": "2026-11-23T20:30:31.160508+00:00",
    "reasons": [
-    "daily scan score 0.44 (charts 0.44)",
-    "momentum stronger than 90% of the scan (3-month -16%)",
-    "RSI 31",
-    "short-term: above its 10-hour average and up +4.7% in 2h",
-    "good news: \"Better Buy in 2026: Pepe, Dogecoin or XRP? One Is Up 21% This Month.\" (better)",
-    "market mood: BTC below its 50-day average",
-    "size 13.25 EUR = 15% of portfolio (confidence x0.59, volatility x0.65)"
+    "daily scan score 0.83 (charts 0.74, company health 0.96)",
+    "uptrend (price above 50-day average, 20-day above 50-day)",
+    "momentum stronger than 84% of the scan (3-month +11%)",
+    "RSI 52",
+    "sales growing +56% a year",
+    "profits growing +76%",
+    "keeps 66% of sales as profit",
+    "short-term: above its 10-hour average and up +1.7% in 2h",
+    "good news: \"APP Falls 14.9% in One Week as Growth Strength Meets Execution Risk\" (strength)",
+    "market mood: S&P 500 below its 50-day average",
+    "size 12.71 EUR = 14% of portfolio (confidence x0.81, volatility x0.57)"
    ]
   }
  },
@@ -119,7 +123,7 @@
   "ELF": "2026-11-16T15:00:31.462436+00:00",
   "ABNB": "2026-11-16T15:00:31.462436+00:00",
   "QNT-USD": "2026-11-22T22:30:30.868531+00:00",
-  "PEPE24478-USD": "2026-11-22T22:00:31.063676+00:00",
+  "PEPE24478-USD": "2026-11-23T20:30:31.160508+00:00",
   "SAP.DE": "2026-11-17T08:30:30.917433+00:00",
   "NEAR-USD": "2026-11-17T09:30:31.542915+00:00",
   "U": "2026-11-17T16:00:31.733475+00:00",
@@ -5427,23 +5431,32 @@
     "DAX": 96.17,
     "BTC": 82.9
    }
+  },
+  {
+   "t": "2026-11-23T20:30:31.160508+00:00",
+   "v": 89.08,
+   "b": {
+    "S&P 500": 95.34,
+    "DAX": 96.17,
+    "BTC": 82.75
+   }
   }
  ],
- "fees_paid": 3.260800723376034,
+ "fees_paid": 3.3244903390060463,
  "benchmarks_start": {
   "SPY": 759.8099975585938,
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 11,
+ "trades_today": 13,
  "live_prices": {
-  "REGN": 942.7750244140625,
-  "COST": 1099.4599609375,
+  "REGN": 944.2349853515625,
+  "COST": 1099.405029296875,
   "SRT3.DE": 295.29998779296875,
   "ADS.DE": 168.6999969482422,
-  "PEPE24478-USD": 3.4699999105214374e-06
+  "APP": 377.3450012207031
  },
- "fx": 1.0907504558563232,
+ "fx": 1.0906314849853516,
  "mood": {
   "stocks": [
    "cautious",

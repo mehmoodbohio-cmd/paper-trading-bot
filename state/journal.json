@@ -1497,5 +1497,43 @@
    "size 13.25 EUR = 15% of portfolio (confidence x0.59, volatility x0.65)"
   ],
   "check": null
+ },
+ {
+  "id": 68,
+  "time": "2026-11-23T20:30:31.160508+00:00",
+  "ticker": "PEPE24478-USD",
+  "side": "SELL",
+  "price": 3.4499998946557753e-06,
+  "eur": 12.77,
+  "fee": 0.032,
+  "confidence": null,
+  "reasons": [
+   "trend broke: short-term: falling (-1.7% in 2h), below 10-hour average, and below its 20-day average"
+  ],
+  "check": null
+ },
+ {
+  "id": 69,
+  "time": "2026-11-23T20:30:31.160508+00:00",
+  "ticker": "APP",
+  "side": "BUY",
+  "price": 377.3450012207031,
+  "eur": 12.71,
+  "fee": 0.032,
+  "confidence": 0.8091038613612147,
+  "reasons": [
+   "daily scan score 0.83 (charts 0.74, company health 0.96)",
+   "uptrend (price above 50-day average, 20-day above 50-day)",
+   "momentum stronger than 84% of the scan (3-month +11%)",
+   "RSI 52",
+   "sales growing +56% a year",
+   "profits growing +76%",
+   "keeps 66% of sales as profit",
+   "short-term: above its 10-hour average and up +1.7% in 2h",
+   "good news: \"APP Falls 14.9% in One Week as Growth Strength Meets Execution Risk\" (strength)",
+   "market mood: S&P 500 below its 50-day average",
+   "size 12.71 EUR = 14% of portfolio (confidence x0.81, volatility x0.57)"
+  ],
+  "check": null
  }
 ]
