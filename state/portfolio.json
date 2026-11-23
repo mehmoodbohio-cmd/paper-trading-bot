@@ -111,8 +111,8 @@
   }
  },
  "started": "2026-11-12T00:54:13.766037+00:00",
- "day": "2026-11-23",
- "day_start_value": 88.68130075035467,
+ "day": "2026-11-24",
+ "day_start_value": 88.87976309134577,
  "last_scan": null,
  "last_summary": "2026-11-23",
  "last_gems": "2026-W48",
@@ -5485,6 +5485,15 @@
     "DAX": 96.17,
     "BTC": 82.69
    }
+  },
+  {
+   "t": "2026-11-23T23:00:31.152049+00:00",
+   "v": 88.88,
+   "b": {
+    "S&P 500": 95.06,
+    "DAX": 94.14,
+    "BTC": 82.9
+   }
   }
  ],
  "fees_paid": 3.3244903390060463,
@@ -5493,7 +5502,7 @@
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 13,
+ "trades_today": 0,
  "live_prices": {
   "REGN": 942.22998046875,
   "COST": 1097.9200439453125,
@@ -5501,15 +5510,15 @@
   "ADS.DE": 168.6999969482422,
   "APP": 373.9100036621094
  },
- "fx": 1.0903936624526978,
+ "fx": 1.0905125141143799,
  "mood": {
   "stocks": [
    "cautious",
    "S&P 500 below its 50-day average"
   ],
   "eu_stocks": [
-   "cautious",
-   "DAX below its 50-day average"
+   "risk-off",
+   "DAX below 50-day average and down -2.6% today"
   ],
   "crypto": [
    "cautious",
@@ -5517,9 +5526,11 @@
   ]
  },
  "last_skipped": [
+  "QNT: confidence 36% below 50%",
   "STX: confidence 40% below 50%",
-  "INJ: confidence 36% below 50%",
   "JUP: negative news (-0.32)",
-  "NEAR: negative news (-0.39)"
+  "INJ: confidence 36% below 50%",
+  "NEAR: negative news (-0.39)",
+  "ICP: negative news (-0.32)"
  ]
 }
