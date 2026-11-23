@@ -1463,5 +1463,19 @@
    "size 15.42 EUR = 17% of portfolio (confidence x0.52, volatility x1.00)"
   ],
   "check": null
+ },
+ {
+  "id": 66,
+  "time": "2026-11-23T12:30:31.346567+00:00",
+  "ticker": "TAO22974-USD",
+  "side": "SELL",
+  "price": 190.82000732421875,
+  "eur": 13.32,
+  "fee": 0.033,
+  "confidence": null,
+  "reasons": [
+   "trend broke: short-term: falling (-0.3% in 2h), below 10-hour average, and below its 20-day average"
+  ],
+  "check": null
  }
 ]
