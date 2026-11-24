@@ -1636,5 +1636,55 @@
    "market mood risk-off (S&P 500 below 50-day average and down -1.1% today) and position losing"
   ],
   "check": null
+ },
+ {
+  "id": 74,
+  "time": "2026-11-24T15:00:30.959397+00:00",
+  "ticker": "CARG",
+  "side": "BUY",
+  "price": 32.73500061035156,
+  "eur": 29.41,
+  "fee": 0.074,
+  "confidence": 0.8305337767426495,
+  "reasons": [
+   "daily scan score 0.77 (charts 0.70, company health 0.88)",
+   "uptrend (price above 50-day average, 20-day above 50-day)",
+   "momentum stronger than 73% of the scan (3-month -12%)",
+   "RSI 45",
+   "sales growing +12% a year",
+   "profits growing +32%",
+   "keeps 19% of sales as profit",
+   "short-term: above its 10-hour average and up +1.6% in 2h",
+   "good news: \"All You Need to Know About CarGurus (CARG) Rating Upgrade to Buy\" ('upgrade to buy' (+3))",
+   "risks: 22% of shares sold short: many investors bet against it",
+   "market mood: S&P 500 below its 50-day average",
+   "size 29.41 EUR = 33% of portfolio (confidence x0.83, volatility x1.00)"
+  ],
+  "check": null
+ },
+ {
+  "id": 75,
+  "time": "2026-11-24T15:00:30.959397+00:00",
+  "ticker": "DIS",
+  "side": "BUY",
+  "price": 121.80999755859375,
+  "eur": 28.22,
+  "fee": 0.071,
+  "confidence": 0.7967828247967121,
+  "reasons": [
+   "daily scan score 0.83 (charts 0.87, company health 0.78)",
+   "uptrend (price above 50-day average, 20-day above 50-day)",
+   "momentum stronger than 95% of the scan (3-month +11%)",
+   "RSI 61",
+   "sales growing +16% a year",
+   "profits growing +107%",
+   "generates cash",
+   "short-term: above its 10-hour average and up +1.6% in 2h",
+   "bad news: \"Disney Stops Reporting Streaming Profit. Should You Worry?\" (stops, worry)",
+   "risks: expensive for its growth (PEG 3.8); trades above analyst targets (+9%)",
+   "market mood: S&P 500 below its 50-day average",
+   "size 28.22 EUR = 32% of portfolio (confidence x0.80, volatility x1.00)"
+  ],
+  "check": null
  }
 ]
