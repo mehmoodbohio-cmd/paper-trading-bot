@@ -6,7 +6,7 @@
    "entry_price": 938.5,
    "cost_eur": 29.015583699333593,
    "peak": 980.75,
-   "last_price": 979.0549926757812,
+   "last_price": 974.27001953125,
    "opened": "2026-11-20T14:30:31.758108+00:00",
    "reasons": [
     "daily scan score 0.83 (charts 0.78, company health 0.90)",
@@ -28,7 +28,7 @@
    "entry_price": 32.73500061035156,
    "cost_eur": 29.488141773486465,
    "peak": 32.73500061035156,
-   "last_price": 32.52000045776367,
+   "last_price": 32.474998474121094,
    "opened": "2026-11-24T15:00:30.959397+00:00",
    "reasons": [
     "daily scan score 0.77 (charts 0.70, company health 0.88)",
@@ -50,7 +50,7 @@
    "entry_price": 121.80999755859375,
    "cost_eur": 28.289812597910597,
    "peak": 121.80999755859375,
-   "last_price": 121.69000244140625,
+   "last_price": 121.66999816894531,
    "opened": "2026-11-24T15:00:30.959397+00:00",
    "reasons": [
     "daily scan score 0.83 (charts 0.87, company health 0.78)",
@@ -5797,6 +5797,15 @@
     "DAX": 94.77,
     "BTC": 80.43
    }
+  },
+  {
+   "t": "2026-11-24T17:00:31.049600+00:00",
+   "v": 88.15,
+   "b": {
+    "S&P 500": 93.96,
+    "DAX": 94.95,
+    "BTC": 80.19
+   }
   }
  ],
  "fees_paid": 3.615004495535803,
@@ -5807,23 +5816,23 @@
  },
  "trades_today": 6,
  "live_prices": {
-  "REGN": 979.0549926757812,
-  "CARG": 32.52000045776367,
-  "DIS": 121.69000244140625
+  "REGN": 974.27001953125,
+  "CARG": 32.474998474121094,
+  "DIS": 121.66999816894531
  },
- "fx": 1.0973334312438965,
+ "fx": 1.0969723463058472,
  "mood": {
   "stocks": [
    "risk-off",
-   "S&P 500 below 50-day average and down -1.1% today"
+   "S&P 500 below 50-day average and down -1.2% today"
   ],
   "eu_stocks": [
    "risk-off",
-   "DAX below 50-day average and down -1.4% today"
+   "DAX below 50-day average and down -1.3% today"
   ],
   "crypto": [
    "risk-off",
-   "BTC below 50-day average and down -2.8% today"
+   "BTC below 50-day average and down -3.1% today"
   ]
  },
  "last_skipped": [
