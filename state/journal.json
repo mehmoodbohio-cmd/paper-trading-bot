@@ -1459,7 +1459,12 @@
    "market mood: DAX below its 50-day average",
    "size 12.52 EUR = 14% of portfolio (confidence x0.75, volatility x1.00)"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-24T10:30:31.509447+00:00",
+   "price": 292.79998779296875,
+   "move": 0.0020533044519943644,
+   "right": true
+  }
  },
  {
   "id": 64,
