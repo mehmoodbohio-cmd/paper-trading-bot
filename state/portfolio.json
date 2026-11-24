@@ -1,5 +1,5 @@
 {
- "cash": 15.399721880494182,
+ "cash": 27.877468162170963,
  "positions": {
   "REGN": {
    "units": 0.03388625344226112,
@@ -43,28 +43,6 @@
     "risks: expensive for its growth (PEG 5.5); trades above analyst targets (-1%)",
     "market mood: S&P 500 below its 50-day average",
     "size 18.64 EUR = 21% of portfolio (confidence x0.78, volatility x1.00)"
-   ]
-  },
-  "SRT3.DE": {
-   "units": 0.04285378242654123,
-   "entry_price": 292.20001220703125,
-   "cost_eur": 12.55318043752319,
-   "peak": 297.0,
-   "last_price": 292.79998779296875,
-   "opened": "2026-11-23T10:30:30.682791+00:00",
-   "reasons": [
-    "daily scan score 0.75 (charts 0.79, company health 0.69)",
-    "uptrend (price above 50-day average, 20-day above 50-day)",
-    "momentum stronger than 96% of the scan (3-month +14%)",
-    "RSI 53",
-    "generates cash",
-    "cheap for its growth (PEG 0.9)",
-    "analysts rate it a buy",
-    "short-term: above its 10-hour average and up +0.5% in 2h",
-    "news: nothing important (-0.08)",
-    "risks: trades above analyst targets (+5%)",
-    "market mood: DAX below its 50-day average",
-    "size 12.52 EUR = 14% of portfolio (confidence x0.75, volatility x1.00)"
    ]
   },
   "APP": {
@@ -116,7 +94,8 @@
   "DIS": "2026-11-20T16:00:31.712604+00:00",
   "STX4847-USD": "2026-11-23T06:30:31.098134+00:00",
   "XTZ-USD": "2026-11-23T10:30:30.682791+00:00",
-  "TAO22974-USD": "2026-11-23T12:30:31.346567+00:00"
+  "TAO22974-USD": "2026-11-23T12:30:31.346567+00:00",
+  "SRT3.DE": "2026-11-24T11:00:31.408853+00:00"
  },
  "history": [
   {
@@ -5698,22 +5677,30 @@
     "DAX": 95.77,
     "BTC": 80.81
    }
+  },
+  {
+   "t": "2026-11-24T11:00:31.408853+00:00",
+   "v": 88.22,
+   "b": {
+    "S&P 500": 95.06,
+    "DAX": 95.49,
+    "BTC": 80.81
+   }
   }
  ],
- "fees_paid": 3.3630861331927484,
+ "fees_paid": 3.39435868026462,
  "benchmarks_start": {
   "SPY": 759.8099975585938,
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 1,
+ "trades_today": 2,
  "live_prices": {
   "REGN": 942.22998046875,
   "COST": 1097.9200439453125,
-  "SRT3.DE": 292.79998779296875,
   "APP": 373.9100036621094
  },
- "fx": 1.0934937000274658,
+ "fx": 1.0945708751678467,
  "mood": {
   "stocks": [
    "cautious",

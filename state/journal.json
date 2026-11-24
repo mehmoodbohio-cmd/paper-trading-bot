@@ -1478,7 +1478,12 @@
   "reasons": [
    "trend broke: short-term: falling (-0.7% in 2h), below 10-hour average, and below its 20-day average"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-24T11:00:31.408853+00:00",
+   "price": 1.2903000116348267,
+   "move": -0.033265885305603926,
+   "right": true
+  }
  },
  {
   "id": 65,
@@ -1587,6 +1592,20 @@
   "confidence": null,
   "reasons": [
    "trend broke: short-term: falling (-0.6% in 2h), below 10-hour average, and below its 20-day average"
+  ],
+  "check": null
+ },
+ {
+  "id": 71,
+  "time": "2026-11-24T11:00:31.408853+00:00",
+  "ticker": "SRT3.DE",
+  "side": "SELL",
+  "price": 291.8999938964844,
+  "eur": 12.51,
+  "fee": 0.031,
+  "confidence": null,
+  "reasons": [
+   "trend broke: short-term: falling (-0.9% in 2h), below 10-hour average, and below its 20-day average"
   ],
   "check": null
  }
