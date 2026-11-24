@@ -1570,5 +1570,19 @@
    "size 12.71 EUR = 14% of portfolio (confidence x0.81, volatility x0.57)"
   ],
   "check": null
+ },
+ {
+  "id": 70,
+  "time": "2026-11-24T08:30:31.484929+00:00",
+  "ticker": "ADS.DE",
+  "side": "SELL",
+  "price": 166.35000610351562,
+  "eur": 15.44,
+  "fee": 0.039,
+  "confidence": null,
+  "reasons": [
+   "trend broke: short-term: falling (-0.6% in 2h), below 10-hour average, and below its 20-day average"
+  ],
+  "check": null
  }
 ]
