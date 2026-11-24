@@ -1608,5 +1608,33 @@
    "trend broke: short-term: falling (-0.9% in 2h), below 10-hour average, and below its 20-day average"
   ],
   "check": null
+ },
+ {
+  "id": 72,
+  "time": "2026-11-24T14:30:31.371012+00:00",
+  "ticker": "COST",
+  "side": "SELL",
+  "price": 1070.47998046875,
+  "eur": 18.12,
+  "fee": 0.045,
+  "confidence": null,
+  "reasons": [
+   "market mood risk-off (S&P 500 below 50-day average and down -1.1% today) and position losing"
+  ],
+  "check": null
+ },
+ {
+  "id": 73,
+  "time": "2026-11-24T14:30:31.371012+00:00",
+  "ticker": "APP",
+  "side": "SELL",
+  "price": 373.7099914550781,
+  "eur": 12.51,
+  "fee": 0.031,
+  "confidence": null,
+  "reasons": [
+   "market mood risk-off (S&P 500 below 50-day average and down -1.1% today) and position losing"
+  ],
+  "check": null
  }
 ]
