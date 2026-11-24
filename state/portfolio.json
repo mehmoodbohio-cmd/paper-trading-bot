@@ -5521,6 +5521,15 @@
     "DAX": 94.14,
     "BTC": 82.72
    }
+  },
+  {
+   "t": "2026-11-24T01:00:30.880178+00:00",
+   "v": 88.83,
+   "b": {
+    "S&P 500": 90.79,
+    "DAX": 94.14,
+    "BTC": 82.81
+   }
   }
  ],
  "fees_paid": 3.3244903390060463,
@@ -5537,11 +5546,11 @@
   "ADS.DE": 168.6999969482422,
   "APP": 373.9100036621094
  },
- "fx": 1.0907504558563232,
+ "fx": 1.0913456678390503,
  "mood": {
   "stocks": [
-   "cautious",
-   "S&P 500 below its 50-day average"
+   "risk-off",
+   "S&P 500 below 50-day average and down -3.6% today"
   ],
   "eu_stocks": [
    "risk-off",
@@ -5556,7 +5565,7 @@
   "QNT: confidence 36% below 50%",
   "STX: confidence 47% below 50%",
   "JUP: negative news (-0.32)",
-  "INJ: confidence 36% below 50%",
+  "INJ: confidence 44% below 50%",
   "NEAR: negative news (-0.39)",
   "ICP: negative news (-0.32)",
   "RENDER: confidence 45% below 50%"
