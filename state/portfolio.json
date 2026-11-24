@@ -6,7 +6,7 @@
    "entry_price": 938.5,
    "cost_eur": 29.015583699333593,
    "peak": 980.75,
-   "last_price": 974.27001953125,
+   "last_price": 978.5900268554688,
    "opened": "2026-11-20T14:30:31.758108+00:00",
    "reasons": [
     "daily scan score 0.83 (charts 0.78, company health 0.90)",
@@ -28,7 +28,7 @@
    "entry_price": 32.73500061035156,
    "cost_eur": 29.488141773486465,
    "peak": 32.73500061035156,
-   "last_price": 32.474998474121094,
+   "last_price": 32.529998779296875,
    "opened": "2026-11-24T15:00:30.959397+00:00",
    "reasons": [
     "daily scan score 0.77 (charts 0.70, company health 0.88)",
@@ -49,8 +49,8 @@
    "units": 0.25429884685843623,
    "entry_price": 121.80999755859375,
    "cost_eur": 28.289812597910597,
-   "peak": 121.80999755859375,
-   "last_price": 121.66999816894531,
+   "peak": 122.3499984741211,
+   "last_price": 122.3499984741211,
    "opened": "2026-11-24T15:00:30.959397+00:00",
    "reasons": [
     "daily scan score 0.83 (charts 0.87, company health 0.78)",
@@ -5806,6 +5806,15 @@
     "DAX": 94.95,
     "BTC": 80.19
    }
+  },
+  {
+   "t": "2026-11-24T17:30:31.709435+00:00",
+   "v": 88.47,
+   "b": {
+    "S&P 500": 94.73,
+    "DAX": 94.95,
+    "BTC": 81.1
+   }
   }
  ],
  "fees_paid": 3.615004495535803,
@@ -5816,15 +5825,15 @@
  },
  "trades_today": 6,
  "live_prices": {
-  "REGN": 974.27001953125,
-  "CARG": 32.474998474121094,
-  "DIS": 121.66999816894531
+  "REGN": 978.5900268554688,
+  "CARG": 32.529998779296875,
+  "DIS": 122.3499984741211
  },
- "fx": 1.0969723463058472,
+ "fx": 1.0972130298614502,
  "mood": {
   "stocks": [
-   "risk-off",
-   "S&P 500 below 50-day average and down -1.2% today"
+   "cautious",
+   "S&P 500 below its 50-day average"
   ],
   "eu_stocks": [
    "risk-off",
@@ -5832,24 +5841,24 @@
   ],
   "crypto": [
    "risk-off",
-   "BTC below 50-day average and down -3.1% today"
+   "BTC below 50-day average and down -2.0% today"
   ]
  },
  "last_skipped": [
-  "APP: market mood risk-off",
-  "ABNB: market mood risk-off",
-  "MGNI: market mood risk-off",
-  "U: market mood risk-off",
-  "TGT: market mood risk-off",
-  "COST: market mood risk-off",
-  "CVNA: market mood risk-off",
-  "V: market mood risk-off",
-  "NXPI: market mood risk-off",
   "QNT: market mood risk-off",
   "STX: market mood risk-off",
   "JUP: market mood risk-off",
   "INJ: market mood risk-off",
   "NEAR: market mood risk-off",
-  "ICP: market mood risk-off"
+  "ICP: market mood risk-off",
+  "RENDER: market mood risk-off",
+  "ATOM: market mood risk-off",
+  "TGT: good setup, but no cash left (fully invested)",
+  "ABNB: good setup, but no cash left (fully invested)",
+  "V: good setup, but no cash left (fully invested)",
+  "MGNI: good setup, but no cash left (fully invested)",
+  "U: good setup, but no cash left (fully invested)",
+  "CVNA: good setup, but no cash left (fully invested)",
+  "NXPI: good setup, but no cash left (fully invested)"
  ]
 }
