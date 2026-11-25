@@ -6103,6 +6103,15 @@
     "DAX": 94.95,
     "BTC": 79.37
    }
+  },
+  {
+   "t": "2026-11-25T08:30:30.978923+00:00",
+   "v": 88.64,
+   "b": {
+    "S&P 500": 94.6,
+    "DAX": 95.12,
+    "BTC": 80.02
+   }
   }
  ],
  "fees_paid": 3.615004495535803,
@@ -6117,30 +6126,30 @@
   "CARG": 32.099998474121094,
   "DIS": 122.5199966430664
  },
- "fx": 1.0937328338623047,
+ "fx": 1.0940918922424316,
  "mood": {
   "stocks": [
    "cautious",
    "S&P 500 below its 50-day average"
   ],
   "eu_stocks": [
-   "risk-off",
-   "DAX below 50-day average and down -1.3% today"
+   "cautious",
+   "DAX below its 50-day average"
   ],
   "crypto": [
-   "risk-off",
-   "BTC below 50-day average and down -1.8% today"
+   "cautious",
+   "BTC below its 50-day average"
   ]
  },
  "last_skipped": [
-  "ADS: market mood risk-off",
-  "QNT: market mood risk-off",
-  "STX: market mood risk-off",
-  "PEPE: market mood risk-off",
-  "JUP: market mood risk-off",
-  "INJ: market mood risk-off",
-  "ATOM: market mood risk-off",
-  "ICP: market mood risk-off",
-  "RENDER: market mood risk-off"
+  "QNT: confidence 36% below 50%",
+  "PEPE: confidence 49% below 50%",
+  "JUP: negative news (-0.32)",
+  "INJ: confidence 48% below 50%",
+  "ICP: negative news (-0.32)",
+  "RENDER: confidence 37% below 50%",
+  "ADS: good setup, but no cash left (fully invested)",
+  "STX: good setup, but no cash left (fully invested)",
+  "ATOM: good setup, but no cash left (fully invested)"
  ]
 }
