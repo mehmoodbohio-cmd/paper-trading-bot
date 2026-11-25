@@ -1778,5 +1778,47 @@
    "size 23.23 EUR = 26% of portfolio (confidence x0.66, volatility x1.00)"
   ],
   "check": null
+ },
+ {
+  "id": 79,
+  "time": "2026-11-25T17:30:57.854152+00:00",
+  "ticker": "JUP29210-USD",
+  "side": "BUY",
+  "price": 0.21979999542236328,
+  "eur": 19.32,
+  "fee": 0.048,
+  "confidence": 0.6439920287748371,
+  "reasons": [
+   "daily scan score 0.43 (charts 0.43)",
+   "downtrend (below its moving averages)",
+   "momentum stronger than 94% of the scan (3-month -34%)",
+   "RSI 41",
+   "short-term: above its 10-hour average and up +2.7% in 2h",
+   "good news: \"Solana\u2019s Tokenized Stock Market Surpasses $600M as Equities Gain Traction as DeFi Collateral\" (surpasses, gain)",
+   "market mood: BTC below its 50-day average",
+   "size 19.32 EUR = 22% of portfolio (confidence x0.64, volatility x0.86)"
+  ],
+  "check": null
+ },
+ {
+  "id": 80,
+  "time": "2026-11-25T17:30:57.854152+00:00",
+  "ticker": "RENDER-USD",
+  "side": "BUY",
+  "price": 1.2656999826431274,
+  "eur": 14.61,
+  "fee": 0.037,
+  "confidence": 0.5982227023245921,
+  "reasons": [
+   "daily scan score 0.39 (charts 0.39)",
+   "downtrend (below its moving averages)",
+   "momentum stronger than 84% of the scan (3-month -35%)",
+   "RSI 36",
+   "short-term: above its 10-hour average and up +3.8% in 2h",
+   "good news: \"WEF mapped out 4 AI-driven futures for jobs by 2030, and only one looks good for humanity\" (good)",
+   "market mood: BTC below its 50-day average",
+   "size 14.61 EUR = 17% of portfolio (confidence x0.60, volatility x1.00)"
+  ],
+  "check": null
  }
 ]
