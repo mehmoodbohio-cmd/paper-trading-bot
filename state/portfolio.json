@@ -49,7 +49,7 @@
    "entry_price": 0.21979999542236328,
    "cost_eur": 19.371448711538577,
    "peak": 0.2290000021457672,
-   "last_price": 0.22579999268054962,
+   "last_price": 0.22439999878406525,
    "opened": "2026-11-25T17:30:57.854152+00:00",
    "reasons": [
     "daily scan score 0.43 (charts 0.43)",
@@ -67,7 +67,7 @@
    "entry_price": 1.2656999826431274,
    "cost_eur": 14.645422109234618,
    "peak": 1.2891000509262085,
-   "last_price": 1.2842999696731567,
+   "last_price": 1.2770999670028687,
    "opened": "2026-11-25T17:30:57.854152+00:00",
    "reasons": [
     "daily scan score 0.39 (charts 0.39)",
@@ -82,8 +82,8 @@
   }
  },
  "started": "2026-11-12T00:54:13.766037+00:00",
- "day": "2026-11-25",
- "day_start_value": 88.41779493246645,
+ "day": "2026-11-26",
+ "day_start_value": 88.21292878252899,
  "last_scan": null,
  "last_summary": "2026-11-25",
  "last_gems": "2026-W48",
@@ -6395,6 +6395,15 @@
     "DAX": 93.76,
     "BTC": 81.21
    }
+  },
+  {
+   "t": "2026-11-25T23:00:31.428812+00:00",
+   "v": 88.21,
+   "b": {
+    "S&P 500": 94.33,
+    "DAX": 94.95,
+    "BTC": 81.05
+   }
   }
  ],
  "fees_paid": 3.899927032352976,
@@ -6403,12 +6412,12 @@
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 5,
+ "trades_today": 0,
  "live_prices": {
   "REGN": 981.8200073242188,
   "ADS.DE": 170.8000030517578,
-  "JUP29210-USD": 0.22579999268054962,
-  "RENDER-USD": 1.2842999696731567
+  "JUP29210-USD": 0.22439999878406525,
+  "RENDER-USD": 1.2770999670028687
  },
  "fx": 1.0978153944015503,
  "mood": {
@@ -6429,8 +6438,9 @@
   "QNT: confidence 49% below 50%",
   "STX: confidence 49% below 50%",
   "PEPE: confidence 49% below 50%",
-  "INJ: confidence 48% below 50%",
-  "ATOM: confidence 35% below 50%",
-  "ICP: negative news (-0.32)"
+  "INJ: confidence 36% below 50%",
+  "ICP: negative news (-0.32)",
+  "XTZ: confidence 47% below 50%",
+  "NEAR: good setup, but no cash left (fully invested)"
  ]
 }

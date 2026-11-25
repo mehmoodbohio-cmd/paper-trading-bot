@@ -1335,7 +1335,12 @@
    "market mood: BTC below its 50-day average",
    "size 12.48 EUR = 14% of portfolio (confidence x0.54, volatility x1.00)"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-25T23:00:31.428812+00:00",
+   "price": 0.21400000154972076,
+   "move": 0.024904207586874838,
+   "right": true
+  }
  },
  {
   "id": 58,
@@ -1434,7 +1439,12 @@
   "reasons": [
    "trend broke: short-term: falling (-0.9% in 2h), below 10-hour average, and below its 20-day average"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-25T23:00:31.428812+00:00",
+   "price": 0.21400000154972076,
+   "move": 0.016627076535194796,
+   "right": false
+  }
  },
  {
   "id": 63,
@@ -1695,7 +1705,12 @@
    "market mood: S&P 500 below its 50-day average",
    "size 29.41 EUR = 33% of portfolio (confidence x0.83, volatility x1.00)"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-25T23:00:31.428812+00:00",
+   "price": 32.33000183105469,
+   "move": -0.012372041293587266,
+   "right": false
+  }
  },
  {
   "id": 75,
