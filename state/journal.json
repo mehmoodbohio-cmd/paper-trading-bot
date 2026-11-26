@@ -1754,7 +1754,12 @@
   "reasons": [
    "trend broke: short-term: falling (-1.6% in 2h), below 10-hour average, and below its 20-day average"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-26T15:00:31.267570+00:00",
+   "price": 32.33000183105469,
+   "move": 0.021162412724943236,
+   "right": false
+  }
  },
  {
   "id": 77,
@@ -1768,7 +1773,12 @@
   "reasons": [
    "market mood risk-off (S&P 500 below 50-day average and down -2.3% today) and position losing"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-26T15:00:31.267570+00:00",
+   "price": 125.62000274658203,
+   "move": 0.03178647019779901,
+   "right": false
+  }
  },
  {
   "id": 78,
@@ -1792,7 +1802,12 @@
    "market mood: DAX below its 50-day average",
    "size 23.23 EUR = 26% of portfolio (confidence x0.66, volatility x1.00)"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-26T15:00:31.267570+00:00",
+   "price": 173.35000610351562,
+   "move": 0.022412285363379247,
+   "right": true
+  }
  },
  {
   "id": 79,
@@ -1868,6 +1883,59 @@
    "news: nothing important (-0.08)",
    "market mood: BTC below its 50-day average",
    "size 14.95 EUR = 17% of portfolio (confidence x0.59, volatility x1.00)"
+  ],
+  "check": null
+ },
+ {
+  "id": 83,
+  "time": "2026-11-26T15:00:31.267570+00:00",
+  "ticker": "JUP29210-USD",
+  "side": "SELL",
+  "price": 0.23270000517368317,
+  "eur": 20.47,
+  "fee": 0.051,
+  "confidence": null,
+  "reasons": [
+   "trend broke: short-term: falling (-0.4% in 2h), below 10-hour average, and below its 20-day average"
+  ],
+  "check": null
+ },
+ {
+  "id": 84,
+  "time": "2026-11-26T15:00:31.267570+00:00",
+  "ticker": "QNT-USD",
+  "side": "SELL",
+  "price": 148.11000061035156,
+  "eur": 14.91,
+  "fee": 0.037,
+  "confidence": null,
+  "reasons": [
+   "trend broke: short-term: falling (-1.8% in 2h), below 10-hour average, and below its 20-day average"
+  ],
+  "check": null
+ },
+ {
+  "id": 85,
+  "time": "2026-11-26T15:00:31.267570+00:00",
+  "ticker": "DIS",
+  "side": "BUY",
+  "price": 125.62000274658203,
+  "eur": 27.77,
+  "fee": 0.069,
+  "confidence": 0.7769835208225286,
+  "reasons": [
+   "daily scan score 0.79 (charts 0.74, company health 0.86)",
+   "uptrend (price above 50-day average, 20-day above 50-day)",
+   "momentum stronger than 97% of the scan (3-month +18%)",
+   "RSI 69",
+   "sales growing +16% a year",
+   "profits growing +107%",
+   "generates cash",
+   "short-term: above its 10-hour average and up +0.8% in 2h",
+   "bad news: \"DIS Stock Breaks Above $125 For First Time Since 2022: Disney Retail Bulls Are Talking About A \u2018Santa Claus Rally\u2019\" (breaks)",
+   "risks: trades above analyst targets (+5%)",
+   "market mood: S&P 500 below its 50-day average",
+   "size 27.77 EUR = 31% of portfolio (confidence x0.78, volatility x1.00)"
   ],
   "check": null
  }
