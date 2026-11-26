@@ -28,7 +28,7 @@
    "entry_price": 169.5500030517578,
    "cost_eur": 23.291794181348948,
    "peak": 173.85000610351562,
-   "last_price": 173.25,
+   "last_price": 173.1999969482422,
    "opened": "2026-11-25T14:30:31.590183+00:00",
    "reasons": [
     "daily scan score 0.75 (charts 0.75, company health 0.75)",
@@ -48,8 +48,8 @@
    "units": 96.60700591982757,
    "entry_price": 0.21979999542236328,
    "cost_eur": 19.371448711538577,
-   "peak": 0.2345999926328659,
-   "last_price": 0.2345999926328659,
+   "peak": 0.23510000109672546,
+   "last_price": 0.23510000109672546,
    "opened": "2026-11-25T17:30:57.854152+00:00",
    "reasons": [
     "daily scan score 0.43 (charts 0.43)",
@@ -67,7 +67,7 @@
    "entry_price": 148.24000549316406,
    "cost_eur": 14.985353825125673,
    "peak": 151.8800048828125,
-   "last_price": 151.8800048828125,
+   "last_price": 150.0399932861328,
    "opened": "2026-11-26T07:00:31.361953+00:00",
    "reasons": [
     "daily scan score 0.45 (charts 0.45)",
@@ -6701,6 +6701,15 @@
     "DAX": 95.68,
     "BTC": 82.21
    }
+  },
+  {
+   "t": "2026-11-26T14:30:30.644273+00:00",
+   "v": 89.78,
+   "b": {
+    "S&P 500": 94.33,
+    "DAX": 95.66,
+    "BTC": 82.09
+   }
   }
  ],
  "fees_paid": 3.9748542697738385,
@@ -6712,11 +6721,11 @@
  "trades_today": 2,
  "live_prices": {
   "REGN": 981.8200073242188,
-  "ADS.DE": 173.25,
-  "JUP29210-USD": 0.2345999926328659,
-  "QNT-USD": 151.8800048828125
+  "ADS.DE": 173.1999969482422,
+  "JUP29210-USD": 0.23510000109672546,
+  "QNT-USD": 150.0399932861328
  },
- "fx": 1.0987803936004639,
+ "fx": 1.0989010334014893,
  "mood": {
   "stocks": [
    "cautious",
@@ -6736,7 +6745,16 @@
   "PEPE: confidence 36% below 50%",
   "INJ: confidence 48% below 50%",
   "ICP: negative news (-0.32)",
-  "NEAR: good setup, but no cash left (fully invested)",
-  "XTZ: good setup, but no cash left (fully invested)"
+  "DIS: good setup, but no cash left (fully invested)",
+  "ZS: good setup, but no cash left (fully invested)",
+  "CARG: good setup, but no cash left (fully invested)",
+  "APP: good setup, but no cash left (fully invested)",
+  "V: good setup, but no cash left (fully invested)",
+  "TDG: good setup, but no cash left (fully invested)",
+  "CVNA: good setup, but no cash left (fully invested)",
+  "U: good setup, but no cash left (fully invested)",
+  "XTZ: good setup, but no cash left (fully invested)",
+  "ABNB: good setup, but no cash left (fully invested)",
+  "MGNI: good setup, but no cash left (fully invested)"
  ]
 }
