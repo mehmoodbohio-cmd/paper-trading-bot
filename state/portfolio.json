@@ -6575,6 +6575,15 @@
     "DAX": 93.76,
     "BTC": 81.76
    }
+  },
+  {
+   "t": "2026-11-26T08:00:31.542734+00:00",
+   "v": 88.91,
+   "b": {
+    "S&P 500": 94.33,
+    "DAX": 93.76,
+    "BTC": 81.82
+   }
   }
  ],
  "fees_paid": 3.9748542697738385,
@@ -6590,7 +6599,7 @@
   "JUP29210-USD": 0.23160000145435333,
   "QNT-USD": 147.02000427246094
  },
- "fx": 1.0974539518356323,
+ "fx": 1.0976948738098145,
  "mood": {
   "stocks": [
    "cautious",
@@ -6606,11 +6615,11 @@
   ]
  },
  "last_skipped": [
-  "STX: confidence 49% below 50%",
   "PEPE: confidence 36% below 50%",
   "INJ: confidence 48% below 50%",
   "ICP: negative news (-0.32)",
-  "XTZ: good setup, but no cash left (fully invested)",
+  "XTZ: confidence 47% below 50%",
+  "STX: good setup, but no cash left (fully invested)",
   "NEAR: good setup, but no cash left (fully invested)"
  ]
 }
