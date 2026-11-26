@@ -49,7 +49,7 @@
    "entry_price": 0.21979999542236328,
    "cost_eur": 19.371448711538577,
    "peak": 0.2337000072002411,
-   "last_price": 0.23250000178813934,
+   "last_price": 0.2329999953508377,
    "opened": "2026-11-25T17:30:57.854152+00:00",
    "reasons": [
     "daily scan score 0.43 (charts 0.43)",
@@ -62,22 +62,22 @@
     "size 19.32 EUR = 22% of portfolio (confidence x0.64, volatility x0.86)"
    ]
   },
-  "RENDER-USD": {
-   "units": 12.683681261520569,
-   "entry_price": 1.2656999826431274,
-   "cost_eur": 14.645422109234618,
-   "peak": 1.325600028038025,
-   "last_price": 1.3073999881744385,
-   "opened": "2026-11-25T17:30:57.854152+00:00",
+  "QNT-USD": {
+   "units": 0.11059043842445061,
+   "entry_price": 148.24000549316406,
+   "cost_eur": 14.985353825125673,
+   "peak": 148.24000549316406,
+   "last_price": 148.24000549316406,
+   "opened": "2026-11-26T07:00:31.361953+00:00",
    "reasons": [
-    "daily scan score 0.39 (charts 0.39)",
+    "daily scan score 0.45 (charts 0.45)",
     "downtrend (below its moving averages)",
-    "momentum stronger than 84% of the scan (3-month -35%)",
-    "RSI 36",
-    "short-term: above its 10-hour average and up +3.8% in 2h",
-    "good news: \"WEF mapped out 4 AI-driven futures for jobs by 2030, and only one looks good for humanity\" (good)",
+    "momentum stronger than 100% of the scan (3-month -6%)",
+    "RSI 38",
+    "short-term: above its 10-hour average and up +1.3% in 2h",
+    "news: nothing important (-0.08)",
     "market mood: BTC below its 50-day average",
-    "size 14.61 EUR = 17% of portfolio (confidence x0.60, volatility x1.00)"
+    "size 14.95 EUR = 17% of portfolio (confidence x0.59, volatility x1.00)"
    ]
   }
  },
@@ -99,7 +99,7 @@
   "NEAR-USD": "2026-11-17T09:30:31.542915+00:00",
   "U": "2026-11-17T16:00:31.733475+00:00",
   "INJ-USD": "2026-11-23T01:30:30.718260+00:00",
-  "RENDER-USD": "2026-11-23T11:00:31.168910+00:00",
+  "RENDER-USD": "2026-11-26T07:00:31.361953+00:00",
   "NDX1.DE": "2026-11-17T16:00:31.733475+00:00",
   "CARG": "2026-11-25T14:30:31.590183+00:00",
   "REGN": "2026-11-19T18:00:31.515025+00:00",
@@ -6557,20 +6557,29 @@
     "DAX": 93.76,
     "BTC": 81.86
    }
+  },
+  {
+   "t": "2026-11-26T07:00:31.361953+00:00",
+   "v": 89.21,
+   "b": {
+    "S&P 500": 94.33,
+    "DAX": 93.76,
+    "BTC": 81.81
+   }
   }
  ],
- "fees_paid": 3.899927032352976,
+ "fees_paid": 3.9748542697738385,
  "benchmarks_start": {
   "SPY": 759.8099975585938,
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 0,
+ "trades_today": 2,
  "live_prices": {
   "REGN": 981.8200073242188,
   "ADS.DE": 170.8000030517578,
-  "JUP29210-USD": 0.23250000178813934,
-  "RENDER-USD": 1.3073999881744385
+  "JUP29210-USD": 0.2329999953508377,
+  "QNT-USD": 148.24000549316406
  },
  "fx": 1.0967316627502441,
  "mood": {
@@ -6588,12 +6597,11 @@
   ]
  },
  "last_skipped": [
-  "STX: confidence 49% below 50%",
-  "PEPE: confidence 49% below 50%",
+  "STX: confidence 37% below 50%",
+  "PEPE: confidence 36% below 50%",
+  "INJ: confidence 48% below 50%",
   "ICP: negative news (-0.32)",
-  "XTZ: confidence 47% below 50%",
-  "NEAR: good setup, but no cash left (fully invested)",
-  "QNT: good setup, but no cash left (fully invested)",
-  "INJ: good setup, but no cash left (fully invested)"
+  "XTZ: confidence 34% below 50%",
+  "NEAR: good setup, but no cash left (fully invested)"
  ]
 }
