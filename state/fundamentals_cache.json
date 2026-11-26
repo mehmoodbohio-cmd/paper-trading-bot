@@ -18,7 +18,7 @@
   "totalDebt": 301193984,
   "debtToEquity": 30.8,
   "returnOnEquity": -0.0208,
-  "recommendationMean": 2.38462,
+  "recommendationMean": null,
   "numberOfAnalystOpinions": 11,
   "targetMeanPrice": 12.68182,
   "currentPrice": 10.79,
@@ -35,7 +35,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "ELF": {
   "shortName": "e.l.f. Beauty, Inc.",
@@ -44,7 +44,7 @@
   "marketCap": 6442952192,
   "trailingPE": 76.71127,
   "forwardPE": 25.976164,
-  "pegRatio": 2.2,
+  "pegRatio": 2.29,
   "priceToSalesTrailing12Months": 3.3228462,
   "revenueGrowth": 0.514,
   "earningsGrowth": 9.0,
@@ -70,10 +70,10 @@
    479373000.0,
    520816000.0
   ],
-  "insider_net_shares": 233120.0,
+  "insider_net_shares": 232069.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "NXPI": {
   "shortName": "NXP Semiconductors N.V.",
@@ -117,11 +117,11 @@
   "shortName": "HANNOVER RUECK SE NA O.N.",
   "sector": "Financial Services",
   "industry": "Insurance - Reinsurance",
-  "marketCap": 35600277504,
-  "trailingPE": 12.818064,
-  "forwardPE": 12.281333,
-  "pegRatio": 0.6,
-  "priceToSalesTrailing12Months": 1.56195,
+  "marketCap": 35889709056,
+  "trailingPE": 12.922276,
+  "forwardPE": 12.037243,
+  "pegRatio": 0.61,
+  "priceToSalesTrailing12Months": 1.5746487,
   "revenueGrowth": 0.022,
   "earningsGrowth": 0.067,
   "profitMargins": 0.12185001,
@@ -132,10 +132,10 @@
   "totalDebt": 4145999872,
   "debtToEquity": 28.146,
   "returnOnEquity": 0.21363,
-  "recommendationMean": 2.53333,
+  "recommendationMean": 2.64286,
   "numberOfAnalystOpinions": 15,
   "targetMeanPrice": 286.8,
-  "currentPrice": 295.2,
+  "currentPrice": 297.6,
   "heldPercentInsiders": 0.50200003,
   "shortPercentOfFloat": null,
   "longBusinessSummary": "Hannover R\u00fcck SE, together with its subsidiaries, provides reinsurance products and services in Germany, the United Kingdom, France, Europe, the United States, Asia, Australia, Africa, and internationally. It operates through Property & Casualty Reinsurance; and Life & Health Reinsurance segments. The company provides property and casualty reinsurance solutions for agricultural, livestock, and bloodstock; aviation and space; natural catastrophe; credit, surety, and political risks; cyber; digital; marine and upstream energy; natural catastrophes; advanced and facultative business, insurance-linked securities and structured reinsurance; and parametric solutions. It also offers risk solutions in the areas of critical illness, disability, health, longevity, long term care, and mortality. In addition, the company offers group life, retirement, lifestyle, credit life, and Takaful reinsurance products. Further, the company provides various financial solutions, including new-business financing; monetization of embedded value; reserve and solvency relief; and reinsurance and solvency II businesses. The company was formerly known as Hannover R\u00fcckversicherung AG and changed its name to Hannover R\u00fcck SE in March 2013. Hannover R\u00fcck SE was founded in 1966 and is based in Hanover, Germany. Hannover R\u00fcck SE operates as a subsidiary of Talanx AG.",
@@ -147,17 +147,17 @@
    6409900000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "MUV2.DE": {
   "shortName": "MUENCHENER RUECKVERS.-GES. AG N",
   "sector": "Financial Services",
   "industry": "Insurance - Reinsurance",
-  "marketCap": 73601458176,
-  "trailingPE": 10.879673,
-  "forwardPE": 11.339552,
-  "pegRatio": 0.37,
-  "priceToSalesTrailing12Months": 1.1620977,
+  "marketCap": 74129883136,
+  "trailingPE": 10.957784,
+  "forwardPE": 11.420964,
+  "pegRatio": 0.38,
+  "priceToSalesTrailing12Months": 1.170441,
   "revenueGrowth": 0.117,
   "earningsGrowth": -0.099,
   "profitMargins": 0.10441,
@@ -171,7 +171,7 @@
   "recommendationMean": 3.0625,
   "numberOfAnalystOpinions": 16,
   "targetMeanPrice": 559.125,
-  "currentPrice": 585.0,
+  "currentPrice": 589.2,
   "heldPercentInsiders": 0.0,
   "shortPercentOfFloat": null,
   "longBusinessSummary": "M\u00fcnchener R\u00fcckversicherungs-Gesellschaft Aktiengesellschaft in M\u00fcnchen engages in the insurance and reinsurance businesses worldwide. The company operates through six segments: Life and Health Reinsurance, Property-Casualty Reinsurance, Global Specialty Insurance, ERGO Life and Health Germany, ERGO Property-Casualty Germany, and ERGO International. The company offers life and health reinsurance solutions, such as digital underwriting and advanced analytics solutions, health insurance management system, financial market risks, financing, portfolio risk management, digitalized investment-linked solution, data analytics, underwriting and claims, medical research, capital management, and health market, as well as MIRA digital suite that includes MIRA PoS, MIRApply insured and physician, claims risk assessment, and CLARA plus. It also provides property and casualty reinsurance solutions, including agricultural reinsurance; business advisory, personal lines, portfolio management, insurance consulting, commercial motor consulting; infrastructure risk; property insurance, location risk, insurance linked securities, and NatCatSERVICE for natural catastrophe loss database; prospective structured and retroactive reinsurance; risk transfer; cyber; and data analytics, REALYTIX ZERO, and cert2go. In addition, the company offers solutions for industry clients, such as corporate risk, new tech, green tech, parametric, and aviation and space solutions, as well as risk services. Further, it provides specialty property casualty insurance, such as professional liability, marine, cyber, aviation, and space for commercial and private customers. Additionally, the company offers life, property-casualty, health, legal protection, and travel insurance products under the ERGO brand; and insurance solutions for agriculture, captive, epidemic, cyber, and renewable energy sectors. The company was founded in 1880 and is based in Munich, Germany.",
@@ -183,7 +183,7 @@
    17865000000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "ABNB": {
   "shortName": "Airbnb, Inc.",
@@ -221,7 +221,7 @@
   "insider_net_shares": 9668209.0,
   "upgrades_90d": 3,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "DV": {
   "shortName": "DoubleVerify Holdings, Inc.",
@@ -259,7 +259,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "PAYO": {
   "shortName": "Payoneer Global Inc.",
@@ -297,7 +297,7 @@
   "insider_net_shares": 788086.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "MRNA": {
   "shortName": "Moderna, Inc.",
@@ -333,19 +333,19 @@
    1312000000.0
   ],
   "insider_net_shares": 870774.0,
-  "upgrades_90d": 1,
+  "upgrades_90d": 0,
   "downgrades_90d": 3,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "ZAL.DE": {
   "shortName": "Zalando SE                    I",
   "sector": "Consumer Cyclical",
   "industry": "Internet Retail",
-  "marketCap": 6955474432,
-  "trailingPE": 123.82608,
-  "forwardPE": 14.660914,
+  "marketCap": 7163064320,
+  "trailingPE": 127.521736,
+  "forwardPE": 15.098477,
   "pegRatio": 21.16,
-  "priceToSalesTrailing12Months": 0.5089545,
+  "priceToSalesTrailing12Months": 0.5241446,
   "revenueGrowth": 0.051,
   "earningsGrowth": null,
   "profitMargins": 0.00453,
@@ -359,7 +359,7 @@
   "recommendationMean": 1.70833,
   "numberOfAnalystOpinions": 23,
   "targetMeanPrice": 35.47826,
-  "currentPrice": 28.48,
+  "currentPrice": 29.33,
   "heldPercentInsiders": 0.114700004,
   "shortPercentOfFloat": null,
   "longBusinessSummary": "Zalando SE operates an online platform for fashion and lifestyle products in Germany and internationally. The company operates through Business-to-Business and Business-to-Consumer segments. It engages in the development, sourcing, marketing, retail, and commission sale of various type of goods, including shoes, apparel, accessories, and beauty products with free delivery and returns, as well as various payment options. The company sells its products through Lounge by Zalando and its outlets. Zalando SE was founded in 2008 and is headquartered in Berlin, Germany.",
@@ -371,7 +371,7 @@
    3174700000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "ADI": {
   "shortName": "Analog Devices, Inc.",
@@ -415,11 +415,11 @@
   "shortName": "Allianz SE                    v",
   "sector": "Financial Services",
   "industry": "Insurance - Diversified",
-  "marketCap": 169606381568,
-  "trailingPE": 14.859109,
-  "forwardPE": 13.48011,
-  "pegRatio": 1.92,
-  "priceToSalesTrailing12Months": 1.418327,
+  "marketCap": 171812945920,
+  "trailingPE": 15.052424,
+  "forwardPE": 13.655485,
+  "pegRatio": 1.91,
+  "priceToSalesTrailing12Months": 1.4367794,
   "revenueGrowth": 0.082,
   "earningsGrowth": 0.002,
   "profitMargins": 0.098120004,
@@ -433,7 +433,7 @@
   "recommendationMean": 2.88235,
   "numberOfAnalystOpinions": 17,
   "targetMeanPrice": 455.48486,
-  "currentPrice": 453.5,
+  "currentPrice": 459.4,
   "heldPercentInsiders": 6.0000002e-05,
   "shortPercentOfFloat": null,
   "longBusinessSummary": "Allianz SE, together with its subsidiaries, provides property-casualty insurance, life/health insurance, and asset management products and services worldwide. The company's Property-Casualty segment offers various insurance products, including motor liability, accident, fire and property, general liability, credit, and travel, and assistance services to private and corporate customers. Its Life/Health segment provides a range of life and health insurance products on an individual and a group basis, such as annuities, endowment and term insurance, and unit-linked and investment-oriented products, as well as private and supplemental health, and long-term care insurance products. The company's Asset Management segment offers institutional and retail asset management products and services to third-party investors comprising equity and fixed income funds, cash, and multi-assets; and alternative investment products that include real estate, infrastructure debt/equity, real assets, liquid alternatives, and solutions business. In addition, it provides banking services for retail clients; and digital investment services. Allianz SE was founded in 1890 and is headquartered in Munich, Germany.",
@@ -445,17 +445,17 @@
    34966000000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "SRT3.DE": {
   "shortName": "SARTORIUS AG                  V",
   "sector": "Healthcare",
   "industry": "Medical Instruments & Supplies",
-  "marketCap": 19617755136,
-  "trailingPE": 91.0577,
-  "forwardPE": 43.86446,
-  "pegRatio": 1.48,
-  "priceToSalesTrailing12Months": 5.353022,
+  "marketCap": 19804194816,
+  "trailingPE": 91.92307,
+  "forwardPE": 44.28133,
+  "pegRatio": 1.46,
+  "priceToSalesTrailing12Months": 5.403895,
   "revenueGrowth": 0.099,
   "earningsGrowth": null,
   "profitMargins": 0.05962,
@@ -468,8 +468,8 @@
   "returnOnEquity": 0.07861,
   "recommendationMean": 1.66667,
   "numberOfAnalystOpinions": 21,
-  "targetMeanPrice": 305.90475,
-  "currentPrice": 284.1,
+  "targetMeanPrice": 307.1905,
+  "currentPrice": 286.8,
   "heldPercentInsiders": 0.25611,
   "shortPercentOfFloat": null,
   "longBusinessSummary": "Sartorius Aktiengesellschaft provides bioprocess solutions, and lab products and services worldwide. The company offers analytical solutions, such as biolayer interferometry systems, high-throughput screening by cytometry systems, process analytical technology and data analytics, cell selection and retrieval, live-cell imaging and analysis systems, and surface plasmon resonance systems; cell culture solutions, including bioreactors and fermenters, cell culture reagents, supplements and matrices, nucleic acid and delivery solutions, cell culture media, and cell lines and buffers; and fluid management products. It also provides lab filtration and purification solutions, lab water purification systems, microtissue technologies, lab weighing, pipettes, tips and dispensers, microbiological testing solutions, lab data and fleet management software, and OEM solutions; and Process chromatography and filtration solutions. The company serves the life science research, biopharmaceutical manufacturing, cell and gene therapy, and applied industries. The company was founded in 1870 and is headquartered in G\u00f6ttingen, Germany.",
@@ -481,7 +481,7 @@
    926300000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "DOCS": {
   "shortName": "Doximity, Inc.",
@@ -592,10 +592,10 @@
    11633000000.0,
    12139000000.0
   ],
-  "insider_net_shares": 29572.0,
+  "insider_net_shares": 27008.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "SAP.DE": {
   "shortName": "SAP SE                        I",
@@ -640,7 +640,7 @@
   "marketCap": 574950080512,
   "trailingPE": 34.53532,
   "forwardPE": 28.494944,
-  "pegRatio": 1.76,
+  "pegRatio": 1.78,
   "priceToSalesTrailing12Months": 15.844083,
   "revenueGrowth": 0.14,
   "earningsGrowth": 0.217,
@@ -652,7 +652,7 @@
   "totalDebt": 23938000896,
   "debtToEquity": 355.163,
   "returnOnEquity": 2.31366,
-  "recommendationMean": 1.4878,
+  "recommendationMean": 1.47619,
   "numberOfAnalystOpinions": 39,
   "targetMeanPrice": 722.72845,
   "currentPrice": 659.97,
@@ -669,7 +669,7 @@
   "insider_net_shares": -23925.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "TEM": {
   "shortName": "Tempus AI, Inc.",
@@ -749,11 +749,11 @@
   "shortName": "Siemens Healthineers AG       N",
   "sector": "Healthcare",
   "industry": "Medical Devices",
-  "marketCap": 48024825856,
-  "trailingPE": 22.233162,
-  "forwardPE": 16.308706,
+  "marketCap": 48718729216,
+  "trailingPE": 22.554403,
+  "forwardPE": 16.544348,
   "pegRatio": 4.79,
-  "priceToSalesTrailing12Months": 2.0323668,
+  "priceToSalesTrailing12Months": 2.061732,
   "revenueGrowth": 0.073,
   "earningsGrowth": -0.008,
   "profitMargins": 0.09369001,
@@ -767,7 +767,7 @@
   "recommendationMean": 2.05,
   "numberOfAnalystOpinions": 20,
   "targetMeanPrice": 46.87,
-  "currentPrice": 42.91,
+  "currentPrice": 43.53,
   "heldPercentInsiders": 0.6702,
   "shortPercentOfFloat": null,
   "longBusinessSummary": "Siemens Healthineers AG, through its subsidiaries, develops, manufactures, and sells a range of diagnostic and therapeutic products and services to healthcare providers in Germany, the United States, rest of Europe, CIS, Africa, the Middle East, the Americas, the Asia Pacific, Japan, and China. It operates in four segments: Imaging, Diagnostics, Varian, and Advanced Therapies. The Imaging segment offers magnetic resonance imaging, computed tomography, X-ray, molecular imaging, and ultrasound systems; and software solutions to support the reading and structured reporting of diagnostic images from different modalities. Its Diagnostics segment provides in-vitro diagnostic products and services to healthcare providers in the fields of general and specialty laboratory, and point-of-care diagnostics; and workflow solutions for laboratories and informatics products. The Varian segment offers microwave, cryoablation, and embolization technologies, as well as clinical professional services for cancer care that support oncology departments in hospitals and clinics; and customized support for cancer care operations. Its Advanced Therapies segment provides products that are designed to support image-guided minimally invasive clinical procedures in various areas, such as cardiology, neurology, and oncology; angiography systems and mobile C-arms; and AI-powered clinical applications. It also offers essential technical customer service, such as maintenance and repair; spare parts; medical equipment performance management; training; clinical education and e-learning; planning and design; financing; asset management; and managed departmental services for laboratories and healthcare facilities, as well as healthcare consulting, products, and services. It has strategic partnership with IFS and Novo. The company was founded in 1896 and is headquartered in Forchheim, Germany. Siemens Healthineers AG is a subsidiary of Siemens Aktiengesellschaft.",
@@ -781,7 +781,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "U": {
   "shortName": "Unity Software Inc.",
@@ -819,7 +819,7 @@
   "insider_net_shares": -368920.0,
   "upgrades_90d": 1,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "AAPL": {
   "shortName": "Apple Inc.",
@@ -854,20 +854,20 @@
    109417000000.0,
    114477000000.0
   ],
-  "insider_net_shares": 456822.0,
+  "insider_net_shares": 454424.0,
   "upgrades_90d": 1,
   "downgrades_90d": 1,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "BEI.DE": {
   "shortName": "BEIERSDORF AG                 I",
   "sector": "Consumer Defensive",
   "industry": "Household & Personal Products",
-  "marketCap": 17982267392,
-  "trailingPE": 19.176743,
-  "forwardPE": 20.674128,
+  "marketCap": 18217785344,
+  "trailingPE": 19.427906,
+  "forwardPE": 20.98784,
   "pegRatio": 2.35,
-  "priceToSalesTrailing12Months": 1.8700361,
+  "priceToSalesTrailing12Months": 1.8945284,
   "revenueGrowth": -0.045,
   "earningsGrowth": 0.019,
   "profitMargins": 0.097550005,
@@ -881,14 +881,14 @@
   "recommendationMean": 2.95238,
   "numberOfAnalystOpinions": 21,
   "targetMeanPrice": 81.95238,
-  "currentPrice": 82.46,
+  "currentPrice": 83.54,
   "heldPercentInsiders": 0.54198,
   "shortPercentOfFloat": null,
   "longBusinessSummary": "Beiersdorf Aktiengesellschaft, together with its subsidiaries, manufactures and distributes consumer goods in Europe, the United States, Africa, Asia, and Australia. The company operates through two segments: Consumer Business and Tesa Business. The Consumer Business Segment offers skin and body care products. The Tesa Business segment provides adhesive tapes and self-adhesive solutions for industries, craft businesses, and consumers. This segment also offers its system solutions to the automotive, consumer electronics, printing and packaging, and electrical systems sectors. It operates an online store. The company offers its products under the NIVEA, Eucerin, Hansaplast, La Prairie, Chantecaille, Coppertone, Labello / NIVEA Lip / Liposan, ATRIX, 8x4, HIDROFUGAL, tesa, SKIN STORIES, GAMMON, Aquaphor, Elastoplast, and CURITAS brand names, as well as regionally focused brands. Beiersdorf Aktiengesellschaft was founded in 1882 and is headquartered in Hamburg, Germany. Beiersdorf Aktiengesellschaft is a subsidiary of maxingvest ag. Beiersdorf Aktiengesellschaft operates as a subsidiary of Maxingvest GmbH & Co. KGaA.",
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "SG": {
   "shortName": "Sweetgreen, Inc.",
@@ -926,7 +926,7 @@
   "insider_net_shares": 103609.0,
   "upgrades_90d": 2,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "AI": {
   "shortName": "C3.ai, Inc.",
@@ -1002,7 +1002,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "AIR.DE": {
   "shortName": "Airbus SE                     A",
@@ -1097,7 +1097,7 @@
   "returnOnEquity": 0.35811,
   "recommendationMean": 1.70732,
   "numberOfAnalystOpinions": 38,
-  "targetMeanPrice": 636.9304,
+  "targetMeanPrice": 636.58093,
   "currentPrice": 616.46,
   "heldPercentInsiders": 0.23461,
   "shortPercentOfFloat": 0.0209,
@@ -1112,7 +1112,7 @@
   "insider_net_shares": 16976.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "VRTX": {
   "shortName": "Vertex Pharmaceuticals Incorpor",
@@ -1121,7 +1121,7 @@
   "marketCap": 143025668096,
   "trailingPE": 36.30116,
   "forwardPE": 28.323315,
-  "pegRatio": 2.5,
+  "pegRatio": 2.61,
   "priceToSalesTrailing12Months": 11.043089,
   "revenueGrowth": 0.118,
   "earningsGrowth": -0.39,
@@ -1150,7 +1150,7 @@
   "insider_net_shares": -5538.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "WMT": {
   "shortName": "Walmart Inc.",
@@ -1159,7 +1159,7 @@
   "marketCap": 1049988956160,
   "trailingPE": 47.804348,
   "forwardPE": 40.86981,
-  "pegRatio": 2.18,
+  "pegRatio": 2.21,
   "priceToSalesTrailing12Months": 1.4090426,
   "revenueGrowth": 0.052,
   "earningsGrowth": -0.195,
@@ -1173,7 +1173,7 @@
   "returnOnEquity": 0.20552999,
   "recommendationMean": 1.54545,
   "numberOfAnalystOpinions": 41,
-  "targetMeanPrice": 136.14635,
+  "targetMeanPrice": 136.80489,
   "currentPrice": 131.94,
   "heldPercentInsiders": 0.44269,
   "shortPercentOfFloat": 0.0189,
@@ -1185,10 +1185,10 @@
    177751000000.0,
    187937000000.0
   ],
-  "insider_net_shares": -9076424.0,
+  "insider_net_shares": -6960278.0,
   "upgrades_90d": 1,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "TDG": {
   "shortName": "Transdigm Group Incorporated",
@@ -1197,7 +1197,7 @@
   "marketCap": 62818160640,
   "trailingPE": 32.405804,
   "forwardPE": 20.53275,
-  "pegRatio": 1.14,
+  "pegRatio": 1.15,
   "priceToSalesTrailing12Months": 5.95038,
   "revenueGrowth": 0.226,
   "earningsGrowth": 0.336,
@@ -1226,7 +1226,7 @@
   "insider_net_shares": 426.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "PYPL": {
   "shortName": "PayPal Holdings, Inc.",
@@ -1264,7 +1264,7 @@
   "insider_net_shares": 99160.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "RBLX": {
   "shortName": "Roblox Corporation",
@@ -1299,10 +1299,10 @@
    1469000000.0,
    1572000000.0
   ],
-  "insider_net_shares": -168362.0,
+  "insider_net_shares": -173126.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "TLN": {
   "shortName": "Talen Energy Corporation",
@@ -1340,7 +1340,7 @@
   "insider_net_shares": 867046.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "LNG": {
   "shortName": "Cheniere Energy, Inc.",
@@ -1378,7 +1378,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "TOST": {
   "shortName": "Toast, Inc.",
@@ -1399,7 +1399,7 @@
   "totalDebt": 0,
   "debtToEquity": null,
   "returnOnEquity": 0.25575,
-  "recommendationMean": 1.84848,
+  "recommendationMean": 1.90909,
   "numberOfAnalystOpinions": 29,
   "targetMeanPrice": 38.86207,
   "currentPrice": 33.71,
@@ -1416,7 +1416,7 @@
   "insider_net_shares": -237717.0,
   "upgrades_90d": 0,
   "downgrades_90d": 2,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "HD": {
   "shortName": "Home Depot, Inc. (The)",
@@ -1451,10 +1451,10 @@
    47861000000.0,
    43398000000.0
   ],
-  "insider_net_shares": 1438.0,
+  "insider_net_shares": -1660.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "BOSS.DE": {
   "shortName": "HUGO BOSS AG                  N",
@@ -1602,7 +1602,7 @@
   "insider_net_shares": -257529.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "ISRG": {
   "shortName": "Intuitive Surgical, Inc.",
@@ -1623,7 +1623,7 @@
   "totalDebt": 0,
   "debtToEquity": null,
   "returnOnEquity": 0.17932,
-  "recommendationMean": 1.73529,
+  "recommendationMean": 1.71429,
   "numberOfAnalystOpinions": 31,
   "targetMeanPrice": 487.71805,
   "currentPrice": 427.18,
@@ -1640,7 +1640,7 @@
   "insider_net_shares": -35590.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "URI": {
   "shortName": "United Rentals, Inc.",
@@ -1713,10 +1713,10 @@
    189948000.0,
    203005000.0
   ],
-  "insider_net_shares": 109424.0,
+  "insider_net_shares": 103580.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "TXN": {
   "shortName": "Texas Instruments Incorporated",
@@ -1830,7 +1830,7 @@
   "insider_net_shares": -7719.0,
   "upgrades_90d": 2,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "SHAK": {
   "shortName": "Shake Shack, Inc.",
@@ -1868,7 +1868,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "G1A.DE": {
   "shortName": "GEA Group AG                  I",
@@ -1946,11 +1946,11 @@
   "shortName": "Symrise AG                    I",
   "sector": "Basic Materials",
   "industry": "Specialty Chemicals",
-  "marketCap": 13284528128,
-  "trailingPE": 54.711864,
-  "forwardPE": 21.762579,
-  "pegRatio": 5.75,
-  "priceToSalesTrailing12Months": 2.7029219,
+  "marketCap": 13331169280,
+  "trailingPE": 54.903957,
+  "forwardPE": 21.838987,
+  "pegRatio": 5.72,
+  "priceToSalesTrailing12Months": 2.7124116,
   "revenueGrowth": -0.006,
   "earningsGrowth": -0.004,
   "profitMargins": 0.05007,
@@ -1964,12 +1964,12 @@
   "recommendationMean": 2.0,
   "numberOfAnalystOpinions": 15,
   "targetMeanPrice": 104.83333,
-  "currentPrice": 96.84,
+  "currentPrice": 97.18,
   "heldPercentInsiders": 0.05205,
   "shortPercentOfFloat": null,
   "longBusinessSummary": "Symrise AG operates as a supplier of fragrances, flavorings, cosmetic base materials and active ingredients, and functional ingredients and solutions in Europe, Africa, the Middle East, North America, the Asia Pacific, and Latin America. It operates in two segments, Taste, Nutrition & Health; and Scent & Care. The Taste, Nutrition & Health segment provides functional ingredients and product solutions used in the production of food and beverages; savory flavors; sweets, chocolate, chewing gum, baked goods, cereals, ice cream, milk, yogurt and milk alternatives; natural and sustainable ingredients for food and beverage manufacturers, baby food, and dietary supplements; product solutions and services for pet food manufacturers; sustainable ingredients and services for fish feed manufacturers to develop solutions for fish and shrimp farms; and probiotics for food supplements and functional foods. The Scent & Care segment develops, produces, and sells fragrance ingredients and compositions, aroma molecules, cosmetic ingredients, and mint flavors, as well as specific application processes for such substances. This segment's products are used by manufacturers of perfumes, personal care and cosmetic products, cleaning products, detergents, air fresheners, and oral care products. The company was founded in 1874 and is headquartered in Holzminden, Germany.",
   "insider_net_shares": 0.0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "TSLA": {
   "shortName": "Tesla, Inc.",
@@ -1984,8 +1984,8 @@
   "earningsGrowth": -0.436,
   "profitMargins": 0.031070001,
   "grossMargins": 0.19285999,
-  "operatingMargins": 0.03026,
-  "freeCashflow": 4967249920,
+  "operatingMargins": 0.03403,
+  "freeCashflow": 5210999808,
   "totalCash": 45447000064,
   "totalDebt": 16444999680,
   "debtToEquity": 18.295,
@@ -2007,7 +2007,7 @@
   "insider_net_shares": 303966646.0,
   "upgrades_90d": 3,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "CARG": {
   "shortName": "CarGurus, Inc.",
@@ -2016,14 +2016,14 @@
   "marketCap": 2890172416,
   "trailingPE": 16.004951,
   "forwardPE": 10.635428,
-  "pegRatio": 0.87,
+  "pegRatio": 0.88,
   "priceToSalesTrailing12Months": 2.907659,
   "revenueGrowth": 0.115,
   "earningsGrowth": 0.318,
   "profitMargins": 0.18511999,
   "grossMargins": 0.92143,
   "operatingMargins": 0.26185,
-  "freeCashflow": 260034368,
+  "freeCashflow": 262853376,
   "totalCash": 164910000,
   "totalDebt": 182264992,
   "debtToEquity": 60.107,
@@ -2045,7 +2045,7 @@
   "insider_net_shares": 583528.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "S": {
   "shortName": "SentinelOne, Inc.",
@@ -2156,10 +2156,10 @@
    4290700000.0,
    5115800000.0
   ],
-  "insider_net_shares": 32282.0,
+  "insider_net_shares": 52677.0,
   "upgrades_90d": 2,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "LYFT": {
   "shortName": "Lyft, Inc.",
@@ -2197,7 +2197,7 @@
   "insider_net_shares": 422892.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "AMD": {
   "shortName": "Advanced Micro Devices, Inc.",
@@ -2273,7 +2273,7 @@
   "insider_net_shares": -1796.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "INTU": {
   "shortName": "Intuit Inc.",
@@ -2387,17 +2387,17 @@
   "insider_net_shares": 62466.0,
   "upgrades_90d": 1,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "ADS.DE": {
   "shortName": "adidas AG                     N",
   "sector": "Consumer Cyclical",
   "industry": "Footwear & Accessories",
-  "marketCap": 28816766976,
-  "trailingPE": 18.38727,
-  "forwardPE": 14.535454,
-  "pegRatio": 4.49,
-  "priceToSalesTrailing12Months": 1.0807774,
+  "marketCap": 29374674944,
+  "trailingPE": 18.743258,
+  "forwardPE": 14.816869,
+  "pegRatio": 4.39,
+  "priceToSalesTrailing12Months": 1.1017017,
   "revenueGrowth": 0.094,
   "earningsGrowth": 0.581,
   "profitMargins": 0.06091,
@@ -2411,7 +2411,7 @@
   "recommendationMean": 1.84375,
   "numberOfAnalystOpinions": 30,
   "targetMeanPrice": 199.66667,
-  "currentPrice": 170.45,
+  "currentPrice": 173.75,
   "heldPercentInsiders": 0.0685,
   "shortPercentOfFloat": null,
   "longBusinessSummary": "adidas AG, together with its subsidiaries, designs, develops, produces, and markets a range of athletic and sports lifestyle products in Europe, Greater China, Japan, South Korea, Latin America, North America, and internationally. The company offers footwear and apparel, as well as accessories and gear, including bags, balls, sunglasses, and fitness equipment under the adidas brand; golf footwear and apparel under the adidas Golf brand; and outdoor footwear under the Five Ten brand. It sells its products through its own retail stores, mono-branded franchise stores, shop-in-shops, joint ventures with retail partners, and co-branded stores, as well as through its wholesale and e-commerce platforms. The company was formerly known as adidas-Salomon AG and changed its name to adidas AG in June 2006. adidas AG was founded in 1920 and is headquartered in Herzogenaurach, Germany.",
@@ -2423,7 +2423,7 @@
    7252000000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "CPNG": {
   "shortName": "Coupang, Inc.",
@@ -2461,7 +2461,7 @@
   "insider_net_shares": -89671.0,
   "upgrades_90d": 1,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "SHLS": {
   "shortName": "Shoals Technologies Group, Inc.",
@@ -2544,7 +2544,7 @@
   "marketCap": 214528524288,
   "trailingPE": 22.309057,
   "forwardPE": 14.652031,
-  "pegRatio": 0.55,
+  "pegRatio": 0.56,
   "priceToSalesTrailing12Months": 2.0961514,
   "revenueGrowth": 0.155,
   "earningsGrowth": 1.073,
@@ -2573,7 +2573,7 @@
   "insider_net_shares": 30653.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "BILL": {
   "shortName": "BILL Holdings, Inc.",
@@ -2611,7 +2611,7 @@
   "insider_net_shares": -86223.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "AR": {
   "shortName": "Antero Resources Corporation",
@@ -2649,7 +2649,7 @@
   "insider_net_shares": -10110.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "CELH": {
   "shortName": "Celsius Holdings, Inc.",
@@ -2712,7 +2712,7 @@
   "numberOfAnalystOpinions": 23,
   "targetMeanPrice": 174.56522,
   "currentPrice": 142.68,
-  "heldPercentInsiders": 0.00331,
+  "heldPercentInsiders": 0.00333,
   "shortPercentOfFloat": 0.1087,
   "longBusinessSummary": "Insulet Corporation develops, manufactures, and sells insulin delivery systems for people with insulin-dependent diabetes in the United States and internationally. The company offers Omnipod platform products comprising Omnipod 5 automated insulin delivery system, which includes a proprietary AID algorithm embedded in the pod that integrates with a third-party continuous glucose monitor to obtain glucose values through wireless Bluetooth communication; Omnipod DASH insulin management system that features a Bluetooth enabled pod that is controlled by a smartphone-like personal diabetes manager with a color touch screen user interface; and the Omnipod Insulin Management System. It also provides pods for Amgen for use in the Neulasta Onpro kit, which is a delivery system to help reduce the risk of infection after intense chemotherapy. The company sells its products to end-users through the pharmacy channel; and independent distributors. Insulet Corporation was incorporated in 2000 and is headquartered in Acton, Massachusetts.",
   "quarterly_revenue": [
@@ -2722,10 +2722,10 @@
    801700000.0,
    842000000.0
   ],
-  "insider_net_shares": 7472.0,
+  "insider_net_shares": 8386.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "WING": {
   "shortName": "Wingstop Inc.",
@@ -2733,15 +2733,15 @@
   "industry": "Restaurants",
   "marketCap": 4026047232,
   "trailingPE": 34.852463,
-  "forwardPE": 29.609558,
+  "forwardPE": 29.697954,
   "pegRatio": 0.99,
   "priceToSalesTrailing12Months": 5.514272,
   "revenueGrowth": 0.053,
   "earningsGrowth": 0.049,
   "profitMargins": 0.1603,
   "grossMargins": 0.49375,
-  "operatingMargins": 0.28017,
-  "freeCashflow": 90058128,
+  "operatingMargins": 0.28355,
+  "freeCashflow": 91600000,
   "totalCash": 104787000,
   "totalDebt": 1275670016,
   "debtToEquity": null,
@@ -2760,10 +2760,10 @@
    185564000.0,
    185131000.0
   ],
-  "insider_net_shares": 18275.0,
+  "insider_net_shares": 17870.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "GD": {
   "shortName": "General Dynamics Corporation",
@@ -2801,7 +2801,7 @@
   "insider_net_shares": 181715.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "DE": {
   "shortName": "Deere & Company",
@@ -2883,11 +2883,11 @@
   "shortName": "LEG Immobilien SE             N",
   "sector": "Real Estate",
   "industry": "Real Estate Services",
-  "marketCap": 3980750848,
-  "trailingPE": 5.873016,
-  "forwardPE": 8.672969,
+  "marketCap": 4134447616,
+  "trailingPE": 6.0997734,
+  "forwardPE": 8.946686,
   "pegRatio": 0.01,
-  "priceToSalesTrailing12Months": 2.6911511,
+  "priceToSalesTrailing12Months": 2.7950566,
   "revenueGrowth": 0.006,
   "earningsGrowth": -0.843,
   "profitMargins": 0.47979,
@@ -2901,7 +2901,7 @@
   "recommendationMean": 2.23077,
   "numberOfAnalystOpinions": 13,
   "targetMeanPrice": 62.07692,
-  "currentPrice": 51.8,
+  "currentPrice": 53.8,
   "heldPercentInsiders": 0.20036,
   "shortPercentOfFloat": null,
   "longBusinessSummary": "LEG Immobilien SE, together with its subsidiaries, operates as an integrated property company in Germany. It engages in the performance of services and management of equity investments; property management and location development; performance of services for third parties and housing industry services; and generation of electricity and heat. The company also provides information technology (IT) services for third parties and management services for third-party properties. Additionally, it offers residential and commercial units, as well as garages and parking spaces. LEG Immobilien SE was founded in 1970 and is headquartered in D\u00fcsseldorf, Germany.",
@@ -2913,7 +2913,7 @@
    345900000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "MPWR": {
   "shortName": "Monolithic Power Systems, Inc.",
@@ -2989,7 +2989,7 @@
   "insider_net_shares": 38639.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "TTD": {
   "shortName": "The Trade Desk, Inc.",
@@ -3027,7 +3027,7 @@
   "insider_net_shares": 2062850.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "TDOC": {
   "shortName": "Teladoc Health, Inc.",
@@ -3065,17 +3065,17 @@
   "insider_net_shares": 111974.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "LOW": {
   "shortName": "Lowe's Companies, Inc.",
   "sector": "Consumer Cyclical",
   "industry": "Home Improvement Retail",
-  "marketCap": 132212375552,
+  "marketCap": 132210941952,
   "trailingPE": 19.769295,
   "forwardPE": 18.506796,
   "pegRatio": 29.99,
-  "priceToSalesTrailing12Months": 1.4312571,
+  "priceToSalesTrailing12Months": 1.4312416,
   "revenueGrowth": 0.093,
   "earningsGrowth": 0.034,
   "profitMargins": 0.072519995,
@@ -3103,7 +3103,7 @@
   "insider_net_shares": -1721.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "CVX": {
   "shortName": "Chevron Corporation",
@@ -3185,11 +3185,11 @@
   "shortName": "Carvana Co.",
   "sector": "Consumer Cyclical",
   "industry": "Auto & Truck Dealerships",
-  "marketCap": 170370711552,
+  "marketCap": 74845224960,
   "trailingPE": 32.615383,
   "forwardPE": 31.669706,
   "pegRatio": 0.24,
-  "priceToSalesTrailing12Months": 6.206357,
+  "priceToSalesTrailing12Months": 2.7265027,
   "revenueGrowth": 0.424,
   "earningsGrowth": 0.857,
   "profitMargins": 0.06215,
@@ -3217,7 +3217,7 @@
   "insider_net_shares": 339134.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "HEI": {
   "shortName": "Heico Corporation",
@@ -3255,7 +3255,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "PUBM": {
   "shortName": "PubMatic, Inc.",
@@ -3282,7 +3282,7 @@
   "currentPrice": 19.51,
   "heldPercentInsiders": 0.00971,
   "shortPercentOfFloat": 0.0876,
-  "longBusinessSummary": "PubMatic, Inc., a technology company, engages in the provision of a cloud infrastructure platform that enables real time programmatic advertising transactions for digital content creators, advertisers, agencies, agency trading desks, and demand side platforms worldwide. Its PubMatic SSP is a sell side platform for the purchase and sale of digital advertising inventory for publishers and buyers. The company also provides OpenWrap, a header bidding solution; Connect, a solution that provides additional data and insights to publishers and buyers; Activate, which allows buyers to execute direct deals on its platform across publisher inventory; Convert, a commerce media solution; and Identity Hub, an ID management tool for publishers that leverages specialized technology infrastructure to simplify alternative identifier marketplace. Its platform supports an array of ad formats and digital device types, including mobile app, mobile web, desktop, display, video, over the top video, connected television, and media. It has strategic partnership with PubMatic to unlock smarter CTV performance for advertisers in live sports. The company was incorporated in 2006 and is based in Redwood City, California.",
+  "longBusinessSummary": "PubMatic, Inc., a technology company, engages in the provision of a cloud infrastructure platform that enables real time programmatic advertising transactions for digital content creators, advertisers, agencies, agency trading desks, and demand side platforms worldwide. Its PubMatic SSP is a sell side platform for the purchase and sale of digital advertising inventory for publishers and buyers. The company also provides OpenWrap, a header bidding solution; Connect, a solution that provides additional data and insights to publishers and buyers; Activate, which allows buyers to execute direct deals on its platform across publisher inventory; Convert, a commerce media solution; and Identity Hub, an ID management tool for publishers that leverages specialized technology infrastructure to simplify alternative identifier marketplace. Its platform supports an array of ad formats and digital device types, including mobile app, mobile web, desktop, display, video, over the top video, connected television, and media. The company was incorporated in 2006 and is based in Redwood City, California.",
   "quarterly_revenue": [
    67960000.0,
    80046000.0,
@@ -3293,17 +3293,17 @@
   "insider_net_shares": 42293.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "HEN3.DE": {
   "shortName": "Henkel AG & Co. KGaA          I",
   "sector": "Consumer Defensive",
   "industry": "Household & Personal Products",
-  "marketCap": 35554004992,
-  "trailingPE": 18.764957,
-  "forwardPE": 14.726325,
+  "marketCap": 35788820480,
+  "trailingPE": 18.88889,
+  "forwardPE": 14.823585,
   "pegRatio": 3.52,
-  "priceToSalesTrailing12Months": 1.7393477,
+  "priceToSalesTrailing12Months": 1.7508351,
   "revenueGrowth": -0.005,
   "earningsGrowth": -0.081,
   "profitMargins": 0.09359,
@@ -3317,12 +3317,12 @@
   "recommendationMean": 2.78947,
   "numberOfAnalystOpinions": 18,
   "targetMeanPrice": 83.14222,
-  "currentPrice": 87.82,
+  "currentPrice": 88.4,
   "heldPercentInsiders": 0.0,
   "shortPercentOfFloat": null,
   "longBusinessSummary": "Henkel AG & Co. KGaA, together with its subsidiaries, engages in the adhesive technologies and consumer brands businesses in Europe, India, the Middle East, Africa, North America, Latin America, the Asia Pacific. It offers adhesives, sealants, and functional coatings for various business areas, including packaging and consumer goods; mobility and electronics; and craftsmen, construction, and professional industries. The company also provides hair styling, hair colorants, and hair care products; and body care products, as well as distributes its products through brick-and-mortar stores, hair salons, and digital channels. In addition, it offers laundry and home care products, such as heavy-duty and specialty detergents, fabric softeners and laundry additives, and other fabric cleaning and fabric care products; dishwashing products; and hard surface and toilet cleaners. Further, the company provides household cleaners products. The company was founded in 1876 and is headquartered in D\u00fcsseldorf, Germany.",
   "insider_net_shares": 0.0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "NOC": {
   "shortName": "Northrop Grumman Corporation",
@@ -3360,7 +3360,7 @@
   "insider_net_shares": 781.0,
   "upgrades_90d": 1,
   "downgrades_90d": 1,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "ANET": {
   "shortName": "Arista Networks, Inc.",
@@ -3406,7 +3406,7 @@
   "industry": "Solar",
   "marketCap": 641760512,
   "trailingPE": null,
-  "forwardPE": 4.9416738,
+  "forwardPE": 4.860892,
   "pegRatio": null,
   "priceToSalesTrailing12Months": 0.57211524,
   "revenueGrowth": -0.161,
@@ -3436,7 +3436,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 1,
   "downgrades_90d": 1,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "WDAY": {
   "shortName": "Workday, Inc.",
@@ -3512,7 +3512,7 @@
   "insider_net_shares": 91837.0,
   "upgrades_90d": 2,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "TGT": {
   "shortName": "Target Corporation",
@@ -3521,7 +3521,7 @@
   "marketCap": 77969956864,
   "trailingPE": 16.005575,
   "forwardPE": 17.615604,
-  "pegRatio": 8.49,
+  "pegRatio": 8.61,
   "priceToSalesTrailing12Months": 0.71204144,
   "revenueGrowth": 0.071,
   "earningsGrowth": 0.755,
@@ -3547,10 +3547,10 @@
    25443000000.0,
    26539000000.0
   ],
-  "insider_net_shares": -130411.0,
+  "insider_net_shares": -155411.0,
   "upgrades_90d": 1,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "MGNI": {
   "shortName": "Magnite, Inc.",
@@ -3588,17 +3588,17 @@
   "insider_net_shares": -402361.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "BAYN.DE": {
   "shortName": "Bayer AG                      N",
   "sector": "Healthcare",
   "industry": "Drug Manufacturers - General",
-  "marketCap": 49789251584,
+  "marketCap": 51891638272,
   "trailingPE": null,
-  "forwardPE": 10.451704,
+  "forwardPE": 10.884056,
   "pegRatio": null,
-  "priceToSalesTrailing12Months": 1.0878617,
+  "priceToSalesTrailing12Months": 1.1337974,
   "revenueGrowth": 0.041,
   "earningsGrowth": null,
   "profitMargins": -0.03162,
@@ -3612,7 +3612,7 @@
   "recommendationMean": 1.88889,
   "numberOfAnalystOpinions": 18,
   "targetMeanPrice": 61.08333,
-  "currentPrice": 50.68,
+  "currentPrice": 52.82,
   "heldPercentInsiders": 0.0,
   "shortPercentOfFloat": null,
   "longBusinessSummary": "Bayer Aktiengesellschaft operates as a life science company in Europe, the Middle East, Africa, Germany, Switzerland, North America, the United States, the Asia Pacific, China, Latin America, and Brazil. It operates through Pharmaceuticals, Consumer Health, and Crop Science segments. The Pharmaceuticals segment provides prescription products primarily for cardiology and women's health care; specialty therapeutics in the areas of oncology, hematology, and ophthalmology; and diagnostic imaging equipment and contrast agents, as well as cell and gene therapy. The Consumer Health segment offers nonprescription over-the-counter medicines for self-medication and self-care; nutritional supplements; allergy, cough, and cold; dermatology; pain and cardiovascular risk prevention; and digestive health products. The Crop Science segment offers chemical and biological crop protection products, improved plant traits, seeds, digital solutions, and pest and weed management products, as well as customer services for agriculture. It also engages in the breeding, propagation, and production/processing of seeds, including seed dressing. The company distributes its products through wholesalers, pharmacies and pharmacy chains, supermarkets, online and other retailers, and hospitals, as well as directly to farmers. Bayer Aktiengesellschaft has a strategic alliance with The University of Colorado Anschutz, along with UCHealth and Children's Hospital Colorado to advance drug development and clinical trials. Bayer Aktiengesellschaft has a strategic alliance Henry Ford Health. It has a commercial agreement with Neste to Jointly scale newgold winter canola for biofuels production. Bayer Aktiengesellschaft was founded in 1863 and is based in Leverkusen, Germany.",
@@ -3624,7 +3624,7 @@
    10053000000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "ROKU": {
   "shortName": "Roku, Inc.",
@@ -5222,17 +5222,17 @@
   "trailingPE": 11.889314,
   "forwardPE": 9.243076,
   "pegRatio": 4.84,
-  "priceToSalesTrailing12Months": 0.47481132,
-  "revenueGrowth": 0.125,
-  "earningsGrowth": -0.113,
-  "profitMargins": 0.04143,
-  "grossMargins": 0.1966,
-  "operatingMargins": 0.06513,
-  "freeCashflow": 3389874944,
-  "totalCash": 4168999936,
-  "totalDebt": 10339000320,
-  "debtToEquity": null,
-  "returnOnEquity": null,
+  "priceToSalesTrailing12Months": 0.4641034,
+  "revenueGrowth": 0.093,
+  "earningsGrowth": 0.011,
+  "profitMargins": 0.04006,
+  "grossMargins": 0.19158001,
+  "operatingMargins": 0.06156,
+  "freeCashflow": 3399624960,
+  "totalCash": 4394999808,
+  "totalDebt": 9274999808,
+  "debtToEquity": 1759.962,
+  "returnOnEquity": 26.795582,
   "recommendationMean": 3.33333,
   "numberOfAnalystOpinions": 17,
   "targetMeanPrice": 27.55294,
@@ -5250,7 +5250,7 @@
   "insider_net_shares": 376070.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "VRT": {
   "shortName": "Vertiv Holdings, LLC",
@@ -5575,9 +5575,9 @@
   "totalDebt": 1850150016,
   "debtToEquity": 66.233,
   "returnOnEquity": -0.03308,
-  "recommendationMean": 2.0,
+  "recommendationMean": 2.04651,
   "numberOfAnalystOpinions": 40,
-  "targetMeanPrice": 254.1085,
+  "targetMeanPrice": 256.8335,
   "currentPrice": 230.86,
   "heldPercentInsiders": 0.34543,
   "shortPercentOfFloat": 0.0482,
@@ -5589,10 +5589,10 @@
    850475000.0,
    898185000.0
   ],
-  "insider_net_shares": -18600.0,
+  "insider_net_shares": -19114.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "PANW": {
   "shortName": "Palo Alto Networks, Inc.",
@@ -5706,7 +5706,7 @@
   "insider_net_shares": -121272.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "MDB": {
   "shortName": "MongoDB, Inc.",
@@ -6453,7 +6453,7 @@
   "numberOfAnalystOpinions": 31,
   "targetMeanPrice": 459.2713,
   "currentPrice": 378.95,
-  "heldPercentInsiders": 0.10313,
+  "heldPercentInsiders": 0.10308,
   "shortPercentOfFloat": 0.0444,
   "longBusinessSummary": "AppLovin Corporation provides end-to-end artificial intelligence-powered advertising solutions for businesses in the United States and internationally. It operates through two segments, Advertising and Apps. The company offers Axon Ads Manager, a suite of marketing solutions that enables developers to automate, optimize, and manage marketing efforts; MAX, an in-app bidding technology that optimizes the value of a publisher's advertising inventory by running a real-time competitive auction; Adjust, a measurement and analytics marketing platform; and Wurl, a connected TV platform, which distributes streaming video for content companies, provides advertising and publishing solutions. It serves individuals, small and independent businesses, enterprises, advertisers and advertising networks, mobile app publishers, and indie studio developers. The company was incorporated in 2011 and is headquartered in Palo Alto, California.",
   "quarterly_revenue": [
@@ -6466,7 +6466,7 @@
   "insider_net_shares": 572744.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "IAS": {
   "shortName": "Integral Ad Science Holding Cor",
@@ -8596,7 +8596,7 @@
   "marketCap": 180523859968,
   "trailingPE": 10.34596,
   "forwardPE": 11.664253,
-  "pegRatio": 0.46,
+  "pegRatio": 0.48,
   "priceToSalesTrailing12Months": 0.5410576,
   "revenueGrowth": 0.056,
   "earningsGrowth": -0.158,
@@ -8610,7 +8610,7 @@
   "returnOnEquity": 0.58384,
   "recommendationMean": 2.84615,
   "numberOfAnalystOpinions": 12,
-  "targetMeanPrice": 45.7293,
+  "targetMeanPrice": 45.705334,
   "currentPrice": 40.97,
   "heldPercentInsiders": 3.0000001e-05,
   "shortPercentOfFloat": 0.0128,
@@ -8625,7 +8625,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "DXCM": {
   "shortName": "DexCom, Inc.",
@@ -8777,7 +8777,7 @@
   "insider_net_shares": -7457.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "AXSM": {
   "shortName": "Axsome Therapeutics, Inc.",
@@ -9461,7 +9461,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "CROX": {
   "shortName": "Crocs, Inc.",
@@ -9470,7 +9470,7 @@
   "marketCap": 7312805376,
   "trailingPE": 12.115909,
   "forwardPE": 9.988776,
-  "pegRatio": 4.09,
+  "pegRatio": 4.17,
   "priceToSalesTrailing12Months": 1.7831118,
   "revenueGrowth": 0.046,
   "earningsGrowth": 0.674,
@@ -9499,7 +9499,7 @@
   "insider_net_shares": 126188.0,
   "upgrades_90d": 1,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "LULU": {
   "shortName": "lululemon athletica inc.",
@@ -9508,7 +9508,7 @@
   "marketCap": 12444344320,
   "trailingPE": 8.842799,
   "forwardPE": 12.465454,
-  "pegRatio": 0.6,
+  "pegRatio": 0.62,
   "priceToSalesTrailing12Months": 1.121723,
   "revenueGrowth": -0.043,
   "earningsGrowth": -0.059,
@@ -9537,7 +9537,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "BIRK": {
   "shortName": "Birkenstock Holding plc",
@@ -9560,11 +9560,11 @@
   "returnOnEquity": 0.12361,
   "recommendationMean": 1.70833,
   "numberOfAnalystOpinions": 22,
-  "targetMeanPrice": 50.30982,
+  "targetMeanPrice": 50.28221,
   "currentPrice": 35.73,
   "heldPercentInsiders": 0.17417,
   "shortPercentOfFloat": 0.1371,
-  "longBusinessSummary": "Birkenstock Holding plc engages in the manufacture and sale of footwear products in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. It offers footbed-based products, including sandals and closed-toe shoes; and skincare products and accessories. The company sells its products through e-commerce sites and a network of owned retail stores, as well as business-to-business channels. The company was formerly known as Birkenstock Group Limited. Birkenstock Holding plc was founded in 1774 and is based in London, the United Kingdom. Birkenstock Holding plc operates as a subsidiary of BK LC Lux MidCo S.\u00e0 r.l.",
+  "longBusinessSummary": "Birkenstock Holding plc engages in the manufacture and sale of footwear products in the Americas, Europe, the Middle East, Africa, Australia, and the Asia Pacific. It offers footbed-based products, including sandals and closed-toe shoes; and skincare products and accessories. The company sells its products through e-commerce sites and a network of owned retail stores, as well as business-to-business channels. The company was formerly known as Birkenstock Group Limited. Birkenstock Holding plc was founded in 1774 and is based in London, the United Kingdom. Birkenstock Holding plc operates as a subsidiary of BK LC Lux MidCo S.\u00e0 r.l.",
   "quarterly_revenue": [
    635042000.0,
    526338000.0,
@@ -9575,7 +9575,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "CAVA": {
   "shortName": "CAVA Group, Inc.",
@@ -9613,7 +9613,7 @@
   "insider_net_shares": -3013522.0,
   "upgrades_90d": 1,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "BROS": {
   "shortName": "Dutch Bros Inc.",
@@ -9660,7 +9660,7 @@
   "marketCap": 47310065664,
   "trailingPE": 34.311928,
   "forwardPE": 28.261396,
-  "pegRatio": 2.01,
+  "pegRatio": 2.05,
   "priceToSalesTrailing12Months": 3.7212532,
   "revenueGrowth": 0.096,
   "earningsGrowth": -0.062,
@@ -9678,7 +9678,7 @@
   "currentPrice": 37.4,
   "heldPercentInsiders": 0.0076800003,
   "shortPercentOfFloat": 0.0292,
-  "longBusinessSummary": "Chipotle Mexican Grill, Inc., together with its subsidiaries, owns and operates Chipotle Mexican Grill restaurants. The company sells food and beverages, such as burritos, burrito bowls, quesadillas, tacos, and salads, as well as kids' meals, chips, and sides. It also offers Mexican-inspired meals using responsibly sourced meats, such as chicken, beef, and pork under the Responsibly Raised brand. In addition, the company provides digital ordering through its website, mobile app, and third-party delivery platforms. It operates in the United States, Canada, France, Germany, South Korea, and the United Kingdom. Chipotle Mexican Grill, Inc. was founded in 1993 and is headquartered in Newport Beach, California.",
+  "longBusinessSummary": "Chipotle Mexican Grill, Inc., together with its subsidiaries, owns and operates Chipotle Mexican Grill restaurants. The company sells food and beverages, such as burritos, burrito bowls, quesadillas, tacos, and salads, as well as kids' meals, chips, and sides. It also offers Mexican-inspired meals using responsibly sourced meats, such as chicken, beef, and pork under the Responsibly Raised brand. In addition, the company provides digital ordering through its website, mobile app, and third-party delivery platforms. It operates in the United States, Canada, France, Germany, Mexico, the Middle East, South Korea, and the United Kingdom. Chipotle Mexican Grill, Inc. was founded in 1993 and is headquartered in Newport Beach, California.",
   "quarterly_revenue": [
    3003444000.0,
    2983511000.0,
@@ -9689,7 +9689,7 @@
   "insider_net_shares": 140235.0,
   "upgrades_90d": 0,
   "downgrades_90d": 1,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "UBER": {
   "shortName": "Uber Technologies, Inc.",
@@ -10041,20 +10041,20 @@
   "trailingPE": null,
   "forwardPE": 30.691292,
   "pegRatio": null,
-  "priceToSalesTrailing12Months": 0.11079334,
-  "revenueGrowth": -0.151,
+  "priceToSalesTrailing12Months": 0.10926086,
+  "revenueGrowth": 0.054,
   "earningsGrowth": null,
-  "profitMargins": -0.04401,
-  "grossMargins": 0.13593,
-  "operatingMargins": -0.06443,
-  "freeCashflow": -9747736576,
-  "totalCash": 85592055808,
-  "totalDebt": 14691901440,
-  "debtToEquity": 22.273,
-  "returnOnEquity": -0.0657,
-  "recommendationMean": null,
+  "profitMargins": -0.04048,
+  "grossMargins": 0.13731,
+  "operatingMargins": -0.05905,
+  "freeCashflow": -264558752,
+  "totalCash": 86080094208,
+  "totalDebt": 17749344256,
+  "debtToEquity": 27.664,
+  "returnOnEquity": -0.062179998,
+  "recommendationMean": 2.375,
   "numberOfAnalystOpinions": 23,
-  "targetMeanPrice": 14.914591,
+  "targetMeanPrice": 14.876358,
   "currentPrice": 11.88,
   "heldPercentInsiders": 0.00059,
   "shortPercentOfFloat": 0.054,
@@ -10069,7 +10069,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "JPM": {
   "shortName": "JP Morgan Chase & Co.",
@@ -10762,7 +10762,7 @@
   "marketCap": 264746729472,
   "trailingPE": 31.900812,
   "forwardPE": 24.246042,
-  "pegRatio": 1.37,
+  "pegRatio": 1.41,
   "priceToSalesTrailing12Months": 2.758152,
   "revenueGrowth": 0.111,
   "earningsGrowth": 0.34,
@@ -10791,7 +10791,7 @@
   "insider_net_shares": 10308.0,
   "upgrades_90d": 0,
   "downgrades_90d": 0,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "BA": {
   "shortName": "Boeing Company (The)",
@@ -11289,11 +11289,11 @@
   "shortName": "DEUTSCHE TELEKOM AG           N",
   "sector": "Communication Services",
   "industry": "Telecom Services",
-  "marketCap": 127217442816,
-  "trailingPE": 14.301075,
-  "forwardPE": 10.41153,
-  "pegRatio": 1.95,
-  "priceToSalesTrailing12Months": 1.0371381,
+  "marketCap": 129847869440,
+  "trailingPE": 14.596774,
+  "forwardPE": 10.592724,
+  "pegRatio": 0.36,
+  "priceToSalesTrailing12Months": 1.0585827,
   "revenueGrowth": 0.075,
   "earningsGrowth": 0.155,
   "profitMargins": 0.073189996,
@@ -11306,8 +11306,8 @@
   "returnOnEquity": 0.15404001,
   "recommendationMean": 1.58824,
   "numberOfAnalystOpinions": 18,
-  "targetMeanPrice": 35.92222,
-  "currentPrice": 26.6,
+  "targetMeanPrice": 35.53333,
+  "currentPrice": 27.15,
   "heldPercentInsiders": 0.28586,
   "shortPercentOfFloat": null,
   "longBusinessSummary": "Deutsche Telekom AG, together with its subsidiaries, provides integrated telecommunication services worldwide. It operates through Germany, United States, Europe, Systems Solutions, and Group Development segments. The company offers fixed-network services, including voice and data communication services based on fixed-network and broadband technology; and sells terminal equipment and other hardware products, as well as services to resellers. It also provides mobile voice and data services to consumers and business customers; sells mobile devices and other hardware products; and sells mobile services to resellers and to companies that buys and markets network services to third parties, such as mobile virtual network operators. In addition, the company offers internet services; internet-based TV products and services; and information and communication technology systems for multinational corporations and public sector institutions with an infrastructure of data centers and network services. Further, it provides wireless communications services; and cloud services, digital solutions, and security and advisory solutions. The company has mobile and broadband customers, as well as fixed-network lines. Deutsche Telekom AG was founded in 1995 and is headquartered in Bonn, Germany.",
@@ -11319,7 +11319,7 @@
    30907000000.0
   ],
   "insider_net_shares": 0.0,
-  "_date": "2026-11-16"
+  "_date": "2026-11-27"
  },
  "IFX.DE": {
   "shortName": "INFINEON TECHNOLOGIES AG      N",
@@ -11718,11 +11718,11 @@
   "shortName": "Qiagen N.V.                   A",
   "sector": "Healthcare",
   "industry": "Diagnostics & Research",
-  "marketCap": 9306798080,
-  "trailingPE": 28.345911,
-  "forwardPE": 19.481306,
-  "pegRatio": 7.82,
-  "priceToSalesTrailing12Months": 4.3990273,
+  "marketCap": 9310928896,
+  "trailingPE": 28.35849,
+  "forwardPE": 19.48995,
+  "pegRatio": 7.8,
+  "priceToSalesTrailing12Months": 4.40098,
   "revenueGrowth": 0.029,
   "earningsGrowth": -0.192,
   "profitMargins": 0.18195,
@@ -11736,7 +11736,7 @@
   "recommendationMean": null,
   "numberOfAnalystOpinions": 5,
   "targetMeanPrice": 43.1,
-  "currentPrice": 45.07,
+  "currentPrice": 45.09,
   "heldPercentInsiders": 0.00481,
   "shortPercentOfFloat": null,
   "longBusinessSummary": "Qiagen N.V. provides sample to insight solutions that transform biological samples into molecular insights worldwide. The company offers sample technology consumables, such as nucleic acid stabilization and purification kits for sample materials, manual and automated processing for genotyping, gene expression, and viral and bacterial analysis, as well as silica membranes and magnetic bead technologies; secondary sample technology consumables, including kits and components for purification of nucleic acids; and instruments for nucleic acid purification, quality control, and accessories. It also provides Immune response consumables, such as interferon-gamma release assay for TB testing, and assays for post-transplant testing and viral load monitoring; oncology and sexual and reproductive health consumables, inclsuing assays for prenatal testing and detection of sexually transmitted diseases and HPV; assays for analysis of genomic variants; and sample to insight instruments, including one-step molecular analysis of hard-to-diagnose syndromes, and integrated PCR testing. The company offers research PCR consumables, such as quantitative PCR, reverse transcription, and combinations kits for analysis of gene expression, genotyping and gene regulation, and running on QIAGEN instruments and technologies; human ID/forensics assay consumables comprising short tandem repeat assays for human ID, and assays for food contamination; PCR instruments, including digital PCR and qPCR solutions; and developed and configured enzymes and PCR solutions. It offers NGS gene panels, library prep kits and components, and whole genome amplification; DNA methylation analysis; QIAGEN consumables and instruments; bioinformatics solutions; and sequence-based assays forensic genetic genealog services. it provides software-as-a-service. It serves molecular diagnostics and life sciences sectors. The company was founded in 1984 and is headquartered in Venlo, the Netherlands.",
@@ -11750,7 +11750,7 @@
   "insider_net_shares": 0.0,
   "upgrades_90d": 1,
   "downgrades_90d": 2,
-  "_date": "2026-11-26"
+  "_date": "2026-11-27"
  },
  "R3NK.DE": {
   "shortName": "RENK Group AG                 I",

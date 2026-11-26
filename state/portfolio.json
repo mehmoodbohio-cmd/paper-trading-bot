@@ -68,8 +68,8 @@
   }
  },
  "started": "2026-11-12T00:54:13.766037+00:00",
- "day": "2026-11-26",
- "day_start_value": 88.21292878252899,
+ "day": "2026-11-27",
+ "day_start_value": 89.35000046200285,
  "last_scan": null,
  "last_summary": "2026-11-26",
  "last_gems": "2026-W48",
@@ -6859,6 +6859,15 @@
     "DAX": 95.7,
     "BTC": 81.82
    }
+  },
+  {
+   "t": "2026-11-26T23:00:30.845733+00:00",
+   "v": 89.35,
+   "b": {
+    "S&P 500": 94.33,
+    "DAX": 93.76,
+    "BTC": 81.73
+   }
   }
  ],
  "fees_paid": 4.132725467052508,
@@ -6867,21 +6876,21 @@
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 5,
+ "trades_today": 0,
  "live_prices": {
   "REGN": 981.8200073242188,
   "ADS.DE": 173.60000610351562,
   "DIS": 125.62000274658203
  },
- "fx": 1.0968520641326904,
+ "fx": 1.0974539518356323,
  "mood": {
   "stocks": [
    "cautious",
    "S&P 500 below its 50-day average"
   ],
   "eu_stocks": [
-   "cautious",
-   "DAX below its 50-day average"
+   "risk-off",
+   "DAX below 50-day average and down -1.3% today"
   ],
   "crypto": [
    "cautious",
@@ -6889,11 +6898,11 @@
   ]
  },
  "last_skipped": [
-  "STX: confidence 44% below 50%",
+  "STX: confidence 37% below 50%",
   "PEPE: confidence 36% below 50%",
   "NEAR: confidence 38% below 50%",
   "INJ: confidence 36% below 50%",
   "ICP: negative news (-0.32)",
-  "XTZ: confidence 47% below 50%"
+  "SAND: good setup, but no cash left (fully invested)"
  ]
 }
