@@ -6850,6 +6850,15 @@
     "DAX": 95.7,
     "BTC": 82.07
    }
+  },
+  {
+   "t": "2026-11-26T22:30:31.481402+00:00",
+   "v": 89.38,
+   "b": {
+    "S&P 500": 94.33,
+    "DAX": 95.7,
+    "BTC": 81.82
+   }
   }
  ],
  "fees_paid": 4.132725467052508,
@@ -6864,7 +6873,7 @@
   "ADS.DE": 173.60000610351562,
   "DIS": 125.62000274658203
  },
- "fx": 1.0972130298614502,
+ "fx": 1.0968520641326904,
  "mood": {
   "stocks": [
    "cautious",
@@ -6881,10 +6890,10 @@
  },
  "last_skipped": [
   "STX: confidence 44% below 50%",
-  "PEPE: confidence 49% below 50%",
-  "INJ: confidence 48% below 50%",
+  "PEPE: confidence 36% below 50%",
+  "NEAR: confidence 38% below 50%",
+  "INJ: confidence 36% below 50%",
   "ICP: negative news (-0.32)",
-  "XTZ: confidence 47% below 50%",
-  "NEAR: good setup, but no cash left (fully invested)"
+  "XTZ: confidence 47% below 50%"
  ]
 }
