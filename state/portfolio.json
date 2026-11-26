@@ -48,8 +48,8 @@
    "units": 96.60700591982757,
    "entry_price": 0.21979999542236328,
    "cost_eur": 19.371448711538577,
-   "peak": 0.2290000021457672,
-   "last_price": 0.22759999334812164,
+   "peak": 0.22920000553131104,
+   "last_price": 0.22920000553131104,
    "opened": "2026-11-25T17:30:57.854152+00:00",
    "reasons": [
     "daily scan score 0.43 (charts 0.43)",
@@ -66,8 +66,8 @@
    "units": 12.683681261520569,
    "entry_price": 1.2656999826431274,
    "cost_eur": 14.645422109234618,
-   "peak": 1.3091000318527222,
-   "last_price": 1.3091000318527222,
+   "peak": 1.3149000406265259,
+   "last_price": 1.3149000406265259,
    "opened": "2026-11-25T17:30:57.854152+00:00",
    "reasons": [
     "daily scan score 0.39 (charts 0.39)",
@@ -6440,6 +6440,15 @@
     "DAX": 94.95,
     "BTC": 82.1
    }
+  },
+  {
+   "t": "2026-11-26T01:00:31.363285+00:00",
+   "v": 89.08,
+   "b": {
+    "S&P 500": 94.6,
+    "DAX": 94.95,
+    "BTC": 81.65
+   }
   }
  ],
  "fees_paid": 3.899927032352976,
@@ -6452,10 +6461,10 @@
  "live_prices": {
   "REGN": 981.8200073242188,
   "ADS.DE": 170.8000030517578,
-  "JUP29210-USD": 0.22759999334812164,
-  "RENDER-USD": 1.3091000318527222
+  "JUP29210-USD": 0.22920000553131104,
+  "RENDER-USD": 1.3149000406265259
  },
- "fx": 1.0974539518356323,
+ "fx": 1.0976948738098145,
  "mood": {
   "stocks": [
    "cautious",
@@ -6472,11 +6481,11 @@
  },
  "last_skipped": [
   "QNT: confidence 49% below 50%",
-  "INJ: confidence 48% below 50%",
+  "STX: confidence 49% below 50%",
   "ICP: negative news (-0.32)",
   "XTZ: confidence 47% below 50%",
   "NEAR: good setup, but no cash left (fully invested)",
-  "STX: good setup, but no cash left (fully invested)",
-  "PEPE: good setup, but no cash left (fully invested)"
+  "PEPE: good setup, but no cash left (fully invested)",
+  "INJ: good setup, but no cash left (fully invested)"
  ]
 }
