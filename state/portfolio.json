@@ -28,7 +28,7 @@
    "entry_price": 169.5500030517578,
    "cost_eur": 23.291794181348948,
    "peak": 173.85000610351562,
-   "last_price": 173.35000610351562,
+   "last_price": 173.0,
    "opened": "2026-11-25T14:30:31.590183+00:00",
    "reasons": [
     "daily scan score 0.75 (charts 0.75, company health 0.75)",
@@ -6706,6 +6706,15 @@
     "DAX": 95.8,
     "BTC": 81.98
    }
+  },
+  {
+   "t": "2026-11-26T15:30:30.987149+00:00",
+   "v": 89.26,
+   "b": {
+    "S&P 500": 94.33,
+    "DAX": 95.81,
+    "BTC": 81.45
+   }
   }
  ],
  "fees_paid": 4.132725467052508,
@@ -6717,10 +6726,10 @@
  "trades_today": 5,
  "live_prices": {
   "REGN": 981.8200073242188,
-  "ADS.DE": 173.35000610351562,
+  "ADS.DE": 173.0,
   "DIS": 125.62000274658203
  },
- "fx": 1.0982975959777832,
+ "fx": 1.0976948738098145,
  "mood": {
   "stocks": [
    "cautious",
@@ -6736,19 +6745,19 @@
   ]
  },
  "last_skipped": [
+  "STX: confidence 37% below 50%",
   "PEPE: confidence 36% below 50%",
   "NEAR: confidence 38% below 50%",
   "INJ: confidence 36% below 50%",
   "ICP: negative news (-0.32)",
+  "XTZ: confidence 34% below 50%",
   "ZS: good setup, but no cash left (fully invested)",
   "CARG: good setup, but no cash left (fully invested)",
   "APP: good setup, but no cash left (fully invested)",
   "V: good setup, but no cash left (fully invested)",
   "TDG: good setup, but no cash left (fully invested)",
   "CVNA: good setup, but no cash left (fully invested)",
-  "STX: good setup, but no cash left (fully invested)",
   "U: good setup, but no cash left (fully invested)",
-  "XTZ: good setup, but no cash left (fully invested)",
   "ABNB: good setup, but no cash left (fully invested)",
   "MGNI: good setup, but no cash left (fully invested)"
  ]
