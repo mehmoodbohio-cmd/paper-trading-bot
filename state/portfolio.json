@@ -7314,6 +7314,15 @@
     "DAX": 96.56,
     "BTC": 80.79
    }
+  },
+  {
+   "t": "2026-11-27T21:00:31.144287+00:00",
+   "v": 88.58,
+   "b": {
+    "S&P 500": 95.86,
+    "DAX": 96.56,
+    "BTC": 80.81
+   }
   }
  ],
  "fees_paid": 4.416440587816661,
@@ -7329,7 +7338,7 @@
   "CARG": 33.060001373291016,
   "PUBM": 20.190000534057617
  },
- "fx": 1.0938525199890137,
+ "fx": 1.0937328338623047,
  "mood": {
   "stocks": [
    "cautious",
@@ -7352,13 +7361,6 @@
   "NEAR: market mood risk-off",
   "INJ: market mood risk-off",
   "ICP: market mood risk-off",
-  "SAND: market mood risk-off",
-  "U: good setup, but no cash left (fully invested)",
-  "APP: good setup, but no cash left (fully invested)",
-  "MGNI: good setup, but no cash left (fully invested)",
-  "ABNB: good setup, but no cash left (fully invested)",
-  "TDG: good setup, but no cash left (fully invested)",
-  "LLY: good setup, but no cash left (fully invested)",
-  "V: good setup, but no cash left (fully invested)"
+  "SAND: market mood risk-off"
  ]
 }
