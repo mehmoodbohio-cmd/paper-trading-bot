@@ -7287,6 +7287,15 @@
     "DAX": 96.56,
     "BTC": 80.9
    }
+  },
+  {
+   "t": "2026-11-27T19:30:31.522928+00:00",
+   "v": 88.59,
+   "b": {
+    "S&P 500": 95.86,
+    "DAX": 96.56,
+    "BTC": 81.01
+   }
   }
  ],
  "fees_paid": 4.416440587816661,
@@ -7313,25 +7322,24 @@
    "DAX below its 50-day average"
   ],
   "crypto": [
-   "risk-off",
-   "BTC below 50-day average and down -1.1% today"
+   "cautious",
+   "BTC below its 50-day average"
   ]
  },
  "last_skipped": [
-  "JUP: market mood risk-off",
-  "STX: market mood risk-off",
-  "QNT: market mood risk-off",
-  "PEPE: market mood risk-off",
-  "NEAR: market mood risk-off",
-  "INJ: market mood risk-off",
-  "ICP: market mood risk-off",
-  "SAND: market mood risk-off",
+  "QNT: confidence 36% below 50%",
+  "ICP: negative news (-0.32)",
   "U: good setup, but no cash left (fully invested)",
   "APP: good setup, but no cash left (fully invested)",
   "MGNI: good setup, but no cash left (fully invested)",
   "ABNB: good setup, but no cash left (fully invested)",
   "TDG: good setup, but no cash left (fully invested)",
   "LLY: good setup, but no cash left (fully invested)",
-  "V: good setup, but no cash left (fully invested)"
+  "V: good setup, but no cash left (fully invested)",
+  "CVNA: good setup, but no cash left (fully invested)",
+  "STX: good setup, but no cash left (fully invested)",
+  "PEPE: good setup, but no cash left (fully invested)",
+  "INJ: good setup, but no cash left (fully invested)",
+  "SAND: good setup, but no cash left (fully invested)"
  ]
 }
