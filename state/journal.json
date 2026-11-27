@@ -1854,7 +1854,12 @@
    "market mood: BTC below its 50-day average",
    "size 14.61 EUR = 17% of portfolio (confidence x0.60, volatility x1.00)"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-27T23:00:31.126524+00:00",
+   "price": 1.394700050354004,
+   "move": 0.10191994112340041,
+   "right": true
+  }
  },
  {
   "id": 81,
@@ -1868,7 +1873,12 @@
   "reasons": [
    "trend broke: short-term: falling (-0.9% in 2h), below 10-hour average, and below its 20-day average"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-27T23:00:31.126524+00:00",
+   "price": 1.394700050354004,
+   "move": 0.07367207369648443,
+   "right": false
+  }
  },
  {
   "id": 82,
