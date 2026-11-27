@@ -1948,5 +1948,61 @@
    "size 27.77 EUR = 31% of portfolio (confidence x0.78, volatility x1.00)"
   ],
   "check": null
+ },
+ {
+  "id": 86,
+  "time": "2026-11-27T08:30:31.366052+00:00",
+  "ticker": "ADS.DE",
+  "side": "SELL",
+  "price": 171.1999969482422,
+  "eur": 23.46,
+  "fee": 0.059,
+  "confidence": null,
+  "reasons": [
+   "trend broke: short-term: falling (-1.3% in 2h), below 10-hour average, and below its 20-day average"
+  ],
+  "check": null
+ },
+ {
+  "id": 87,
+  "time": "2026-11-27T08:30:31.366052+00:00",
+  "ticker": "NEAR-USD",
+  "side": "BUY",
+  "price": 3.1050000190734863,
+  "eur": 21.69,
+  "fee": 0.054,
+  "confidence": 0.6091785386889009,
+  "reasons": [
+   "daily scan score 0.43 (charts 0.43)",
+   "downtrend (below its moving averages)",
+   "momentum stronger than 94% of the scan (3-month -43%)",
+   "RSI 39",
+   "short-term: above its 10-hour average and up +0.2% in 2h",
+   "good news: \"These 4 Cryptocurrencies Could See the Biggest Gains in 2027, According to BitMEX Co-Founder Arthur Hayes\" (gains)",
+   "market mood: BTC below its 50-day average",
+   "size 21.69 EUR = 24% of portfolio (confidence x0.61, volatility x1.00)"
+  ],
+  "check": null
+ },
+ {
+  "id": 88,
+  "time": "2026-11-27T08:30:31.366052+00:00",
+  "ticker": "JUP29210-USD",
+  "side": "BUY",
+  "price": 0.24779999256134033,
+  "eur": 9.1,
+  "fee": 0.023,
+  "confidence": 0.5911348859176941,
+  "reasons": [
+   "daily scan score 0.51 (charts 0.51)",
+   "downtrend (below its moving averages)",
+   "momentum stronger than 90% of the scan (3-month -37%)",
+   "RSI 46",
+   "short-term: above its 10-hour average, pausing",
+   "good news: \"Solana\u2019s Tokenized Stock Market Surpasses $600M as Equities Gain Traction as DeFi Collateral\" (surpasses, gain)",
+   "market mood: BTC below its 50-day average",
+   "size 9.10 EUR = 10% of portfolio (confidence x0.59, volatility x0.87)"
+  ],
+  "check": null
  }
 ]
