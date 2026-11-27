@@ -6,7 +6,7 @@
    "entry_price": 938.5,
    "cost_eur": 29.015583699333593,
    "peak": 988.3400268554688,
-   "last_price": 981.4500122070312,
+   "last_price": 985.7100219726562,
    "opened": "2026-11-20T14:30:31.758108+00:00",
    "reasons": [
     "daily scan score 0.83 (charts 0.78, company health 0.90)",
@@ -27,8 +27,8 @@
    "units": 0.24276246801026347,
    "entry_price": 125.62000274658203,
    "cost_eur": 27.835863034685445,
-   "peak": 126.79499816894531,
-   "last_price": 126.58000183105469,
+   "peak": 127.02999877929688,
+   "last_price": 127.02999877929688,
    "opened": "2026-11-26T15:00:31.267570+00:00",
    "reasons": [
     "daily scan score 0.79 (charts 0.74, company health 0.86)",
@@ -50,7 +50,7 @@
    "entry_price": 32.90999984741211,
    "cost_eur": 20.6219833837163,
    "peak": 33.27000045776367,
-   "last_price": 33.27000045776367,
+   "last_price": 33.154998779296875,
    "opened": "2026-11-27T15:00:31.601509+00:00",
    "reasons": [
     "daily scan score 0.78 (charts 0.71, company health 0.88)",
@@ -71,8 +71,8 @@
    "units": 0.4853153423404534,
    "entry_price": 20.25,
    "cost_eur": 8.999989629093733,
-   "peak": 20.25,
-   "last_price": 20.25,
+   "peak": 20.395000457763672,
+   "last_price": 20.395000457763672,
    "opened": "2026-11-27T15:30:31.058258+00:00",
    "reasons": [
     "daily scan score 0.76 (charts 0.76, company health 0.75)",
@@ -7215,6 +7215,15 @@
     "DAX": 96.38,
     "BTC": 80.89
    }
+  },
+  {
+   "t": "2026-11-27T16:00:30.796598+00:00",
+   "v": 88.49,
+   "b": {
+    "S&P 500": 95.46,
+    "DAX": 96.56,
+    "BTC": 81.2
+   }
   }
  ],
  "fees_paid": 4.416440587816661,
@@ -7225,12 +7234,12 @@
  },
  "trades_today": 7,
  "live_prices": {
-  "REGN": 981.4500122070312,
-  "DIS": 126.58000183105469,
-  "CARG": 33.27000045776367,
-  "PUBM": 20.25
+  "REGN": 985.7100219726562,
+  "DIS": 127.02999877929688,
+  "CARG": 33.154998779296875,
+  "PUBM": 20.395000457763672
  },
- "fx": 1.0946906805038452,
+ "fx": 1.0943313837051392,
  "mood": {
   "stocks": [
    "cautious",
@@ -7241,25 +7250,24 @@
    "DAX below its 50-day average"
   ],
   "crypto": [
-   "risk-off",
-   "BTC below 50-day average and down -1.1% today"
+   "cautious",
+   "BTC below its 50-day average"
   ]
  },
  "last_skipped": [
-  "JUP: market mood risk-off",
-  "STX: market mood risk-off",
-  "QNT: market mood risk-off",
-  "PEPE: market mood risk-off",
-  "NEAR: market mood risk-off",
-  "INJ: market mood risk-off",
-  "ICP: market mood risk-off",
-  "SAND: market mood risk-off",
+  "STX: confidence 37% below 50%",
+  "QNT: confidence 36% below 50%",
+  "PEPE: confidence 36% below 50%",
+  "INJ: confidence 36% below 50%",
+  "ICP: negative news (-0.32)",
+  "SAND: confidence 34% below 50%",
   "V: good setup, but no cash left (fully invested)",
   "U: good setup, but no cash left (fully invested)",
   "APP: good setup, but no cash left (fully invested)",
   "MGNI: good setup, but no cash left (fully invested)",
   "ABNB: good setup, but no cash left (fully invested)",
   "TDG: good setup, but no cash left (fully invested)",
-  "CVNA: good setup, but no cash left (fully invested)"
+  "CVNA: good setup, but no cash left (fully invested)",
+  "LLY: good setup, but no cash left (fully invested)"
  ]
 }
