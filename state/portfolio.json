@@ -6,7 +6,7 @@
    "entry_price": 938.5,
    "cost_eur": 29.015583699333593,
    "peak": 988.3400268554688,
-   "last_price": 981.8200073242188,
+   "last_price": 981.8699951171875,
    "opened": "2026-11-20T14:30:31.758108+00:00",
    "reasons": [
     "daily scan score 0.83 (charts 0.78, company health 0.90)",
@@ -27,8 +27,8 @@
    "units": 0.24276246801026347,
    "entry_price": 125.62000274658203,
    "cost_eur": 27.835863034685445,
-   "peak": 125.62000274658203,
-   "last_price": 125.61000061035156,
+   "peak": 126.18000030517578,
+   "last_price": 126.18000030517578,
    "opened": "2026-11-26T15:00:31.267570+00:00",
    "reasons": [
     "daily scan score 0.79 (charts 0.74, company health 0.86)",
@@ -50,7 +50,7 @@
    "entry_price": 3.1050000190734863,
    "cost_eur": 21.739594548710556,
    "peak": 3.1261000633239746,
-   "last_price": 3.089900016784668,
+   "last_price": 3.043299913406372,
    "opened": "2026-11-27T08:30:31.366052+00:00",
    "reasons": [
     "daily scan score 0.43 (charts 0.43)",
@@ -68,7 +68,7 @@
    "entry_price": 0.24779999256134033,
    "cost_eur": 9.119281029460826,
    "peak": 0.2526000142097473,
-   "last_price": 0.2526000142097473,
+   "last_price": 0.2515999972820282,
    "opened": "2026-11-27T08:30:31.366052+00:00",
    "reasons": [
     "daily scan score 0.51 (charts 0.51)",
@@ -7180,6 +7180,15 @@
     "DAX": 96.32,
     "BTC": 83.02
    }
+  },
+  {
+   "t": "2026-11-27T14:30:31.305035+00:00",
+   "v": 88.91,
+   "b": {
+    "S&P 500": 95.4,
+    "DAX": 96.17,
+    "BTC": 82.63
+   }
   }
  ],
  "fees_paid": 4.268329797060169,
@@ -7190,12 +7199,12 @@
  },
  "trades_today": 3,
  "live_prices": {
-  "REGN": 981.8200073242188,
-  "DIS": 125.61000061035156,
-  "NEAR-USD": 3.089900016784668,
-  "JUP29210-USD": 0.2526000142097473
+  "REGN": 981.8699951171875,
+  "DIS": 126.18000030517578,
+  "NEAR-USD": 3.043299913406372,
+  "JUP29210-USD": 0.2515999972820282
  },
- "fx": 1.0952903032302856,
+ "fx": 1.0949305295944214,
  "mood": {
   "stocks": [
    "cautious",
@@ -7213,9 +7222,18 @@
  "last_skipped": [
   "STX: confidence 37% below 50%",
   "QNT: confidence 36% below 50%",
-  "PEPE: confidence 49% below 50%",
-  "INJ: confidence 48% below 50%",
+  "PEPE: confidence 36% below 50%",
+  "INJ: confidence 36% below 50%",
   "ICP: negative news (-0.32)",
-  "SAND: good setup, but no cash left (fully invested)"
+  "PUBM: good setup, but no cash left (fully invested)",
+  "U: good setup, but no cash left (fully invested)",
+  "APP: good setup, but no cash left (fully invested)",
+  "MGNI: good setup, but no cash left (fully invested)",
+  "TDG: good setup, but no cash left (fully invested)",
+  "CVNA: good setup, but no cash left (fully invested)",
+  "CARG: good setup, but no cash left (fully invested)",
+  "V: good setup, but no cash left (fully invested)",
+  "ABNB: good setup, but no cash left (fully invested)",
+  "LLY: good setup, but no cash left (fully invested)"
  ]
 }
