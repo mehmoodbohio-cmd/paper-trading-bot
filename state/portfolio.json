@@ -1,12 +1,12 @@
 {
- "cash": 0.0,
+ "cash": -1.7763568394002505e-15,
  "positions": {
   "REGN": {
    "units": 0.03388625344226112,
    "entry_price": 938.5,
    "cost_eur": 29.015583699333593,
    "peak": 988.3400268554688,
-   "last_price": 978.6500244140625,
+   "last_price": 981.4500122070312,
    "opened": "2026-11-20T14:30:31.758108+00:00",
    "reasons": [
     "daily scan score 0.83 (charts 0.78, company health 0.90)",
@@ -28,7 +28,7 @@
    "entry_price": 125.62000274658203,
    "cost_eur": 27.835863034685445,
    "peak": 126.79499816894531,
-   "last_price": 126.79499816894531,
+   "last_price": 126.58000183105469,
    "opened": "2026-11-26T15:00:31.267570+00:00",
    "reasons": [
     "daily scan score 0.79 (charts 0.74, company health 0.86)",
@@ -45,30 +45,12 @@
     "size 27.77 EUR = 31% of portfolio (confidence x0.78, volatility x1.00)"
    ]
   },
-  "JUP29210-USD": {
-   "units": 40.26456264839659,
-   "entry_price": 0.24779999256134033,
-   "cost_eur": 9.119281029460826,
-   "peak": 0.2526000142097473,
-   "last_price": 0.2483000010251999,
-   "opened": "2026-11-27T08:30:31.366052+00:00",
-   "reasons": [
-    "daily scan score 0.51 (charts 0.51)",
-    "downtrend (below its moving averages)",
-    "momentum stronger than 90% of the scan (3-month -37%)",
-    "RSI 46",
-    "short-term: above its 10-hour average, pausing",
-    "good news: \"Solana\u2019s Tokenized Stock Market Surpasses $600M as Equities Gain Traction as DeFi Collateral\" (surpasses, gain)",
-    "market mood: BTC below its 50-day average",
-    "size 9.10 EUR = 10% of portfolio (confidence x0.59, volatility x0.87)"
-   ]
-  },
   "CARG": {
    "units": 0.6845415479218151,
    "entry_price": 32.90999984741211,
    "cost_eur": 20.6219833837163,
-   "peak": 32.90999984741211,
-   "last_price": 32.90999984741211,
+   "peak": 33.27000045776367,
+   "last_price": 33.27000045776367,
    "opened": "2026-11-27T15:00:31.601509+00:00",
    "reasons": [
     "daily scan score 0.78 (charts 0.71, company health 0.88)",
@@ -83,6 +65,28 @@
     "risks: 20% of shares sold short: many investors bet against it",
     "market mood: S&P 500 below its 50-day average",
     "size 20.57 EUR = 23% of portfolio (confidence x0.83, volatility x1.00)"
+   ]
+  },
+  "PUBM": {
+   "units": 0.4853153423404534,
+   "entry_price": 20.25,
+   "cost_eur": 8.999989629093733,
+   "peak": 20.25,
+   "last_price": 20.25,
+   "opened": "2026-11-27T15:30:31.058258+00:00",
+   "reasons": [
+    "daily scan score 0.76 (charts 0.76, company health 0.75)",
+    "uptrend (price above 50-day average, 20-day above 50-day)",
+    "momentum stronger than 89% of the scan (3-month +20%)",
+    "RSI 55",
+    "sales growing +17% a year",
+    "generates cash",
+    "low debt",
+    "short-term: above its 10-hour average and up +3.1% in 2h",
+    "good news: \"5 Stocks With Recent Price Strength Despite a Capricious Wall Street\" (strength, despite)",
+    "risks: loses money (margin -0%)",
+    "market mood: S&P 500 below its 50-day average",
+    "size 8.98 EUR = 10% of portfolio (confidence x0.82, volatility x0.92)"
    ]
   }
  },
@@ -117,7 +121,7 @@
   "SRT3.DE": "2026-11-24T11:00:31.408853+00:00",
   "COST": "2026-11-24T14:30:31.371012+00:00",
   "APP": "2026-11-24T14:30:31.371012+00:00",
-  "JUP29210-USD": "2026-11-26T15:00:31.267570+00:00"
+  "JUP29210-USD": "2026-11-27T15:30:31.058258+00:00"
  },
  "history": [
   {
@@ -7202,22 +7206,31 @@
     "DAX": 96.12,
     "BTC": 79.75
    }
+  },
+  {
+   "t": "2026-11-27T15:30:31.058258+00:00",
+   "v": 88.23,
+   "b": {
+    "S&P 500": 95.2,
+    "DAX": 96.38,
+    "BTC": 80.89
+   }
   }
  ],
- "fees_paid": 4.3714403584197585,
+ "fees_paid": 4.416440587816661,
  "benchmarks_start": {
   "SPY": 759.8099975585938,
   "^GDAXI": 26347.44921875,
   "BTC-USD": 73947.7578125
  },
- "trades_today": 5,
+ "trades_today": 7,
  "live_prices": {
-  "REGN": 978.6500244140625,
-  "DIS": 126.79499816894531,
-  "JUP29210-USD": 0.2483000010251999,
-  "CARG": 32.90999984741211
+  "REGN": 981.4500122070312,
+  "DIS": 126.58000183105469,
+  "CARG": 33.27000045776367,
+  "PUBM": 20.25
  },
- "fx": 1.095170259475708,
+ "fx": 1.0946906805038452,
  "mood": {
   "stocks": [
    "cautious",
@@ -7229,10 +7242,11 @@
   ],
   "crypto": [
    "risk-off",
-   "BTC below 50-day average and down -2.5% today"
+   "BTC below 50-day average and down -1.1% today"
   ]
  },
  "last_skipped": [
+  "JUP: market mood risk-off",
   "STX: market mood risk-off",
   "QNT: market mood risk-off",
   "PEPE: market mood risk-off",
@@ -7240,7 +7254,6 @@
   "INJ: market mood risk-off",
   "ICP: market mood risk-off",
   "SAND: market mood risk-off",
-  "PUBM: good setup, but no cash left (fully invested)",
   "V: good setup, but no cash left (fully invested)",
   "U: good setup, but no cash left (fully invested)",
   "APP: good setup, but no cash left (fully invested)",
