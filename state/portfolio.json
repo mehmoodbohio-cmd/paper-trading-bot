@@ -7422,6 +7422,15 @@
     "DAX": 95.7,
     "BTC": 81.31
    }
+  },
+  {
+   "t": "2026-11-28T02:30:30.966147+00:00",
+   "v": 88.3,
+   "b": {
+    "S&P 500": 94.33,
+    "DAX": 95.7,
+    "BTC": 81.18
+   }
   }
  ],
  "fees_paid": 4.416440587816661,
@@ -7453,12 +7462,12 @@
   ]
  },
  "last_skipped": [
+  "STX: confidence 50% below 50%",
+  "QNT: confidence 36% below 50%",
+  "PEPE: confidence 49% below 50%",
   "INJ: confidence 36% below 50%",
   "RENDER: good setup, but no cash left (fully invested)",
-  "WIF: good setup, but no cash left (fully invested)",
-  "STX: good setup, but no cash left (fully invested)",
-  "PEPE: good setup, but no cash left (fully invested)",
-  "QNT: good setup, but no cash left (fully invested)",
-  "XTZ: good setup, but no cash left (fully invested)"
+  "XTZ: good setup, but no cash left (fully invested)",
+  "WIF: good setup, but no cash left (fully invested)"
  ]
 }
