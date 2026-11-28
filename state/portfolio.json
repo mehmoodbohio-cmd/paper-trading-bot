@@ -7449,6 +7449,15 @@
     "DAX": 96.56,
     "BTC": 80.91
    }
+  },
+  {
+   "t": "2026-11-28T04:00:31.186844+00:00",
+   "v": 88.3,
+   "b": {
+    "S&P 500": 95.86,
+    "DAX": 96.56,
+    "BTC": 81.09
+   }
   }
  ],
  "fees_paid": 4.416440587816661,
@@ -7475,18 +7484,18 @@
    "DAX below its 50-day average"
   ],
   "crypto": [
-   "risk-off",
-   "BTC below 50-day average and down -1.1% today"
+   "cautious",
+   "BTC below its 50-day average"
   ]
  },
  "last_skipped": [
-  "JUP: market mood risk-off",
-  "RENDER: market mood risk-off",
-  "WIF: market mood risk-off",
-  "XTZ: market mood risk-off",
-  "STX: market mood risk-off",
-  "QNT: market mood risk-off",
-  "PEPE: market mood risk-off",
-  "INJ: market mood risk-off"
+  "JUP: confidence 48% below 50%",
+  "WIF: confidence 39% below 50%",
+  "STX: confidence 37% below 50%",
+  "QNT: confidence 36% below 50%",
+  "PEPE: confidence 36% below 50%",
+  "INJ: confidence 36% below 50%",
+  "RENDER: good setup, but no cash left (fully invested)",
+  "XTZ: good setup, but no cash left (fully invested)"
  ]
 }
