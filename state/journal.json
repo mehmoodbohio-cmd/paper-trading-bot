@@ -2028,7 +2028,12 @@
    "market mood: BTC below its 50-day average",
    "size 9.10 EUR = 10% of portfolio (confidence x0.59, volatility x0.87)"
   ],
-  "check": null
+  "check": {
+   "time": "2026-11-28T08:30:31.510878+00:00",
+   "price": 0.24469999969005585,
+   "move": -0.012510060388791655,
+   "right": false
+  }
  },
  {
   "id": 89,
