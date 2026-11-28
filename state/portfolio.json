@@ -7701,6 +7701,15 @@
     "DAX": 96.56,
     "BTC": 80.3
    }
+  },
+  {
+   "t": "2026-11-28T17:00:31.232531+00:00",
+   "v": 88.3,
+   "b": {
+    "S&P 500": 95.86,
+    "DAX": 96.56,
+    "BTC": 80.54
+   }
   }
  ],
  "fees_paid": 4.416440587816661,
@@ -7735,10 +7744,10 @@
   "JUP: confidence 48% below 50%",
   "RENDER: confidence 44% below 50%",
   "WIF: confidence 39% below 50%",
-  "XTZ: confidence 39% below 50%",
   "STX: confidence 37% below 50%",
-  "QNT: confidence 36% below 50%",
-  "PEPE: confidence 36% below 50%",
-  "INJ: confidence 36% below 50%"
+  "QNT: confidence 44% below 50%",
+  "PEPE: confidence 44% below 50%",
+  "INJ: confidence 36% below 50%",
+  "XTZ: good setup, but no cash left (fully invested)"
  ]
 }
